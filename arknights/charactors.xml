@@ -1,5 +1,5 @@
 <chractors>
   <info id="0" code="absinthe" name="백파이프" rare="6" group="빅토리아 왕국" gender="g" position="c" Class="vangaurd" >
-    <ui_icon url="" path=""/>
+    <ui_icon url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/charactor.icon/absinthe.png" path="files/arknights/asset.ui/charactor.icon/absinthe.png"/>
   </info>
 </chractors>
