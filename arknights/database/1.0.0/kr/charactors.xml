@@ -270,8 +270,8 @@
   <info id="113" code="w" name="W" rare="6" group="babel" gender="g" position="c" Class="sniper" >
     <ui_icon url="main#w.png" path="main#w.png"/>
   </info>
-  <info id="197" code="pоса" name="로사" rare="6" group="ussg" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#оса.png" path="main#оса.png"/>
+  <info id="197" code="rosa" name="로사" rare="6" group="ussg" gender="g" position="c" Class="sniper" >
+    <ui_icon url="main#rosa.png" path="main#rosa.png"/>
   </info>
   <info id="218" code="andreanaоса" name="안드레아나" rare="5" group="abyssal_hunters" gender="g" position="c" Class="sniper" >
     <ui_icon url="main#andreana.png" path="main#andreana.png"/>
