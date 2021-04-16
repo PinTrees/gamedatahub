@@ -36,9 +36,6 @@
   <info id="198" code="courier" name="쿠리어" rare="4" group="karlan" gender="m" position="c" Class="vanguard" >
     <ui_icon url="main#courier.png" path="main#courier.png"/>
   </info>
-  <info id="198" code="courier" name="쿠리어" rare="4" group="karlan" gender="m" position="c" Class="vanguard" >
-    <ui_icon url="main#courier.png" path="main#courier.png"/>
-  </info>
   <info id="151" code="myrtle" name="머틀" rare="4" group="rhodes" gender="g" position="c" Class="vanguard" >
     <ui_icon url="main#myrtle.png" path="main#myrtle.png"/>
   </info>
@@ -420,9 +417,6 @@
   </info>
   <info id="210" code="steward" name="스튜어드" rare="3" group="reop_team_a4" gender="m" position="r" Class="caster" >
     <ui_icon url="main#steward.png" path="main#steward.png"/>
-  </info>
-  <info id="009" code="12f" name="12F" rare="2" group="rhodes" gender="m" position="r" Class="caster" >
-    <ui_icon url="main#12f.png" path="main#12f.png"/>
   </info>
   <info id="009" code="12f" name="12F" rare="2" group="rhodes" gender="m" position="r" Class="caster" >
     <ui_icon url="main#12f.png" path="main#12f.png"/>
