@@ -1,8 +1,10 @@
 <chractors>
-  <url url="main#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/"
+  <url url="main#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/
+       #fun#https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/kr/charactor/"
        file="main#files/arknights/asset.image/icon.charactor/"/>
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" Class="vanguard" >
     <ui_icon url="main#bagpipe.png" path="main#bagpipe.png"/>
+    <fun url="fun#bagpipe.xml" path=""/>
   </info>
   <info id="362" code="saga" name="세가" rare="6" group="higashi" gender="g" position="c" Class="vanguard" >
     <ui_icon url="main#saga.png" path="main#saga.png"/>
