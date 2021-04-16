@@ -550,8 +550,8 @@
   <info id="173" code="cliffheart" name="클리프하트" rare="5" group="karlan_trade" gender="c" position="r" Class="specialist" >
     <ui_icon url="main#cliffheart.png" path="main#cliffheart.png"/>
   </info>
-  <info id="241" code="fEater" name="에프이터" rare="5" group="yan_lungmen" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#fEater.png" path="main#fEater.png"/>
+  <info id="241" code="feater" name="에프이터" rare="5" group="yan_lungmen" gender="g" position="c" Class="specialist" >
+    <ui_icon url="main#feater.png" path="main#feater.png"/>
   </info>
   <info id="458" code="frost" name="Frost" rare="5" group="team_rainbow" gender="g" position="r" Class="specialist" >
     <ui_icon url="main#frost.png" path="main#frost.png"/>
