@@ -1,14 +1,15 @@
 <chractors>
   <url url="main#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/
+       #illust#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/
        #fun#"
        file="main#files/arknights/asset.image/ilust.charactor/
        #group#files/arknights/asset.image/group/
        #class#files/arknights/asset.image/class/
        #icon_c#files/arknights/asset.ui/icon.costume/"/>
   <ilust>
-    <ilust_info code="nomarl" icon="icon_c.elite0.png" name="기본" url="main#bagpipe.png" path="main#bagpipe.png"/>
-    <ilust_info code="elite_2"  icon="icon_c.elite2.png" name="2차정예화" url="main#bagpipe_e2.png" path="main#bagpipe_e2.png"/>
-    <ilust_info code="race" icon="" name="icon_c.race.png" url="main#bagpipe_race1.png" path="main#bagpipe_race1.png"/>
+    <ilust_info code="nomarl" icon="icon_c.elite0.png" name="기본" url="illust#bagpipe.png" path="illust#bagpipe.png"/>
+    <ilust_info code="elite_2"  icon="icon_c.elite2.png" name="2차정예화" url="illust#bagpipe_e2.png" path="illust#bagpipe_e2.png"/>
+    <ilust_info code="race" icon="" name="icon_c.race.png" url="illust#bagpipe_race1.png" path="illust#bagpipe_race1.png"/>
   </ilust>
   <header id="0" code="bagpipe" name="백파이프" rare="6" group="group#vic.빅토리아" gender="여성" position="근거리" class="class#vang.뱅가드" tags="코스트+/딜러" trust="def#85" elite="e0/e1/e2">
     <specificity info="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환" />
