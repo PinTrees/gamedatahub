@@ -64,9 +64,9 @@
     <upgrade_info code="elite_2" material="gold/VG_1/AG/RC_1" count="180000/4/4/9"/>
   </elite>
   <status>
-    <status_info code="elite_0" rang="rang_icon_1" maxlevel="50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" redeploy="70" cost="11" block="1" attack_time="1.0" />
-    <status_info code="elite_1" rang="rang_icon_1" maxlevel="80" hp="1355/1738" atk="369/492" def="241/313" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
-    <status_info code="elite_2" rang="rang_icon_1" maxlevel="90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
+    <status_info code="elite_0" rang="rang_icon_1" level_max="50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" redeploy="70" cost="11" block="1" attack_time="1.0" />
+    <status_info code="elite_1" rang="rang_icon_1" level_max="80" hp="1355/1738" atk="369/492" def="241/313" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
+    <status_info code="elite_2" rang="rang_icon_1" level_max="90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
   </status>
   
   <infra>
