@@ -90,7 +90,7 @@
     <level code="7" material="SB_3/AC_2/KT_2" count="8/5/4" />
   </skill_upgrade>
   <skill id="0" code="skill_icon_p_atkup_3" name="신속한 공격γ" unlock="elite_0" type="sp_auto/tr_manu"
-              info="공격력#, 공격속도#">
+              info="공격력/, 공격속도/">
     <s_lv lv="1" rang="" lv_n="elite_0" data="+20%/+20" sp="45/0" eft="35" />
     <s_lv lv="2" rang="" lv_n="elite_0" data="+22%/+20" sp="44/0" eft="35" />
     <s_lv lv="3" rang="" lv_n="elite_0" data="+24%/+20" sp="43/0" eft="35" />
