@@ -1,23 +1,22 @@
 <character>
-  <url url="main#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/
-       #illust#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/
-       #material#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.material/
-       #icon_ui#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/
-       #rang#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/
-       #group#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.group/
-       #class#https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/
-       #fun#"
-       file="main#files/arknights/asset.image/ilust.charactor/
-       #group#files/arknights/asset.image/group/
-       #class#files/arknights/asset.image/class/
-       #icon_c#files/arknights/asset.ui/icon.costume/
-       #rang#files/arknights/asset.image/icon.rang/
-       #class#files/arknights/asset.image/icon.class/"/>
-  <ilust>
-    <ilust_info code="ilust_nomarl" icon="icon_c.elite0.png" name="기본" url="illust#bagpipe.png" path="illust#bagpipe.png"/>
-    <ilust_info code="ilust_elite_2"  icon="icon_c.elite2.png" name="2차정예화" url="illust#bagpipe_e2.png" path="illust#bagpipe_e2.png"/>
-    <ilust_info code="ilust_race" icon="" name="icon_c.race.png" url="illust#bagpipe_race1.png" path="illust#bagpipe_race1.png"/>
-  </ilust>
+  <url_hub>
+    <url code="main" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
+    <url code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
+    <url code="material" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.material/" />
+    <url code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
+    <url code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
+    <url code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.group/" />
+    <url code="class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
+    <url code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
+  </url_hub>
+  <file_hub>
+    <url code="main" url="files/arknights/asset.image/ilust.charactor/" />
+    <url code="group" url="files/arknights/asset.image/group/" />
+    <url code="class" url="files/arknights/asset.image/class/" />
+    <url code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
+    <url code="rang" url="files/arknights/asset.image/icon.rang/" />
+    <url code="class" url="files/arknights/asset.image/icon.class/" />
+  </file_hub>
   <icon_url>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
     <url_info code="vanguard" url="class#class_vanguard.png"/>
@@ -46,6 +45,11 @@
     <tr_info code="tr_auto" info="자동발동" />
     <tr_info code="tr_manu" info="수동발동" />
   </translation>
+  <ilust>
+    <ilust_info code="ilust_nomarl" icon="icon_c.elite0.png" name="기본" url="illust#bagpipe.png" path="illust#bagpipe.png"/>
+    <ilust_info code="ilust_elite_2"  icon="icon_c.elite2.png" name="2차정예화" url="illust#bagpipe_e2.png" path="illust#bagpipe_e2.png"/>
+    <ilust_info code="ilust_race" icon="" name="icon_c.race.png" url="illust#bagpipe_race1.png" path="illust#bagpipe_race1.png"/>
+  </ilust>
   <header id="0" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="여성" position="근거리" class="vanguard" tags="코스트+/딜러" trust="def#85">
     <specificity info="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환" />
     <potential info="배치 비용 -1/첫 번째 재능 향상(+3%)/공격력 +25/두 번째 재능 향상(+2)/배치 비용 -1" />
