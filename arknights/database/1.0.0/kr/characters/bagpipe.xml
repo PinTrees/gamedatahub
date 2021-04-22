@@ -8,6 +8,7 @@
     <url code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.group/" />
     <url code="class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <url code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
+    <url code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
   </url_hub>
   <file_hub>
     <url code="main" url="files/arknights/asset.image/ilust.charactor/" />
@@ -16,6 +17,7 @@
     <url code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
     <url code="rang" url="files/arknights/asset.image/icon.rang/" />
     <url code="class" url="files/arknights/asset.image/icon.class/" />
+    <url code="skill" url="files/arknights/asset.image/icon.skill/" />
   </file_hub>
   <urls>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
@@ -34,9 +36,9 @@
     <url_info code="ag" url="material#ag.png"/>
     <url_info code="rc_1" url="material#rc_1.png"/>
 
-    <url_info code="skill_icon_p_atkup_3" url="material#skill_icon_p_atkup_3.png"/>
-    <url_info code="skill_icon_bagpipe_2" url="material#skill_icon_bagpipe_2.png"/>
-    <url_info code="skill_icon_bagpipe_3" url="material#skill_icon_bagpipe_3.png"/>
+    <url_info code="skill_icon_p_atkup_3" url="skill#skill_icon_p_atkup_3.png"/>
+    <url_info code="skill_icon_bagpipe_2" url="skill#skill_icon_bagpipe_2.png"/>
+    <url_info code="skill_icon_bagpipe_3" url="skill#skill_icon_bagpipe_3.png"/>
   </urls>
   <translation>
     <tr_info code="victoria" info="빅토리아" />
