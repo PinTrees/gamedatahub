@@ -17,7 +17,7 @@
     <url code="rang" url="files/arknights/asset.image/icon.rang/" />
     <url code="class" url="files/arknights/asset.image/icon.class/" />
   </file_hub>
-  <icon_url>
+  <urls>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
     <url_info code="vanguard" url="class#class_vanguard.png"/>
     <url_info code="elite_0" url="icon_ui#elite_0.png"/>
@@ -37,7 +37,7 @@
     <url_info code="skill_icon_p_atkup_3" url="material#skill_icon_p_atkup_3.png"/>
     <url_info code="skill_icon_bagpipe_2" url="material#skill_icon_bagpipe_2.png"/>
     <url_info code="skill_icon_bagpipe_3" url="material#skill_icon_bagpipe_3.png"/>
-  </icon_url>
+  </urls>
   <translation>
     <tr_info code="victoria" info="빅토리아" />
     <tr_info code="vanguard" info="뱅가드" />
