@@ -4,7 +4,18 @@
 
   <url_info code="mat_5_poly" url="material#mat_5_poly.png"/>
   <url_info code="mat_5_bipolar" url="material#mat_5_bipolar.png"/>
-  <url_info code="mat_5_d32" url="material#mat_5_d32.png"/>
+  <url_info code="mat_4_rma" url="material#mat_4_rma.png"/>
+  <url_info code="mat_4_stone" url="material#mat_4_stone.png"/>
+  <url_info code="mat_4_manga" url="material#mat_4_manga.png"/>
+  <url_info code="mat_4_kohl" url="material#mat_4_kohl.png"/>
+  <url_info code="mat_4_device" url="material#mat_4_device.png"/>
+  <url_info code="mat_4_keton" url="material#mat_4_keton.png"/>
+  <url_info code="mat_4_oriron" url="material#mat_4_oriron.png"/>
+  <url_info code="mat_4_poly" url="material#mat_4_poly.png"/>
+  <url_info code="mat_4_sugar" url="material#mat_4_sugar.png"/>
+  <url_info code="mat_4_rock" url="material#mat_4_rock.png"/>
+  <url_info code="mat_4_gel" url="material#mat_4_gel.png"/>
+  <url_info code="mat_4_alloy" url="material#mat_4_alloy.png"/>
 
   <url_info code="mat_1_poly" url="material#mat_1_poly.png"/>
   <url_info code="mat_1_oriron" url="material#mat_1_oriron.png"/>
