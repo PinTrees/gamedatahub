@@ -2,13 +2,13 @@
   <url_hub>
     <url code="main" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <url code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
-    <url code="material" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.material/" />
     <url code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <url code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
     <url code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.group/" />
     <url code="class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <url code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <url code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
+    <url code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
   </url_hub>
   <file_hub>
     <url code="main" url="files/arknights/asset.image/ilust.charactor/" />
@@ -18,7 +18,7 @@
     <url code="rang" url="files/arknights/asset.image/icon.rang/" />
     <url code="class" url="files/arknights/asset.image/icon.class/" />
     <url code="skill" url="files/arknights/asset.image/icon.skill/" />
-    <url code="material" url="files/arknights/asset.image/icon.material/" />
+    <url code="img" url="files/arknights/asset.image/" />
   </file_hub>
   <urls>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
@@ -30,15 +30,9 @@
     <url_info code="rang_icon_1" url="rang#rang_icon_1.png"/>
 
     <url_info code="gold" url="material#gold.png"/>
-    <url_info code="vg_3" url="material#vg_3.png"/>
-    <url_info code="pl_3" url="material#pl_3.png"/>
-    <url_info code="kt_3" url="material#kt_3.png"/>
-    <url_info code="vg_1" url="material#vg_1.png"/>
-    <url_info code="mat_1_poly" url="material#mat_1_poly.png"/>
-    <url_info code="mat_1_oriron" url="material#mat_1_oriron.png"/>
-    <url_info code="mat_2_oriron" url="material#mat_2_oriron.png"/>
-    <url_info code="mat_5_poly" url="material#mat_5_poly.png"/>
-    <url_info code="mat_2_rock" url="material#mat_2_rock.png"/>
+
+    <url_info code="infra_dorm_all+one3" url="img#icon/infraskill/infra_dorm_all+one3.png"/>
+    <url_info code="infra_ws_asc2" url="img#icon/infraskill/infra_ws_asc2.png"/>
 
     <url_info code="skill_icon_p_atkup_3" url="skill#skill_icon_p_atkup_3.png"/>
     <url_info code="skill_icon_bagpipe_2" url="skill#skill_icon_bagpipe_2.png"/>
@@ -79,11 +73,11 @@
     <status_info code="elite_2" rang="rang_icon_1" level_max="90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
   </status>
   
-  <infra>
-    <infra_info code="1" icon="" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+  <infra code="elite_0" >
+    <infra_info ui="icon=infra_dorm_all+one3" code="1" icon="" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
   </infra>
-  <infra>
-    <infra_info code="2" icon="" name="잘 훈련 된" unlock="elite_2" target="가공소" info="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
+  <infra code="elite_2">
+    <infra_info ui="icon=infra_ws_asc2" code="2" icon="" name="잘 훈련 된" unlock="elite_2" target="가공소" info="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
   </infra>
   <skill_header>
     <skill_upgrade code="2" material="SB_1" count="5" />
