@@ -85,14 +85,14 @@
   <infra>
     <infra_info code="2" icon="" name="잘 훈련 된" unlock="elite_2" target="가공소" info="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
   </infra>
-  <skill_upgrade>
-    <level code="2" material="SB_1" count="5" />
-    <level code="3" material="SB_1/mat_1_poly/mat_1_oriron" count="5/6/4" />
-    <level code="4" material="SB_2/mat_2_oriron" count="8/4" />
-    <level code="5" material="SB_2/KT_3/RC_3" count="8/4/5" />
-    <level code="6" material="SB_2/XI_2" count="8/6" />
-    <level code="7" material="SB_3/AC_2/KT_2" count="8/5/4" />
-  </skill_upgrade>
+  <skill_header>
+    <skill_upgrade code="2" material="SB_1" count="5" />
+    <skill_upgrade code="3" material="SB_1/mat_1_poly/mat_1_oriron" count="5/6/4" />
+    <skill_upgrade code="4" material="SB_2/mat_2_oriron" count="8/4" />
+    <skill_upgrade code="5" material="SB_2/KT_3/RC_3" count="8/4/5" />
+    <skill_upgrade code="6" material="SB_2/XI_2" count="8/6" />
+    <skill_upgrade code="7" material="SB_3/AC_2/KT_2" count="8/5/4" />
+  </skill_header>
   <skill id="0" code="skill_icon_p_atkup_3" name="신속한 공격γ" unlock="elite_0" type="sp_auto/tr_manu"
               info="공격력/, 공격속도/">
     <s_lv lv="1" rang="" lv_n="elite_0" data="+20%/+20" sp="45/0" eft="35" />
