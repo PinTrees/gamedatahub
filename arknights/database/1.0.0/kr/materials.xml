@@ -8,10 +8,11 @@
   <url_info code="mat_2_oriron" url="material#mat_2_oriron.png"/>
   <url_info code="mat_5_poly" url="material#mat_5_poly.png"/>
   <url_info code="mat_2_rock" url="material#mat_2_rock.png"/>
+  <url_info code="rare_5" url="ui#rare_5.png"/>
 
   <material_info id="0" code="D32" name="D32강" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1" info="자연계에 있어서는 존재하지 않아야 할 인조 금속 재료로 견고함을 보이며 고급 강화에 사용된다." record="강도가 우수하고, 부숴 질 수없으며, 부드러운 오리지니움 기술로, 무기 재료의 표준을 새로 정한다."/>
   <material_info id="1" code="BN" name="바이폴라 나노칩" rare="5" sub="AC_1/GT_1" count="2/1" info="현대 산업의 창의성이 결정화되었다. 고급 강화에 사용된다." record="범위 내 오리지니움에 민감한 장치. 오리지니움 근처의 범위 내에서 작전 무기와 장비의 오리지니움에 대한 민감성을 효과적으로 높여 오리지니움 기술의 저장을 거의 가능하게 한다."/>
-  <material_info id="2" code="mat_5_poly" name="중합제" rare="5" sub="KT_1/XI_1/RC_1" count="1/1/1"  info="현대 산업의 창의성이 결정화되었다. 고급 강화에 사용된다." record="범위 내 오리지니움에 민감한 장치. 오리지니움 근처의 범위 내에서 작전 무기와 장비의 오리지니움에 대한 민감성을 효과적으로 높여 오리지니움 기술의 저장을 거의 가능하게 한다."/>
+  <material_info id="2" ui="icon=mat_5_poly,back=rare_5" code="AG" name="중합제" rare="5" sub="KT_1/XI_1/RC_1" count="1/1/1"  info="현대 산업의 창의성이 결정화되었다. 고급 강화에 사용된다." record="범위 내 오리지니움에 민감한 장치. 오리지니움 근처의 범위 내에서 작전 무기와 장비의 오리지니움에 대한 민감성을 효과적으로 높여 오리지니움 기술의 저장을 거의 가능하게 한다."/>
 
   <material_info id="3" code="RM_1" name="RMA70-24" rare="4" drop="4-9" dropPer="매우 낮음" sub="KT_2/RC_2/RM_2" count="1/2/1" info="매우 민감하고 전도성이 우수한 광물의 일종으로, 다양한 강화에 사용 가능하며, D32강을 만드는 원료로 자주 사용된다." record="천연 다면체 광물. 1024년에 발견되었으며, 방대한 공업체계에서 오리지니움 기술체계 내에서 다른 광물이 갖고 있지 않은 큰 가치를 보여주고 있다."/>
   <material_info id="4" code="PS_1" name="고급연마석" rare="4" drop="4-8" dropPer="매우 낮음" sub="GT_2/XI_2/PS_2" count="1/1/1" info="무기 부품을 정제하는 데 사용되는 고급 연마석. 다양한 강화에 사용할 수 있으며, D32강을 제작하는 원료 중 하나로도 자주 사용된다." record="일반 연마석에 비해 물질 구조가 안정적인 공구 재료. 다른 물질과의 화학반응은 극히 어렵다."/>
