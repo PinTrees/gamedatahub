@@ -74,19 +74,19 @@
     <status_info code="elite_2" rang="rang_icon_1" level_max="90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
   </status>
   
-  <infra ui="button=elite_0/elite_2" code="elite_0/elite_1/elite_2" >
+  <infra ui="button=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2" >
     <infra_info ui="icon=infra_dorm_ao3" code="elite_0" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <infra_info ui="icon=infra_dorm_ao3" code="elite_1" name="목가" unlock="elite_1" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <infra_info ui="icon=infra_dorm_ao3" code="elite_2" name="목가" unlock="elite_2" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <infra_info ui="icon=infra_dorm_ao3" code="elite_1" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <infra_info ui="icon=infra_dorm_ao3" code="elite_2" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
     <infra_info ui="icon=infra_ws_asc2" code="elite_2" name="잘 훈련 된" unlock="elite_2" target="가공소" info="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
   </infra>
   <skill_header>
     <skill_upgrade code="2" material="SB_1" count="5" />
-    <skill_upgrade code="3" material="SB_1/mat_1_poly/mat_1_oriron" count="5/6/4" />
-    <skill_upgrade code="4" material="SB_2/mat_2_oriron" count="8/4" />
-    <skill_upgrade code="5" material="SB_2/KT_3/RC_3" count="8/4/5" />
-    <skill_upgrade code="6" material="SB_2/XI_2" count="8/6" />
-    <skill_upgrade code="7" material="SB_3/AC_2/KT_2" count="8/5/4" />
+    <skill_upgrade code="3" material="SB_1/poly_1/orin_1" count="5/6/4" />
+    <skill_upgrade code="4" material="SB_2/orin_2" count="8/4" />
+    <skill_upgrade code="5" material="SB_2/ketn_3/rock_2" count="8/4/5" />
+    <skill_upgrade code="6" material="SB_2/orin_3" count="8/6" />
+    <skill_upgrade code="7" material="SB_3/kohl_3/ketn_3" count="8/5/4" />
   </skill_header>
   <skill id="0" code="skill_icon_p_atkup_3" name="신속한 공격γ" unlock="elite_0" type="sp_auto/tr_manu"
               info="공격력/, 공격속도/">
@@ -97,9 +97,9 @@
     <s_lv lv="5" rang="" lv_n="elite_1" data="+29%/+25" sp="41/5" eft="35" />
     <s_lv lv="6" rang="" lv_n="elite_1" data="+31%/+25" sp="40/5" eft="35" />
     <s_lv lv="7" rang="" lv_n="elite_1" data="+34%/+35" sp="39/10" eft="35" />
-    <s_lv lv="8" rang="" lv_n="elite_2" data="+37%/+35" sp="38/10" eft="35" material="SB_3/AC_1/KT_2" count="8/4/8" />
-    <s_lv lv="9" rang="" lv_n="elite_2" data="+40%/+35" sp="37/10" eft="35" material="SB_3/RM_1/MG_1" count="12/4/7" />
-    <s_lv lv="10" rang="" lv_n="elite_2" data="+45%/+45" sp="35/15" eft="35" material="SB_3/BN/KT_1" count="15/6/5" />
+    <s_lv lv="8" rang="" lv_n="elite_2" data="+37%/+35" sp="38/10" eft="35" material="SB_3/kohl_4/ketn_3" count="8/4/8" />
+    <s_lv lv="9" rang="" lv_n="elite_2" data="+40%/+35" sp="37/10" eft="35" material="SB_3/rma_4/mang_4" count="12/4/7" />
+    <s_lv lv="10" rang="" lv_n="elite_2" data="+45%/+45" sp="35/15" eft="35" material="SB_3/bipl_5/ketn_4" count="15/6/5" />
   </skill>
   <skill id="1" code="skill_icon_bagpipe_2" name="고효율 충격" unlock="elite_1"  type="sp_auto/tr_auto" 
               info="다음 공격 시 공격력/증가 및 /회 추가 공격, /회 충전 가능">
@@ -110,9 +110,9 @@
     <s_lv lv="5" rang="" lv_n="elite_1" data="150%/1/1" sp="6/0" />
     <s_lv lv="6" rang="" lv_n="elite_1" data="155%/1/1" sp="6/0" />
     <s_lv lv="7" rang="" lv_n="elite_1" data="160%/1/2" sp="5/0" />
-    <s_lv lv="8" rang="" lv_n="elite_2" data="170%/1/2" sp="5/0" material="SB_3/MG_1/GT_2" count="8/4/4" />
-    <s_lv lv="9" rang="" lv_n="elite_2" data="180%/1/3" sp="5/0" material="SB_3/XG_1/RM_1" count="12/4/8" />
-    <s_lv lv="10" rang="" lv_n="elite_2" data="200%/1/3" sp="4/0" material="SB_3/D32/AC_1" count="15/6/7" />
+    <s_lv lv="8" rang="" lv_n="elite_2" data="170%/1/2" sp="5/0" material="SB_3/mang_4/devi_3" count="8/4/4" />
+    <s_lv lv="9" rang="" lv_n="elite_2" data="180%/1/3" sp="5/0" material="SB_3/aloy_4/rma_4" count="12/4/8" />
+    <s_lv lv="10" rang="" lv_n="elite_2" data="200%/1/3" sp="4/0" material="SB_3/d32_5/kohl_4" count="15/6/7" />
   </skill>
   <skill id="2" code="skill_icon_bagpipe_3" name="폐쇄 루프" unlock="elite_2" type="sp_auto/tr_manu"
               info="공격 딜레이 증가(/초), 저지 수 /, 공격력 및 방어력/, 공격이 /연격으로 변경">
@@ -123,8 +123,8 @@
     <s_lv lv="5" rang="" lv_n="elite_2" data="*+0.7/+1/+70%/3" sp="40/13" />
     <s_lv lv="6" rang="" lv_n="elite_2" data="*+0.7/+1/+80%/3" sp="40/14" />
     <s_lv lv="7" rang="" lv_n="elite_2" data="*+0.7/+1/+90%/3" sp="40/15" />
-    <s_lv lv="8" rang="" lv_n="elite_2" data="*+0.7/+1/+100%/3" sp="40/18" material="SB_3/PS_1/AC_2" count="8/4/7" />
-    <s_lv lv="9" rang="" lv_n="elite_2" data="*+0.7/+1/+110%/3" sp="40/21" material="SB_3/JL_1/RC_1" count="12/4/10" />
-    <s_lv lv="10" rang="" lv_n="elite_2" data="*+0.7/+1/+120%/3" sp="40/25" material="SB_3/BN/XI_1" count="15/6/4" />
+    <s_lv lv="8" rang="" lv_n="elite_2" data="*+0.7/+1/+100%/3" sp="40/18" material="SB_3/ston_4/kohl_3" count="8/4/7" />
+    <s_lv lv="9" rang="" lv_n="elite_2" data="*+0.7/+1/+110%/3" sp="40/21" material="SB_3/gell_4/rock_4" count="12/4/10" />
+    <s_lv lv="10" rang="" lv_n="elite_2" data="*+0.7/+1/+120%/3" sp="40/25" material="SB_3/bipl_5/orin_4" count="15/6/4" />
   </skill>
 </character>
