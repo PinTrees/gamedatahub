@@ -19,13 +19,14 @@
     <url code="class" url="files/arknights/asset.image/icon.class/" />
     <url code="skill" url="files/arknights/asset.image/icon.skill/" />
     <url code="img" url="files/arknights/asset.image/" />
+    <url code="ui" url="files/arknights/asset.ui/" />
   </file_hub>
   <urls>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
     <url_info code="vanguard" url="class#class_vanguard.png"/>
-    <url_info code="elite_0" url="icon_ui#elite_0.png"/>
-    <url_info code="elite_1" url="icon_ui#elite_1.png"/>
-    <url_info code="elite_2" url="icon_ui#elite_2.png"/>
+    <url_info code="elite_0" url="img#icon/sticker/elite_0.png"/>
+    <url_info code="elite_1" url="img#icon/sticker/elite_1.png"/>
+    <url_info code="elite_2" url="img#icon/sticker/elite_2.png"/>
 
     <url_info code="rang_icon_1" url="rang#rang_icon_1.png"/>
 
