@@ -32,7 +32,7 @@
 
     <url_info code="gold" url="material#gold.png"/>
 
-    <url_info code="infra_dorm_all+one3" url="img#icon/infraskill/infra_dorm_all+one3.png"/>
+    <url_info code="infra_dorm_ao3" url="img#icon/infraskill/infra_dorm_ao3.png"/>
     <url_info code="infra_ws_asc2" url="img#icon/infraskill/infra_ws_asc2.png"/>
 
     <url_info code="skill_icon_p_atkup_3" url="skill#skill_icon_p_atkup_3.png"/>
@@ -75,9 +75,9 @@
   </status>
   
   <infra ui="button=elite_0/elite_2" code="elite_0/elite_1/elite_2" >
-    <infra_info ui="icon=infra_dorm_all+one3" code="elite_0" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <infra_info ui="icon=infra_dorm_all+one3" code="elite_1" name="목가" unlock="elite_1" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <infra_info ui="icon=infra_dorm_all+one3" code="elite_2" name="목가" unlock="elite_2" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <infra_info ui="icon=infra_dorm_ao3" code="elite_0" name="목가" unlock="elite_0" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <infra_info ui="icon=infra_dorm_ao3" code="elite_1" name="목가" unlock="elite_1" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <infra_info ui="icon=infra_dorm_ao3" code="elite_2" name="목가" unlock="elite_2" target="기숙사" info="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
     <infra_info ui="icon=infra_ws_asc2" code="elite_2" name="잘 훈련 된" unlock="elite_2" target="가공소" info="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
   </infra>
   <skill_header>
