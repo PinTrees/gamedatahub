@@ -4,7 +4,7 @@
     <url code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <url code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <url code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
-    <url code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.group/" />
+    <url code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
     <url code="class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <url code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <url code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
@@ -12,7 +12,7 @@
   </url_hub>
   <file_hub>
     <url code="main" url="files/arknights/asset.image/ilust.charactor/" />
-    <url code="group" url="files/arknights/asset.image/group/" />
+    <url code="group" url="files/arknights/asset.image/icon/group/" />
     <url code="class" url="files/arknights/asset.image/class/" />
     <url code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
     <url code="rang" url="files/arknights/asset.image/icon.rang/" />
