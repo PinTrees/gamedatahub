@@ -52,18 +52,13 @@
     <url_info code="mat_1_rock" url="material#mat_1_rock.png"/>
     <url_info code="mat_1_sugar" url="material#mat_1_sugar.png"/>
   </url_node>
-  
-  <url_info code="mat_1_poly" url="material#mat_1_poly.png"/>
-  <url_info code="mat_1_oriron" url="material#mat_1_oriron.png"/>
-  <url_info code="mat_2_oriron" url="material#mat_2_oriron.png"/>
-  <url_info code="mat_2_rock" url="material#mat_2_rock.png"/>
-
-  <url_info code="rare_5" url="ui_btn#ui_btn_gold.png"/>
-  <url_info code="rare_4" url="ui_btn#ui_btn_cian.png"/>
-  <url_info code="rare_3" url="ui_btn#ui_btn_blue.png"/>
-  <url_info code="rare_2" url="ui_btn#ui_btn_green.png"/>
-  <url_info code="rare_1" url="ui_btn#ui_btn_gray.png"/>
-
+  <url_node>
+    <url_info code="rare_5" url="ui_btn#ui_btn_gold.png"/>
+    <url_info code="rare_4" url="ui_btn#ui_btn_cian.png"/>
+    <url_info code="rare_3" url="ui_btn#ui_btn_blue.png"/>
+    <url_info code="rare_2" url="ui_btn#ui_btn_green.png"/>
+    <url_info code="rare_1" url="ui_btn#ui_btn_gray.png"/>
+  </url_node>
   <material_info id="0" ui="icon=mat_5_d32,back=rare_5" code="d32_5" name="D32강" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1" info="자연계에 있어서는 존재하지 않아야 할 인조 금속 재료로 견고함을 보이며 고급 강화에 사용된다." record="강도가 우수하고, 부숴 질 수없으며, 부드러운 오리지니움 기술로, 무기 재료의 표준을 새로 정한다."/>
   <material_info id="1" ui="icon=mat_5_bipolar,back=rare_5" code="bibl_5" name="바이폴라 나노칩" rare="5" sub="AC_1/GT_1" count="2/1" info="현대 산업의 창의성이 결정화되었다. 고급 강화에 사용된다." record="범위 내 오리지니움에 민감한 장치. 오리지니움 근처의 범위 내에서 작전 무기와 장비의 오리지니움에 대한 민감성을 효과적으로 높여 오리지니움 기술의 저장을 거의 가능하게 한다."/>
   <material_info id="2" ui="icon=mat_5_poly,back=rare_5" code="poly_5" name="중합제" rare="5" sub="KT_1/XI_1/RC_1" count="1/1/1"  info="현대 산업의 창의성이 결정화되었다. 고급 강화에 사용된다." record="범위 내 오리지니움에 민감한 장치. 오리지니움 근처의 범위 내에서 작전 무기와 장비의 오리지니움에 대한 민감성을 효과적으로 높여 오리지니움 기술의 저장을 거의 가능하게 한다."/>
