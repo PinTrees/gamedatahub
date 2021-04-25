@@ -40,8 +40,6 @@
     <url_info code="skill_icon_bagpipe_3" url="skill#skill_icon_bagpipe_3.png"/>
   </urls>
   <translation>
-    <tr_info code="victoria" info="빅토리아" />
-    <tr_info code="vanguard" info="뱅가드" />
     <tr_info code="sp_auto" info="자동회복" />
     <tr_info code="tr_auto" info="자동발동" />
     <tr_info code="tr_manu" info="수동발동" />
@@ -51,7 +49,7 @@
     <ilust_info code="ilust_elite_2"  icon="icon_c.elite2.png" name="2차정예화" url="illust#bagpipe_e2.png" path="illust#bagpipe_e2.png"/>
     <ilust_info code="ilust_race" icon="" name="icon_c.race.png" url="illust#bagpipe_race1.png" path="illust#bagpipe_race1.png"/>
   </ilust>
-  <header id="0" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="여성" position="근거리" class="vanguard" tags="코스트+/딜러" trust="def#85">
+  <header ui="class=vanguard,group=victoria" id="0" code="bagpipe" name="백파이프" rare="6" group="빅토리아" gender="여성" position="근거리" class="뱅가드" tags="코스트+/딜러" trust="def#85">
     <specificity info="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환" />
     <potential info="배치 비용 -1/첫 번째 재능 향상(+3%)/공격력 +25/두 번째 재능 향상(+2)/배치 비용 -1" />
     <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
@@ -64,7 +62,8 @@
     <ability_info code="1_2+pt" unlock="elite_2" name="정밀주입탄" info="매 타격 시 28%의 확률로 공격력이 130%로 향상되고, 한 대상을 추가로 공격" />
     <ability_info code="2_1+pt" unlock="elite_2" name="군사 전통" info="팀에 편성 시 아군 [뱅가드] 오퍼레이터의 초기 SP +8" />
   </ability>
-  <elite code="elite_0/elite_1/elite_2">
+  
+  <elite ui="elite=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2">
     <upgrade_info code="elite_1" material="gold/vg_3/pl_3/kt_3" count="30000/5/10/3" />
     <upgrade_info code="elite_2" material="gold/VG_1/AG/RC_1" count="180000/4/4/9"/>
   </elite>
