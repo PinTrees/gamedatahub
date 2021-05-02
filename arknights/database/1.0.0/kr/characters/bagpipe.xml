@@ -133,4 +133,43 @@
     <s_lv lv="9" rang="" lv_n="elite_2" data="*+0.7/+1/+110%/3" sp="40/21" material="SB_3/gell_4/rock_4" count="12/4/10" />
     <s_lv lv="10" rang="" lv_n="elite_2" data="*+0.7/+1/+120%/3" sp="40/25" material="SB_3/bipl_5/orin_4" count="15/6/4" />
   </skill>
+
+  <audio ui="start=,pause=" >
+    <info ui="" file="audio=CN_001" code="assistant" name="어시스턴트로 임명" />
+    <info ui="" file="audio=CN_001" code="talk_1" name="대화 1" />
+    <info ui="" file="audio=CN_001" code="talk_2" name="대화 2" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="대화 3" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="대화 3" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="1차 정예화 후 대화" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="2차 정예화 후 대화" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="신뢰 증가 후 대화 1" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="신뢰 증가 후 대화 2" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="신뢰 증가 후 대화 3" />
+    <info ui="" file="audio=CN_001" code="talk_3" name="방치 대사" />
+    <info ui="" file="audio=CN_001" code="onboard" name="획득 시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전기록 사용시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="1차 정예화 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="2차 정예화 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="편대 추가 시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="편대 리더임명 시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전 출격 시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전 시작 시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전중 오퍼레이터 선택 시 대화 1" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전중 오퍼레이터 선택 시 대화 2" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전중 출격 시 대화 1" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전중 출격 시 대화 2" />
+    <info ui="" file="audio=CN_001" code="onboard" name="전투중 대화 1" />
+    <info ui="" file="audio=CN_001" code="onboard" name="전투중 대화 2" />
+    <info ui="" file="audio=CN_001" code="onboard" name="전투중 대화 3" />
+    <info ui="" file="audio=CN_001" code="onboard" name="전투중 대화 4" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전 완료 대화 - 4성" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전 완료 대화 - 3성" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전 완료 대화 - 3성 미만" />
+    <info ui="" file="audio=CN_001" code="onboard" name="작전 실패 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="인프라 배치 시 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="터치 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="신뢰도 터치 대화" />
+    <info ui="" file="audio=CN_001" code="onboard" name="제목" />
+    <info ui="" file="audio=CN_001" code="onboard" name="인사" />
+  </audio>
 </character>
