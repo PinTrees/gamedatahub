@@ -5,7 +5,7 @@
   </url_hub>
   <file_hub>
     <url code="main" url="main#files/arknights/asset.image/icon.charactor/" />
-    <url code="fun" url="files/arknights/database/kr/characters/" />
+    <url code="fun" url="files/arknights/database/1.0.0/kr/characters/" />
   </file_hub>
   
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" Class="vanguard" >
