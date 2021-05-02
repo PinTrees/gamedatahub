@@ -27,6 +27,11 @@
     <url_info code="elite_0" url="img#icon/sticker/elite_0.png"/>
     <url_info code="elite_1" url="img#icon/sticker/elite_1.png"/>
     <url_info code="elite_2" url="img#icon/sticker/elite_2.png"/>
+    <url_info code="icon_race" url="img#icon/ilust.type/2020_race.png"/>
+   
+    <url_info code="illust_elite_0" url="illust#bagpipe.png"/>
+    <url_info code="illust_elite_2" url="illust#bagpipe_e2.png"/>
+    <url_info code="ilust_race" url="illust#bagpipe_race1.png"/>
 
     <url_info code="rang_icon_1" url="rang#rang_icon_1.png"/>
 
@@ -44,10 +49,10 @@
     <tr_info code="tr_auto" info="자동발동" />
     <tr_info code="tr_manu" info="수동발동" />
   </translation>
-  <ilust>
-    <ilust_info code="ilust_nomarl" icon="icon_c.elite0.png" name="기본" url="illust#bagpipe.png" path="illust#bagpipe.png"/>
-    <ilust_info code="ilust_elite_2"  icon="icon_c.elite2.png" name="2차정예화" url="illust#bagpipe_e2.png" path="illust#bagpipe_e2.png"/>
-    <ilust_info code="ilust_race" icon="" name="icon_c.race.png" url="illust#bagpipe_race1.png" path="illust#bagpipe_race1.png"/>
+  <ilust ui="button=elite_0/elite_2/ilust_race" code="elite_0/elite_2/ilust_race">
+    <ilust_info ui="icon=elite_0,ilust=illust_elite_0" code="elite_0" name="기본" />
+    <ilust_info ui="icon=elite_2,ilust=illust_elite_2" code="elite_2" name="2차정예화" />
+    <ilust_info ui="icon=icon_race,ilust=ilust_race" code="ilust_race" name="레이싱" />
   </ilust>
   <header ui="class=vanguard,group=victoria" id="0" code="bagpipe" name="백파이프" rare="6" group="빅토리아" gender="여성" position="근거리" class="뱅가드" tags="코스트+/딜러" trust="def#85">
     <specificity info="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환" />
