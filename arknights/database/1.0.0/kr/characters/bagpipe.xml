@@ -1,27 +1,27 @@
 <character>
   <url_hub>
-    <url code="main" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
-    <url code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
-    <url code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
-    <url code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
-    <url code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
-    <url code="class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
-    <url code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
-    <url code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
-    <url code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
+    <node code="main" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
+    <node code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
+    <node code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
+    <node code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
+    <node code="group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
+    <node code="class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
+    <node code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
+    <node code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
+    <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
   </url_hub>
   <file_hub>
-    <url code="main" url="files/arknights/asset.image/ilust.charactor/" />
-    <url code="group" url="files/arknights/asset.image/icon/group/" />
-    <url code="class" url="files/arknights/asset.image/class/" />
-    <url code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
-    <url code="rang" url="files/arknights/asset.image/icon.rang/" />
-    <url code="class" url="files/arknights/asset.image/icon.class/" />
-    <url code="skill" url="files/arknights/asset.image/icon.skill/" />
-    <url code="img" url="files/arknights/asset.image/" />
-    <url code="ui" url="files/arknights/asset.ui/" />
+    <node code="main" url="files/arknights/asset.image/ilust.charactor/" />
+    <node code="group" url="files/arknights/asset.image/icon/group/" />
+    <node code="class" url="files/arknights/asset.image/class/" />
+    <node code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
+    <node code="rang" url="files/arknights/asset.image/icon.rang/" />
+    <node code="class" url="files/arknights/asset.image/icon.class/" />
+    <node code="skill" url="files/arknights/asset.image/icon.skill/" />
+    <node code="img" url="files/arknights/asset.image/" />
+    <node code="ui" url="files/arknights/asset.ui/" />
   </file_hub>
-  <urls>
+  <url_node>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
     <url_info code="vanguard" url="class#class_vanguard.png"/>
     <url_info code="elite_0" url="img#icon/sticker/elite_0.png"/>
@@ -43,13 +43,14 @@
     <url_info code="skill_icon_p_atkup_3" url="skill#skill_icon_p_atkup_3.png"/>
     <url_info code="skill_icon_bagpipe_2" url="skill#skill_icon_bagpipe_2.png"/>
     <url_info code="skill_icon_bagpipe_3" url="skill#skill_icon_bagpipe_3.png"/>
-  </urls>
+  </url_node>
+  
   <translation>
     <tr_info code="sp_auto" info="자동회복" />
     <tr_info code="tr_auto" info="자동발동" />
     <tr_info code="tr_manu" info="수동발동" />
   </translation>
-  <ilust ui="button=elite_0/elite_2/ilust_race" code="elite_0/elite_2/ilust_race">
+  <ilust code="elite_0/elite_2/ilust_race">
     <ilust_info ui="icon=elite_0,ilust=illust_elite_0" code="elite_0" name="기본" />
     <ilust_info ui="icon=elite_2,ilust=illust_elite_2" code="elite_2" name="2차정예화" />
     <ilust_info ui="icon=icon_race,ilust=ilust_race" code="ilust_race" name="레이싱" />
