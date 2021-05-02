@@ -9,8 +9,8 @@
     <node code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <node code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
     <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
-    <node code="ui" url="files/arknights/asset.ui/" />
-    <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
+    <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
+    <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
   </url_hub>
   <file_hub>
     <node code="main" url="files/arknights/asset.image/ilust.charactor/" />
