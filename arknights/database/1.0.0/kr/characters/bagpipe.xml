@@ -20,6 +20,7 @@
     <node code="skill" url="files/arknights/asset.image/icon.skill/" />
     <node code="img" url="files/arknights/asset.image/" />
     <node code="ui" url="files/arknights/asset.ui/" />
+    <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
   </file_hub>
   <url_node>
     <url_info code="victoria" url="group#group_icon_victoria.png"/>
@@ -44,12 +45,12 @@
     <url_info code="skill_icon_bagpipe_2" url="skill#skill_icon_bagpipe_2.png"/>
     <url_info code="skill_icon_bagpipe_3" url="skill#skill_icon_bagpipe_3.png"/>
   </url_node>
-  
   <translation>
     <tr_info code="sp_auto" info="자동회복" />
     <tr_info code="tr_auto" info="자동발동" />
     <tr_info code="tr_manu" info="수동발동" />
   </translation>
+  
   <ilust code="elite_0/elite_2/ilust_race">
     <ilust_info ui="icon=elite_0,ilust=illust_elite_0" code="elite_0" name="기본" />
     <ilust_info ui="icon=elite_2,ilust=illust_elite_2" code="elite_2" name="2차정예화" />
