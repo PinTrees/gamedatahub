@@ -4,7 +4,7 @@
     <url code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/kr/characters/" />
   </url_hub>
   <file_hub>
-    <url code="main" url="main#files/arknights/asset.image/icon.charactor/" />
+    <url code="main" url="files/arknights/asset.image/icon.charactor/" />
     <url code="fun" url="files/arknights/database/1.0.0/kr/characters/" />
   </file_hub>
   
