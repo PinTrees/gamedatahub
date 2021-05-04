@@ -175,7 +175,7 @@
     <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="인프라 배치 시 대화" />
     <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="터치 대화" />
     <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="신뢰도 터치 대화" />
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="제목" />
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="인사" />
+    <info ui="" file="audio=audio#bagpipe/null.mp3" code="onboard" name="제목" />
+    <info ui="" file="" code="onboard" name="인사" />
   </audio>
 </character>
