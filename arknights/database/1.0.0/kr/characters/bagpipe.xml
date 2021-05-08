@@ -77,8 +77,8 @@
   </ability>
   
   <elite ui="elite=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2">
-    <upgrade_info code="elite_1" material="gold/vg_3/pl_3/kt_3" count="30000/5/10/3" />
-    <upgrade_info code="elite_2" material="gold/VG_1/AG/RC_1" count="180000/4/4/9"/>
+    <upgrade_info code="elite_1" material="lmd/vg_3/poly_2/ketn_2" count="30000/5/10/3" />
+    <upgrade_info code="elite_2" material="lmd/vg_3/poly_1/ketn_2" count="180000/4/4/9"/>
   </elite>
   <status>
     <status_info code="elite_0" rang="rang_icon_1" level_max="50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" redeploy="70" cost="11" block="1" attack_time="1.0" />
