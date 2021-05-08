@@ -11,590 +11,590 @@
   </file_hub>
   
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#bagpipe.png,frame=ui#ui_btn_red" />
+    <ui_info ui="icon=main#bagpipe.png,frame=ui#ui_btn_red" />
     <fun url="fun#bagpipe.xml" path="fun#bagpipe.xml"/>
   </info>
   <info id="362" code="saga" name="세가" rare="6" group="higashi" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#saga.png,frame=ui#ui_btn_red" />
+    <ui_info ui="icon=main#saga.png,frame=ui#ui_btn_red" />
   </info>
   <info id="112" code="siege" name="시즈" rare="6" group="glasgow" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#siege.png,frame=ui#ui_btn_red" />
+    <ui_info ui="icon=main#siege.png,frame=ui#ui_btn_red" />
   </info>
   <info id="349" code="chiave" name="키아브" rare="5" group="chiavegang" gender="m" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#chiave.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#chiave.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="401" code="elysium" name="엘리시움" rare="5" group="rhodes" gender="m" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#elysium.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#elysium.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="220" code="grani" name="그라니" rare="5" group="victoria" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#grani.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#grani.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="261" code="reed" name="리드" rare="5" group="victoria" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#reed.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#reed.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="102" code="texas" name="텍사스" rare="5" group="penguin" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#texas.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#texas.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="115" code="zima" name="지마" rare="5" group="ussg" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#zima.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#zima.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="452" code="beanstalk" name="Beanstalk" rare="4" group="columbia" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#beanstalk.png,frame=ui#ui_btn_gold" />
+    <ui_info ui="icon=main#beanstalk.png,frame=ui#ui_btn_gold" />
   </info>
   <info id="198" code="courier" name="쿠리어" rare="4" group="karlan" gender="m" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#courier.png,frame=ui#ui_btn_cian" />
+    <ui_info ui="icon=main#courier.png,frame=ui#ui_btn_cian" />
   </info>
   <info id="151" code="myrtle" name="머틀" rare="4" group="rhodes" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#myrtle.png,frame=ui#ui_btn_cian" />
+    <ui_info ui="icon=main#myrtle.png,frame=ui#ui_btn_cian" />
   </info>
   <info id="149" code="scavenger" name="스캐빈저" rare="4" group="swerp" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#scavenger.png,frame=ui#ui_btn_cian" />
+    <ui_info ui="icon=main#scavenger.png,frame=ui#ui_btn_cian" />
   </info>
   <info id="290" code="vigna" name="비그나" rare="4" group="columbia" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#vigna.png,frame=ui#ui_btn_blue" />
+    <ui_info ui="icon=main#vigna.png,frame=ui#ui_btn_blue" />
   </info>
   <info id="123" code="fang" name="팽" rare="3" group="reop_team_a1" gender="g" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#fang.png,frame=ui#ui_btn_blue" />
+    <ui_info ui="icon=main#fang.png,frame=ui#ui_btn_blue" />
   </info>
   <info id="192" code="plume" name="플룸" rare="3" group="laterano" gender="m" position="c" Class="vanguard" >
-    <ui_icon ui="icon=main#plume.png,frame=ui#ui_btn_blue" />
+    <ui_info ui="icon=main#plume.png,frame=ui#ui_btn_blue" />
   </info>
   <info id="504" code="reserve_melee" name="Reserve" rare="3" group="null" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=main#bagpipe.reserve_melee,frame=ui#ui_btn_blue" />
   </info>
   <info id="240" code="vanilla" name="바닐라" rare="3" group="bsw" gender="g" position="c" Class="vanguard" >
-    <ui_icon url="main#vanilla.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#vanilla.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="502" code="yato" name="야토" rare="2" group="op_team_a4" gender="m" position="c" Class="vanguard" >
-    <ui_icon url="main#yato.png" path="main#ui_btn_green.png"/>
+    <ui_info url="main#yato.png" path="main#ui_btn_green.png"/>
   </info>
 
   <info id="423" code="blemishine" name="Blemishine" rare="6" group="kazimierz" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#blemishine.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#blemishine.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="416" code="eunectes" name="유네틱스" rare="6" group="sargon" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#eunectes.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#eunectes.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="136" code="hoshiguma" name="호시구마" rare="6" group="lgd" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#hoshiguma.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#hoshiguma.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="311" code="mudrock" name="Mudrock" rare="6" group="rhodes" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#mudrock.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#mudrock.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="2014" code="nian" name="니엔" rare="6" group="yan_sui" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#nian.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#nian.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="202" code="saria" name="사리아" rare="6" group="rhinelab" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#saria.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#saria.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="378" code="asbestos" name="Asbestos" rare="5" group="rimbilliton" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#asbestos.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#asbestos.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="325" code="bison" name="바이슨" rare="5" group="yan_lungmen" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#bison.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#bison.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="457" code="blitz" name="Blitz" rare="5" group="team_rainbow" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#blitz.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#blitz.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="201" code="croissant" name="크루아상" rare="5" group="penguin" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#croissant.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#croissant.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="226" code="hung" name="Hung" rare="5" group="lees_da" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#hung.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#hung.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="107" code="liskarm" name="리스캄" rare="5" group="bsw" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#liskarm.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#liskarm.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="148" code="nearl" name="니어" rare="5" group="followers" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#nearl.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#nearl.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="163" code="vulcan" name="블칸" rare="5" group="rhodes" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#vulcan.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#vulcan.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="381" code="bubble" name="Bubble" rare="4" group="sargon" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#bubble.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#bubble.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="150" code="cuora" name="쿠오라" rare="4" group="columbia" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#cuora.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#cuora.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="260" code="durnar" name="듀르나르" rare="4" group="rhodes" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#durnar.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#durnar.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="199" code="matterhorn" name="마터호른" rare="4" group="karlan" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#matterhorn.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#matterhorn.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="196" code="gum" name="굼" rare="4" group="ussg" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#gum.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#gum.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="122" code="beagle" name="비글" rare="3" group="reop_team_a1" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#beagle.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#beagle.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="209" code="cardigan" name="카디건" rare="3" group="reop_team_a4" gender="g" position="c" Class="defender" >
-    <ui_icon url="main#cardigan.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#cardigan.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="284" code="spot" name="Spot" rare="3" group="reop_team_a6" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#spot.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#spot.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="500" code="noircorne" name="느와르코르네" rare="2" group="reop_team_a4" gender="m" position="c" Class="defender" >
-    <ui_icon url="main#noircorne.png" path="main#ui_btn_green.png"/>
+    <ui_info url="main#noircorne.png" path="main#ui_btn_green.png"/>
   </info>
   
   <info id="017" code="blaze" name="블래이즈" rare="6" group="rhodes_elite_op" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#blaze.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#blaze.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="010" code="chen" name="첸" rare="6" group="lgd" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#chen.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#chen.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="188" code="hellagur" name="헬라그" rare="6" group="ursus" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#hellagur.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#hellagur.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="264" code="mountain" name="Mountain" rare="6" group="columbia" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#mountain.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#mountain.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="172" code="silverash" name="실버애쉬" rare="6" group="karlan" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#silverash.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#silverash.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="263" code="skadi" name="스카디" rare="6" group="abyssal_hunters" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#skadi.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#skadi.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="350" code="surtr" name="수르트" rare="6" group="rhodes" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#surtr.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#surtr.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="293" code="thorns" name="Thorns" rare="6" group="rhodes" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#thorns.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#thorns.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="274" code="astesia" name="아스테시아" rare="5" group="columbia" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#astesia.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#astesia.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="294" code="ayerscarpe" name="Ayerscarpe" rare="5" group="rimbilliton" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#ayerscarpe.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#ayerscarpe.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="252" code="bibeak" name="바이비크" rare="5" group="sami" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#bibeak.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#bibeak.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="356" code="broca" name="브로카" rare="5" group="chiave_gang" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#broca.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#broca.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="131" code="flamebringer" name="플레임브링어" rare="5" group="rhodes" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#flamebringer.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#flamebringer.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="415" code="flint" name="Flint" rare="5" group="sargon" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#flint.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#flint.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="106" code="franka" name="프란카" rare="5" group="bsw" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#franka.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#franka.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="155" code="indra" name="인드라" rare="5" group="glasgow" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#indra.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#indra.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="140" code="lappland" name="라플란드" rare="5" group="siracusa" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#lappland.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#lappland.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="230" code="savage" name="새비지" rare="5" group="rimbilliton" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#savage.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#savage.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="508" code="sharp" name="샤프" rare="5" group="null" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#sharp.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#sharp.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="333" code="sideroca" name="사이드로카" rare="5" group="rhodes" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#sideroca.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#sideroca.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="143" code="specter" name="스펙터" rare="5" group="abyssal_hunters" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#specter.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#specter.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="308" code="swire" name="스와이어" rare="5" group="lgd" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#swire.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#swire.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="459" code="tachanka" name="Tachanka" rare="5" group="team_rainbow" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#tachanka.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#tachanka.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="265" code="whislash" name="Whislash" rare="5" group="kazimierz" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#whislash.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#whislash.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="271" code="arene" name="Arene" rare="4" group="laterano" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#arene.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#arene.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="137" code="beehunter" name="비헌터" rare="4" group="ursus" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#beehunter.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#beehunter.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="159" code="conviction" name="Conviction" rare="4" group="rhodes" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#conviction.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#conviction.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="301" code="cutter" name="커터" rare="4" group="columbia" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#cutter.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#cutter.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="130" code="dobermann" name="도베르만" rare="4" group="rhodes" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#dobermann.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#dobermann.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="127" code="estelle" name="에스텔" rare="4" group="sargon" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#estelle.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#estelle.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="193" code="frostleaf" name="프로스트리프" rare="4" group="rhodes" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#frostleaf.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#frostleaf.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="347" code="jackie" name="Jackie" rare="4" group="columbia" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#jackie.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#jackie.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="289" code="matoimaru" name="마토이마루" rare="4" group="higashi" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#matoimaru.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#matoimaru.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="185" code="mousse" name="무스" rare="4" group="victoria" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#mousse.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#mousse.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="337" code="utage" name="우타게" rare="4" group="higashi" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#utage.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#utage.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="208" code="melantha" name="멜란사" rare="3" group="reop_team_a4" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#melantha.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#melantha.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="283" code="midnight" name="미드나이트" rare="3" group="reop_team_a6" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#midnight.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#midnight.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="281" code="popukar" name="포푸카" rare="3" group="reop_team_a6" gender="g" position="c" Class="guard" >
-    <ui_icon url="main#popukar.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#popukar.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="286" code="castle_3" name="Castle-3" rare="1" group="rhodes" gender="m" position="c" Class="guard" >
-    <ui_icon url="main#castle_3.png" path="main#ui_btn_gray.png"/>
+    <ui_info url="main#castle_3.png" path="main#ui_btn_gray.png"/>
   </info>
 
   <info id="332" code="archetto" name="Archetto" rare="6" group="laterano" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#archetto.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#archetto.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="456" code="ash" name="애쉬" rare="6" group="team_rainbow" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#ash.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#ash.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="103" code="exusiai" name="엑시아" rare="6" group="penguin" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#exusiai.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#exusiai.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="391" code="rosmontis" name="Rosmontis" rare="6" group="rhodes_elite_op" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#rosmontis.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#rosmontis.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="340" code="schwarz" name="슈바르츠" rare="6" group="siesta" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#schwarz.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#schwarz.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="113" code="w" name="W" rare="6" group="babel" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#w.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#w.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="197" code="rosa" name="로사" rare="6" group="ussg" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#rosa.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#rosa.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="218" code="andreanaоса" name="안드레아나" rare="5" group="abyssal_hunters" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#andreana.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#andreana.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="346" code="aosta" name="Aosta" rare="5" group="chiave_gang" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#aosta.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#aosta.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="365" code="april" name="에이프릴" rare="5" group="rimbilliton" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#april.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#april.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="129" code="bluepoison" name="블루포이즌" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#bluepoison.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#bluepoison.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="279" code="executor" name="Executor" rare="5" group="laterano" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#executor.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#executor.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="158" code="firewatch" name="파이어워치" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#firewatch.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#firewatch.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="367" code="greythroat" name="그레이스롯" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#greythroat.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#greythroat.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="219" code="meteorite" name="메테오라이트" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#meteorite.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#meteorite.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="204" code="platinum" name="플래티넘" rare="5" group="kazimierz" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#platinum.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#platinum.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="145" code="provence" name="프로방스" rare="5" group="siracusa" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#provence.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#provence.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="379" code="sesa" name="세사" rare="5" group="sargon" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#sesa.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#sesa.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="511" code="stormeye" name="Stormeye" rare="5" group="null" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#stormeye.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#stormeye.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="366" code="aciddrop" name="Aciddrop" rare="4" group="columbia" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#aciddrop.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#aciddrop.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="302" code="ambriel" name="엠브리얼" rare="4" group="laterano" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#ambriel.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#ambriel.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="235" code="jessica" name="제시카" rare="4" group="bsw" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#jessica.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#jessica.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="133" code="may" name="메이" rare="4" group="victoria" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#may.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#may.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="126" code="meteor" name="메테오" rare="4" group="kazimierz" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#meteor.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#meteor.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="440" code="pinecone" name="Pinecone" rare="4" group="columbia" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#pinecone.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#pinecone.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="118" code="shirayuki" name="시라유키" rare="4" group="higashi" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#shirayuki.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#shirayuki.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="190" code="vermeil" name="버메일" rare="4" group="siracusa" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#vermeil.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#vermeil.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="211" code="adnachiel" name="아드나키엘" rare="3" group="reop_team_a4" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#adnachiel.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#adnachiel.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="282" code="catapult" name="캐터필트" rare="3" group="reop_team_a6" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#catapult.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#catapult.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="124" code="kroos" name="크루스" rare="3" group="reop_team_a1" gender="g" position="c" Class="sniper" >
-    <ui_icon url="main#kroos.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#kroos.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="507" code="reserve_sniper" name="Reserve(Sniper)" rare="3" group="null" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#reserve_sniper.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#reserve_sniper.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="503" code="rangers" name="레인저" rare="2" group="reop_team_a4" gender="m" position="c" Class="sniper" >
-    <ui_icon url="main#rangers.png" path="main#ui_btn_green.png"/>
+    <ui_info url="main#rangers.png" path="main#ui_btn_green.png"/>
   </info>
 
   <info id="2013" code="ceobe" name="케오베" rare="6" group="rhodes" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#ceobe.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#ceobe.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="2015" code="dusk" name="Dusk" rare="6" group="yan_sui" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#dusk.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#dusk.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="180" code="eyjafjalla" name="에이야퍄들라" rare="6" group="leithanien" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#eyjafjalla.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#eyjafjalla.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="134" code="ifrit" name="이프리트" rare="6" group="rhinelab" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#ifrit.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#ifrit.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="213" code="mostima" name="모스티마" rare="6" group="laterano" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#mostima.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#mostima.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="405" code="absinthe" name="Absinthe" rare="5" group="ursus" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#absinthe.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#absinthe.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="002" code="amiya" name="아미야" rare="5" group="rhodes" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#amiya.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#amiya.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="344" code="beeswax" name="Beeswax" rare="5" group="sargon" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#beeswax.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#beeswax.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="338" code="iris" name="이리스" rare="5" group="victoria" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#iris.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#iris.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="306" code="leizi" name="레이지" rare="5" group="yan" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#leizi.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#leizi.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="373" code="leonhardt" name="레온하르트" rare="5" group="rimbilliton" gender="m" position="c" Class="caster" >
-    <ui_icon url="main#leonhardt.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#leonhardt.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="388" code="mint" name="민트" rare="5" group="victoria" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#mint.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#mint.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="164" code="nightmare" name="나이트메어" rare="5" group="victoria" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#nightmare.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#nightmare.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="509" code="pith" name="Pith" rare="5" group="null" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#pith.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#pith.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="1011" code="purgatory" name="Purgatory" rare="5" group="rhodes" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#purgatory.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#purgatory.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="166" code="skyfire" name="스카이파이어" rare="5" group="victoria" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#skyfire.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#skyfire.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="411" code="tomimi" name="Tomimi" rare="5" group="sargon" gender="g" position="c" Class="caster" >
-    <ui_icon url="main#tomimi.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#tomimi.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="328" code="click" name="클릭" rare="4" group="rhodes" gender="m" position="c" Class="caster" >
-    <ui_icon url="main#click.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#click.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="109" code="gitano" name="기타노" rare="4" group="sami" gender="g" position="r" Class="caster" >
-    <ui_icon url="main#gitano.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#gitano.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="253" code="greyy" name="그레이" rare="4" group="rhodes" gender="m" position="r" Class="caster" >
-    <ui_icon url="main#greyy.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#greyy.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="141" code="haze" name="헤이즈" rare="4" group="victoria" gender="g" position="r" Class="caster" >
-    <ui_icon url="main#haze.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#haze.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="121" code="lava" name="라바" rare="3" group="reop_team_a1" gender="g" position="r" Class="caster" >
-    <ui_icon url="main#lava.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#lava.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="505" code="reserve_caster" name="Reserve(Caster)" rare="3" group="null" gender="g" position="r" Class="caster" >
-    <ui_icon url="main#reserve_caster.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#reserve_caster.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="210" code="steward" name="스튜어드" rare="3" group="reop_team_a4" gender="m" position="r" Class="caster" >
-    <ui_icon url="main#steward.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#steward.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="009" code="12f" name="12F" rare="2" group="rhodes" gender="m" position="r" Class="caster" >
-    <ui_icon url="main#12f.png" path="main#ui_btn_green.png"/>
+    <ui_info url="main#12f.png" path="main#ui_btn_green.png"/>
   </info>
   <info id="501" code="durin" name="듀린" rare="2" group="reop_team_a4" gender="g" position="r" Class="caster" >
-    <ui_icon url="main#durin.png" path="main#ui_btn_green.png"/>
+    <ui_info url="main#durin.png" path="main#ui_btn_green.png"/>
   </info>
 
   <info id="291" code="angelina" name="안젤리나" rare="6" group="siracusa" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#angelina.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#angelina.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="248" code="magallan" name="마젤란" rare="6" group="rhinelab" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#magallan.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#magallan.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="358" code="suzuran" name="Suzuran" rare="6" group="siracusa" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#suzuran.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#suzuran.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="326" code="glaucus" name="Glaucus" rare="5" group="rhodes" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#glaucus.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#glaucus.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="242" code="mayer" name="메이어" rare="5" group="rhinelab" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#mayer.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#mayer.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="174" code="pramanix" name="프라마닉스" rare="5" group="karlan_trade" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#pramanix.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#pramanix.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="336" code="scene" name="Scene" rare="5" group="sargon" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#scene.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#scene.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="254" code="shamare" name="샤먀르" rare="5" group="siracusa" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#shamare.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#shamare.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="101" code="sora" name="소라" rare="5" group="penguin" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#sora.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#sora.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="343" code="tsukinogi" name="Tsukinogi" rare="5" group="higashi" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#tsukinogi.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#tsukinogi.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="195" code="istina" name="이스티나" rare="5" group="ussg" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#istina.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#istina.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="110" code="deepcolor" name="딥컬러" rare="4" group="rhodes" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#deepcolor.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#deepcolor.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="183" code="earthspirit" name="어스스피릿" rare="4" group="leithanien" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#earthspirit.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#earthspirit.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="258" code="podenco" name="포덴코" rare="4" group="rhodes" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#podenco.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#podenco.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="278" code="orchid" name="오키드" rare="3" group="reop_team_a6" gender="g" position="r" Class="supporter" >
-    <ui_icon url="main#orchid.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#orchid.png" path="main#ui_btn_blue.png"/>
   </info>
 
   <info id="179" code="nightingale" name="나이팅게일" rare="6" group="followers" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#nightingale.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#nightingale.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="147" code="shining" name="샤이닝" rare="6" group="followers" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#shining.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#shining.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="275" code="breeze" name="브리즈" rare="5" group="victoria" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#breeze.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#breeze.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="348" code="ceylon" name="실론" rare="5" group="siesta" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#ceylon.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#ceylon.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="345" code="folinic" name="Folinic" rare="5" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#folinic.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#folinic.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="128" code="ptilopsis" name="프틸롭시스" rare="5" group="rhinelab" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#ptilopsis.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#ptilopsis.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="108" code="silence" name="사일런스" rare="5" group="rhinelab" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#silence.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#silence.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="510" code="touch" name="Touch" rare="5" group="null" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#touch.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#touch.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="402" code="tuye" name="Tuye" rare="5" group="sargon" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#tuye.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#tuye.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="171" code="warfarin" name="와파린" rare="5" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#warfarin.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#warfarin.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="436" code="whisperain" name="Whisperain" rare="5" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#whisperain.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#whisperain.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="187" code="gavial" name="가비알" rare="4" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#gavial.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#gavial.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="117" code="myrrh" name="미르" rare="4" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#myrrh.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#myrrh.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="181" code="perfumer" name="퍼퓨머" rare="4" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#perfumer.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#perfumer.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="385" code="purestream" name="퓨어스트림" rare="4" group="yan" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#purestream.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#purestream.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="298" code="sussurro" name="Sussurro" rare="4" group="yan" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#sussurro.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#sussurro.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="212" code="ansel" name="안셀" rare="3" group="reop_team_a4" gender="m" position="r" Class="medic" >
-    <ui_icon url="main#ansel.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#ansel.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="120" code="hibiscus" name="히비스커스" rare="3" group="reop_team_a1" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#hibiscus.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#hibiscus.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="506" code="reserve_logistic" name="Reserve(Logistic)" rare="3" group="null" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#reserve_logistic.png" path="main#ui_btn_blue.png"/>
+    <ui_info url="main#reserve_logistic.png" path="main#ui_btn_blue.png"/>
   </info>
   <info id="285" code="lancet_2" name="Lancet-2" rare="1" group="rhodes" gender="g" position="r" Class="medic" >
-    <ui_icon url="main#lancet_2.png" path="main#ui_btn_gray.png"/>
+    <ui_info url="main#lancet_2.png" path="main#ui_btn_gray.png"/>
   </info>
 
   <info id="225" code="aak" name="아악" rare="6" group="lees_da" gender="m" position="r" Class="specialist" >
-    <ui_icon url="main#aak.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#aak.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="250" code="phantom" name="팬텀" rare="6" group="victoria" gender="m" position="c" Class="specialist" >
-    <ui_icon url="main#phantom.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#phantom.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="400" code="weedy" name="위디" rare="6" group="rhodes" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#weedy.png" path="main#ui_btn_red.png"/>
+    <ui_info url="main#weedy.png" path="main#ui_btn_red.png"/>
   </info>
   <info id="173" code="cliffheart" name="클리프하트" rare="5" group="karlan_trade" gender="c" position="r" Class="specialist" >
-    <ui_icon url="main#cliffheart.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#cliffheart.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="241" code="feater" name="에프이터" rare="5" group="yan_lungmen" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#feater.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#feater.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="458" code="frost" name="Frost" rare="5" group="team_rainbow" gender="g" position="r" Class="specialist" >
-    <ui_icon url="main#frost.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#frost.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="214" code="kafka" name="Kafka" rare="5" group="columbia" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#kafka.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#kafka.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="215" code="manticore" name="맨티코어" rare="5" group="sargon" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#manticore.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#manticore.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="455" code="nothing" name="Mr.Nothing" rare="5" group="yan" gender="m" position="c" Class="specialist" >
-    <ui_icon url="main#nothing.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#nothing.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="144" code="projektred" name="프로젝트레드" rare="5" group="sweep" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#projektred.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#projektred.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="451" code="robin" name="Robin" rare="5" group="columbia" gender="g" position="r" Class="specialist" >
-    <ui_icon url="main#robin.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#robin.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="383" code="snowsant" name="스노우상트" rare="5" group="yan_lungmen" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#snowsant.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#snowsant.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="243" code="waaifu" name="Waai Fu" rare="5" group="lees_da" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#waaifu.png" path="main#ui_btn_gold.png"/>
+    <ui_info url="main#waaifu.png" path="main#ui_btn_gold.png"/>
   </info>
   <info id="355" code="ethan" name="Ethan" rare="4" group="rhodes" gender="m" position="c" Class="specialist" >
-    <ui_icon url="main#ethan.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#ethan.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="237" code="gravel" name="그라벨" rare="4" group="kazimierz" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#gravel.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#gravel.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="272" code="jaye" name="Jaye" rare="4" group="yan_lungmen" gender="m" position="c" Class="specialist" >
-    <ui_icon url="main#jaye.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#jaye.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="236" code="rope" name="로프" rare="4" group="yan_lungmen" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#rope.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#rope.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="277" code="shaw" name="쇼" rare="4" group="yan_lungmen" gender="g" position="c" Class="specialist" >
-    <ui_icon url="main#shaw.png" path="main#ui_btn_cian.png"/>
+    <ui_info url="main#shaw.png" path="main#ui_btn_cian.png"/>
   </info>
   <info id="376" code="thermal_ex" name="Thermal-EX" rare="1" group="rhodes" gender="m" position="c" Class="specialist" >
-    <ui_icon url="main#thermal_ex.png" path="main#ui_btn_gray.png"/>
+    <ui_info url="main#thermal_ex.png" path="main#ui_btn_gray.png"/>
   </info>
 </chractors>
