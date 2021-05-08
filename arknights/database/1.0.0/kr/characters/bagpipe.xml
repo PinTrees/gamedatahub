@@ -56,7 +56,8 @@
     <tr_info code="tr_auto" info="자동발동" />
     <tr_info code="tr_manu" info="수동발동" />
   </translation>
-  
+
+  <ui ui="bottom_menu=" />
   <ilust code="elite_0/elite_2/ilust_race">
     <ilust_info ui="icon=elite_0,ilust=illust_elite_0" code="elite_0" name="기본" />
     <ilust_info ui="icon=elite_2,ilust=illust_elite_2" code="elite_2" name="2차정예화" />
@@ -78,7 +79,7 @@
   
   <elite ui="elite=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2">
     <upgrade_info code="elite_1" material="lmd/vg_3/poly_2/ketn_2" count="30000/5/10/3" />
-    <upgrade_info code="elite_2" material="lmd/vg_3/poly_1/ketn_2" count="180000/4/4/9"/>
+    <upgrade_info code="elite_2" material="lmd/vg_3/poly_5/rock_4" count="180000/4/4/9"/>
   </elite>
   <status>
     <status_info code="elite_0" rang="rang_icon_1" level_max="50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" redeploy="70" cost="11" block="1" attack_time="1.0" />
