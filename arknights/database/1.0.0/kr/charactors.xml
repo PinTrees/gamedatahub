@@ -11,15 +11,15 @@
   </file_hub>
 
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" Class="vanguard" >
-    <ui ui="icon=main#bagpipe.png,frame=ui#ui_btn_red"
+    <ui ui="icon=main#bagpipe.png,frame=ui#ui_btn_red.png"
              file="info=fun#bagpipe.xml" />
   </info>
   <info id="362" code="saga" name="세가" rare="6" group="higashi" gender="g" position="c" Class="vanguard" >
-    <ui ui="icon=main#saga.png,frame=ui#ui_btn_red"
+    <ui ui="icon=main#saga.png,frame=ui#ui_btn_red.png"
              file="info=fun#saga.xml"/>
   </info>
   <info id="112" code="siege" name="시즈" rare="6" group="glasgow" gender="g" position="c" Class="vanguard" >
-    <ui ui="icon=main#siege.png,frame=ui#ui_btn_red"
+    <ui ui="icon=main#siege.png,frame=ui#ui_btn_red.png"
              file="info=fun#siege.xml"/>
   </info>
   <info id="349" code="chiave" name="키아브" rare="5" group="chiavegang" gender="m" position="c" Class="vanguard" >
