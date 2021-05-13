@@ -1,7 +1,7 @@
 <root>
   <url_hub>
     <node code="master" url="https://github.com/PinTrees/gamedatahub/raw/master/" />
-    <node code="main_img" url="https://github.com/PinTrees/gamedatahub/raw/master/img/games/800x400" />
+    <node code="main_img" url="https://github.com/PinTrees/gamedatahub/raw/master/img/games/800x400/" />
   </url_hub>
   <file_hub>
     <node code="master" url="files/" />
