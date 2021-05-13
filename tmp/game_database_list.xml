@@ -1,0 +1,18 @@
+<root>
+  <url_hub code="database" url="https://github.com/PinTrees/gamedatahub/raw/master/" />
+ 
+  <file_hub code="database" url="files/" />
+
+  <info ui="icon=" page="menu="/>
+
+  <mode start="secen" />
+  <unity_ui>
+    <scrollview id="" rect_type="margin" rect="0,0,200,200" >
+      <button id="" style="newmopis" color="" icon="" sub_ui="" rect_type="fixe" rect="500,250" shadow_size="10" round="" text="명일방주" click="open=arknights" />
+      <button id="" style="newmopis" color="" icon="" sub_ui="" rect_type="fixe" rect="450,200" shadow_size="10" round="" text="원신 (준비중)" click="open=arknights" />
+    </scrollview>
+  </unity_ui>
+  <data>
+    <arknights url="database#arknights/database/1.0.0/kr/page_menu" file="database#arknights/database/1.0.0/kr/page_menu" />
+  </data>
+</root>
