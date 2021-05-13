@@ -12,7 +12,7 @@
   </url_node>
 
   <games>
-    <info ui="background=main_img#arknights.png" title="명일방주" limited="limited=Co Yostar + Hoysaw Limited" url="master#arknights/database/1.0.0/kr/page_menu.xml"/>
-    <info ui="background=main_img#arknights.png" title="원신" limited="limited=Co Yostar + Hoysaw Limited" url="master#genshin/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=main_img#arknights.png" title="명일방주" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#arknights/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=main_img#arknights.png" title="원신" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
   </games>
 </root>
