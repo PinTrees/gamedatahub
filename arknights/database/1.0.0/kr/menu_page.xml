@@ -1,0 +1,24 @@
+<root>
+  <url_hub>
+    <node code="master" url="https://github.com/PinTrees/gamedatahub/raw/master/" />
+  </url_hub>
+  <file_hub>
+    <node code="master" url="files/" />
+  </file_hub>
+
+  <url_node>
+  </url_node>
+  
+  <mode start="popup" />
+  <menus>
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="캐릭터" info="캐릭터 스킬, 능력치 정보" file="open=master#arknights/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=master#arknights/img/menu/400x200/materials.png" title="아이템" info="아이템 효과 정보" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
+ 
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="공개모집" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="헤드헌팅 시뮬레이터" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="캐릭터 비교" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
+    
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="팬아트" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="게시판" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
+  </menus>
+</root>
