@@ -11,7 +11,7 @@
   
   <mode start="popup" />
   <menus>
-    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="캐릭터" info="캐릭터 스킬, 능력치 정보" file="open=master#arknights/database/1.0.0/kr/page_menu.xml"/>
+    <info ui="background=master#arknights/img/menu/400x200/characters.png" title="캐릭터" info="캐릭터 스킬, 능력치 정보" file="open=master#arknights/database/1.0.0/kr/charactors.xml"/>
     <info ui="background=master#arknights/img/menu/400x200/materials.png" title="아이템" info="아이템 효과 정보" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
  
     <info ui="background=master#arknights/img/menu/400x200/characters.png" title="공개모집" limited="limited=Co Yostar + Hoysaw Limited" file="open=master#genshin/database/1.0.0/kr/page_menu.xml"/>
