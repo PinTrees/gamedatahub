@@ -10,10 +10,15 @@
     <url code="ui" url="files/arknights/asset.ui/" />
   </file_hub>
 
+  <style>
+    <color color="frame6=#FF5C28FF,frame5=#FF5C28FF,frame4=#FF5C28FF,frame3=#FF5C28FF,frame2=#FF5C28FF,frame1=#FF5C28FF"/>
+  </style>
+  
   <mode scene="akn_character" />
 
   <unity_ui>
-    <scrollview vertical="true"
+    <scrollview id ="scrollview"
+                vertical="true"
                 horizontal="fales" 
                 rect="0,0,100,177"
                 layout="grid" 
@@ -40,15 +45,18 @@
   
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=main#bagpipe.png,frame=ui#button/ui_btn_red.png"
-             file="info=fun#bagpipe.xml" />
+        file="info=fun#bagpipe.xml"
+        color="back=frame6" />
   </info>
   <info id="362" code="saga" name="세가" rare="6" group="higashi" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=main#saga.png,frame=ui#button/ui_btn_red.png"
-             file="info=fun#saga.xml"/>
+             file="info=fun#saga.xml"
+        color="back=frame6" />
   </info>
   <info id="112" code="siege" name="시즈" rare="6" group="glasgow" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=main#siege.png,frame=ui#button/ui_btn_red.png"
-             file="info=fun#siege.xml"/>
+             file="info=fun#siege.xml"
+        color="back=frame6" />
   </info>
   <info id="349" code="chiave" name="키아브" rare="5" group="chiavegang" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=main#chiave.png,frame=ui#button/ui_btn_gold.png"
@@ -117,27 +125,33 @@
 
   <info id="423" code="blemishine" name="Blemishine" rare="6" group="kazimierz" gender="g" position="c" Class="defender" >
     <ui ui="icon=main#blemishine.png,frame=ui#button/ui_btn_red.png"
-          file="info=fun#blemishine.xml" />
+          file="info=fun#blemishine.xml"
+        color="back=frame6" />
   </info>
   <info id="416" code="eunectes" name="유네틱스" rare="6" group="sargon" gender="g" position="c" Class="defender" >
     <ui ui="icon=main#eunectes.png,frame=ui#button/ui_btn_red.png"
-          file="info=fun#eunectes.xml" />
+          file="info=fun#eunectes.xml"
+        color="back=frame6" />
   </info>
   <info id="136" code="hoshiguma" name="호시구마" rare="6" group="lgd" gender="g" position="c" Class="defender" >
     <ui ui="icon=main#hoshiguma.png,frame=ui#button/ui_btn_red.png"
-          file="info=fun#hoshiguma.xml" />
+          file="info=fun#hoshiguma.xml"
+        color="back=frame6" />
   </info>
   <info id="311" code="mudrock" name="Mudrock" rare="6" group="rhodes" gender="m" position="c" Class="defender" >
     <ui ui="icon=main#mudrock.png,frame=ui#button/ui_btn_red.png"
-          file="info=fun#mudrock.xml" />
+          file="info=fun#mudrock.xml"
+        color="back=frame6" />
   </info>
   <info id="2014" code="nian" name="니엔" rare="6" group="yan_sui" gender="g" position="c" Class="defender" >
     <ui ui="icon=main#nian.png,frame=ui#button/ui_btn_red.png"
-          file="info=fun#nian.xml" />
+          file="info=fun#nian.xml"
+        color="back=frame6" />
   </info>
   <info id="202" code="saria" name="사리아" rare="6" group="rhinelab" gender="g" position="c" Class="defender" >
     <ui ui="icon=main#saria.png,frame=ui#button/ui_btn_red.png"
-          file="info=fun#saria.xml" />
+          file="info=fun#saria.xml"
+        color="back=frame6" />
   </info>
   <info id="378" code="asbestos" name="Asbestos" rare="5" group="rimbilliton" gender="m" position="c" Class="defender" >
     <ui ui="icon=main#asbestos.png,frame=ui#button/ui_btn_gold.png"
