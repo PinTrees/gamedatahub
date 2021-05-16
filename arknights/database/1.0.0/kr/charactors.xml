@@ -15,6 +15,7 @@
   <unity_ui>
     <scrollview vertical="true"
                 horizontal="fales" 
+                rect="0,0,100,177"
                 layout="grid" 
                 layout_padding="24,24,300,300"
                 grid_layout_spacing="24,24"
@@ -29,12 +30,12 @@
     </scrollview>
   </unity_ui>
   <prefab>
-    <gameobject>
-      <button img="circle" round="7" color="FF5C28">
+    <info id="charicon">
+      <button img="circle" round="7" color="#FF5C28FF">
         <rawimage_mask img="main#bagpipe.png" round=""/>
         <text text ="백파이프"/>
       </button>
-    </gameobject>
+    </info>
   </prefab>
   
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" Class="vanguard" >
