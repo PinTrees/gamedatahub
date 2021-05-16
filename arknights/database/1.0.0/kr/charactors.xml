@@ -60,67 +60,83 @@
   </info>
   <info id="349" code="chiave" name="키아브" rare="5" group="chiavegang" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#chiave.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#chiave.xml"/>
+             file="info=akn_database_charinfo#chiave.xml"
+         color="back=frame5"/>
   </info>
   <info id="401" code="elysium" name="엘리시움" rare="5" group="rhodes" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#elysium.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#elysium.xml"/>
+             file="info=akn_database_charinfo#elysium.xml"
+        color="back=frame5"/>
   </info>
   <info id="220" code="grani" name="그라니" rare="5" group="victoria" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#grani.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#grani.xml"/>
+             file="info=akn_database_charinfo#grani.xml"
+        color="back=frame5"/>
   </info>
   <info id="261" code="reed" name="리드" rare="5" group="victoria" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#reed.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#reed.xml"/>
+             file="info=akn_database_charinfo#reed.xml"
+        color="back=frame5"/>
   </info>
   <info id="102" code="texas" name="텍사스" rare="5" group="penguin" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#texas.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#texas.xml"/>
+             file="info=akn_database_charinfo#texas.xml"
+        color="back=frame5"/>
   </info>
   <info id="115" code="zima" name="지마" rare="5" group="ussg" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#zima.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#zima.xml"/>
+             file="info=akn_database_charinfo#zima.xml"
+        color="back=frame5"/>
   </info>
   <info id="452" code="beanstalk" name="Beanstalk" rare="4" group="columbia" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#beanstalk.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#beanstalk.xml"/>
+             file="info=akn_database_charinfo#beanstalk.xml"
+        color="back=frame4"/>
   </info>
   <info id="198" code="courier" name="쿠리어" rare="4" group="karlan" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#courier.png,frame=ui#button/ui_btn_cian.png"
-             file="info=akn_database_charinfo#courier.xml"/>
+             file="info=akn_database_charinfo#courier.xml"
+        color="back=frame4"/>
   </info>
   <info id="151" code="myrtle" name="머틀" rare="4" group="rhodes" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#myrtle.png,frame=ui#button/ui_btn_cian.png"
-             file="info=akn_database_charinfo#myrtle.xml"/>
+             file="info=akn_database_charinfo#myrtle.xml"
+        color="back=frame4"/>
   </info>
   <info id="149" code="scavenger" name="스캐빈저" rare="4" group="swerp" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#scavenger.png,frame=ui#button/ui_btn_cian.png"
-             file="info=akn_database_charinfo#scavenger.xml"/>
+             file="info=akn_database_charinfo#scavenger.xml"
+        color="back=frame4"/>
   </info>
   <info id="290" code="vigna" name="비그나" rare="4" group="columbia" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#vigna.png,frame=ui#button/ui_btn_cian.png"
-             file="info=akn_database_charinfo#vigna.xml"/>
+             file="info=akn_database_charinfo#vigna.xml"
+        color="back=frame4"/>
   </info>
   <info id="123" code="fang" name="팽" rare="3" group="reop_team_a1" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#fang.png,frame=ui#button/ui_btn_blue.png"
-             file="info=akn_database_charinfo#fang.xml"/>
+             file="info=akn_database_charinfo#fang.xml"
+        color="back=frame3"/>
   </info>
   <info id="192" code="plume" name="플룸" rare="3" group="laterano" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#plume.png,frame=ui#button/ui_btn_blue.png"
-             file="info=akn_database_charinfo#plume.xml"/>
+             file="info=akn_database_charinfo#plume.xml"
+        color="back=frame3"/>
   </info>
   <info id="504" code="reserve_melee" name="Reserve" rare="3" group="null" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#reserve_melee.png,frame=ui#button/ui_btn_blue.png"
-        file="info=akn_database_charinfo#reserve_melee.xml"/>
+        file="info=akn_database_charinfo#reserve_melee.xml"
+        color="back=frame3"/>
   </info>
   <info id="240" code="vanilla" name="바닐라" rare="3" group="bsw" gender="g" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#vanilla.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#vanilla.xml" />
+          file="info=akn_database_charinfo#vanilla.xml" 
+        color="back=frame3"/>
   </info>
   <info id="502" code="yato" name="야토" rare="2" group="op_team_a4" gender="m" position="c" Class="vanguard" >
     <ui ui="icon=akn_charicon#yato.png,frame=ui#button/ui_btn_green.png"
-          file="info=akn_database_charinfo#yato.xml" />
+          file="info=akn_database_charinfo#yato.xml" 
+        color="back=frame2"/>
   </info>
 
   <info id="423" code="blemishine" name="Blemishine" rare="6" group="kazimierz" gender="g" position="c" Class="defender" >
@@ -155,128 +171,159 @@
   </info>
   <info id="378" code="asbestos" name="Asbestos" rare="5" group="rimbilliton" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#asbestos.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#asbestos.xml" />
+          file="info=akn_database_charinfo#asbestos.xml"
+        color="back=frame5"/>
   </info>
   <info id="325" code="bison" name="바이슨" rare="5" group="yan_lungmen" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#bison.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#bison.xml" />
+          file="info=akn_database_charinfo#bison.xml"
+        color="back=frame5"/>
   </info>
   <info id="457" code="blitz" name="Blitz" rare="5" group="team_rainbow" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#blitz.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#blitz.xml" />
+          file="info=akn_database_charinfo#blitz.xml"
+        color="back=frame5"/>
   </info>
   <info id="201" code="croissant" name="크루아상" rare="5" group="penguin" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#croissant.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#croissant.xml" />
+          file="info=akn_database_charinfo#croissant.xml"
+        color="back=frame5"/>
   </info>
   <info id="226" code="hung" name="Hung" rare="5" group="lees_da" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#hung.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#hung.xml" />
+          file="info=akn_database_charinfo#hung.xml" 
+        color="back=frame5"/>
   </info>
   <info id="107" code="liskarm" name="리스캄" rare="5" group="bsw" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#liskarm.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#liskarm.xml" />
+          file="info=akn_database_charinfo#liskarm.xml" 
+        color="back=frame5"/>
   </info>
   <info id="148" code="nearl" name="니어" rare="5" group="followers" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#nearl.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#nearl.xml" />
+          file="info=akn_database_charinfo#nearl.xml" 
+        color="back=frame5"/>
   </info>
   <info id="163" code="vulcan" name="블칸" rare="5" group="rhodes" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#vulcan.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#vulcan.xml" />
+          file="info=akn_database_charinfo#vulcan.xml" 
+        color="back=frame5"/>
   </info>
   <info id="381" code="bubble" name="Bubble" rare="4" group="sargon" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#bubble.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#bubble.xml" />
+          file="info=akn_database_charinfo#bubble.xml" 
+        color="back=frame4"/>
   </info>
   <info id="150" code="cuora" name="쿠오라" rare="4" group="columbia" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#cuora.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#cuora.xml" />
+          file="info=akn_database_charinfo#cuora.xml" 
+        color="back=frame4"/>
   </info>
   <info id="260" code="durnar" name="듀르나르" rare="4" group="rhodes" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#durnar.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#durnar.xml" />
+          file="info=akn_database_charinfo#durnar.xml" 
+        color="back=frame4"/>
   </info>
   <info id="199" code="matterhorn" name="마터호른" rare="4" group="karlan" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#matterhorn.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#matterhorn.xml" />
+          file="info=akn_database_charinfo#matterhorn.xml" 
+        color="back=frame4"/>
   </info>
   <info id="196" code="gum" name="굼" rare="4" group="ussg" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#gum.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#gum.xml" />
+          file="info=akn_database_charinfo#gum.xml"
+        color="back=frame4"/>
   </info>
   <info id="122" code="beagle" name="비글" rare="3" group="reop_team_a1" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#beagle.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#beagle.xml" />
+          file="info=akn_database_charinfo#beagle.xml"
+        color="back=frame3"/>
   </info>
   <info id="209" code="cardigan" name="카디건" rare="3" group="reop_team_a4" gender="g" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#cardigan.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#cardigan.xml" />
+          file="info=akn_database_charinfo#cardigan.xml"
+        color="back=frame3"/>
   </info>
   <info id="284" code="spot" name="Spot" rare="3" group="reop_team_a6" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#spot.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#spot.xml" />
+          file="info=akn_database_charinfo#spot.xml" 
+        color="back=frame3"/>
   </info>
   <info id="500" code="noircorne" name="느와르코르네" rare="2" group="reop_team_a4" gender="m" position="c" Class="defender" >
     <ui ui="icon=akn_charicon#noircorne.png,frame=ui#button/ui_btn_green.png"
-          file="info=akn_database_charinfo#noircorne.xml" />
+          file="info=akn_database_charinfo#noircorne.xml"
+        color="back=frame2"/>
   </info>
 
   <info id="017" code="blaze" name="블래이즈" rare="6" group="rhodes_elite_op" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#blaze.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#blaze.xml" />
+          file="info=akn_database_charinfo#blaze.xml"
+         color="back=frame6"/>
   </info>
   <info id="010" code="chen" name="첸" rare="6" group="lgd" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#chen.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#chen.xml" />
+          file="info=akn_database_charinfo#chen.xml"
+         color="back=frame6"/>
   </info>
   <info id="188" code="hellagur" name="헬라그" rare="6" group="ursus" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#hellagur.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#hellagur.xml" />
+          file="info=akn_database_charinfo#hellagur.xml" 
+         color="back=frame6"/>
   </info>
   <info id="264" code="mountain" name="Mountain" rare="6" group="columbia" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#mountain.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#mountain.xml" />
+          file="info=akn_database_charinfo#mountain.xml" 
+         color="back=frame6"/>
   </info>
   <info id="172" code="silverash" name="실버애쉬" rare="6" group="karlan" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#silverash.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#silverash.xml" />
+          file="info=akn_database_charinfo#silverash.xml" 
+         color="back=frame6"/>
   </info>
   <info id="263" code="skadi" name="스카디" rare="6" group="abyssal_hunters" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#skadi.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#skadi.xml" />
+          file="info=akn_database_charinfo#skadi.xml"
+         color="back=frame6"/>
   </info>
   <info id="350" code="surtr" name="수르트" rare="6" group="rhodes" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#surtr.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#surtr.xml" />
+          file="info=akn_database_charinfo#surtr.xml" 
+         color="back=frame6"/>
   </info>
   <info id="293" code="thorns" name="Thorns" rare="6" group="rhodes" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#thorns.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#thorns.xml" />
+          file="info=akn_database_charinfo#thorns.xml"
+         color="back=frame6"/>
   </info>
   <info id="274" code="astesia" name="아스테시아" rare="5" group="columbia" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#astesia.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#astesia.xml" />
+          file="info=akn_database_charinfo#astesia.xml"
+        color="back=frame5"/>
   </info>
   <info id="294" code="ayerscarpe" name="Ayerscarpe" rare="5" group="rimbilliton" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#ayerscarpe.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#ayerscarpe.xml" />
+          file="info=akn_database_charinfo#ayerscarpe.xml" 
+        color="back=frame5"/>
   </info>
   <info id="252" code="bibeak" name="바이비크" rare="5" group="sami" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#bibeak.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#bibeak.xml" />
+          file="info=akn_database_charinfo#bibeak.xml"
+        color="back=frame5"/>
   </info>
   <info id="356" code="broca" name="브로카" rare="5" group="chiave_gang" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#broca.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#broca.xml" />
+          file="info=akn_database_charinfo#broca.xml" 
+        color="back=frame5"/>
   </info>
   <info id="131" code="flamebringer" name="플레임브링어" rare="5" group="rhodes" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#flamebringer.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#flamebringer.xml" />
+          file="info=akn_database_charinfo#flamebringer.xml"
+        color="back=frame5"/>
   </info>
   <info id="415" code="flint" name="Flint" rare="5" group="sargon" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#flint.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#flint.xml" />
+          file="info=akn_database_charinfo#flint.xml"
+        color="back=frame5"/>
   </info>
   <info id="106" code="franka" name="프란카" rare="5" group="bsw" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#franka.png,frame=ui#button/ui_btn_gold.png"
@@ -284,551 +331,687 @@
   </info>
   <info id="155" code="indra" name="인드라" rare="5" group="glasgow" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#indra.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#indra.xml" />
+          file="info=akn_database_charinfo#indra.xml"
+        color="back=frame5"/>
   </info>
   <info id="140" code="lappland" name="라플란드" rare="5" group="siracusa" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#lappland.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#lappland.xml" />
+          file="info=akn_database_charinfo#lappland.xml" 
+        color="back=frame5"/>
   </info>
   <info id="230" code="savage" name="새비지" rare="5" group="rimbilliton" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#savage.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#savage.xml" />
+          file="info=akn_database_charinfo#savage.xml" 
+        color="back=frame5"/>
   </info>
   <info id="508" code="sharp" name="샤프" rare="5" group="null" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#sharp.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#sharp.xml" />
+          file="info=akn_database_charinfo#sharp.xml"
+        color="back=frame5"/>
   </info>
   <info id="333" code="sideroca" name="사이드로카" rare="5" group="rhodes" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#sideroca.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#sideroca.xml" />
+          file="info=akn_database_charinfo#sideroca.xml"
+        color="back=frame5"/>
   </info>
   <info id="143" code="specter" name="스펙터" rare="5" group="abyssal_hunters" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#specter.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#specter.xml" />
+          file="info=akn_database_charinfo#specter.xml"
+        color="back=frame5"/>
   </info>
   <info id="308" code="swire" name="스와이어" rare="5" group="lgd" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#swire.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#swire.xml" />
+          file="info=akn_database_charinfo#swire.xml"
+        color="back=frame5"/>
   </info>
   <info id="459" code="tachanka" name="Tachanka" rare="5" group="team_rainbow" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#tachanka.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#tachanka.xml" />
+          file="info=akn_database_charinfo#tachanka.xml"
+        color="back=frame5"/>
   </info>
   <info id="265" code="whislash" name="Whislash" rare="5" group="kazimierz" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#whislash.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#whislash.xml" />
+          file="info=akn_database_charinfo#whislash.xml" 
+        color="back=frame5"/>
   </info>
   <info id="271" code="arene" name="Arene" rare="4" group="laterano" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#arene.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#arene.xml" />
+          file="info=akn_database_charinfo#arene.xml" 
+        color="back=frame4"/>
   </info>
   <info id="137" code="beehunter" name="비헌터" rare="4" group="ursus" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#beehunter.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#beehunter.xml" />
+          file="info=akn_database_charinfo#beehunter.xml"
+        color="back=frame4"/>
   </info>
   <info id="159" code="conviction" name="Conviction" rare="4" group="rhodes" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#conviction.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#conviction.xml" />
+          file="info=akn_database_charinfo#conviction.xml"
+        color="back=frame4"/>
   </info>
   <info id="301" code="cutter" name="커터" rare="4" group="columbia" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#cutter.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#cutter.xml" />
+          file="info=akn_database_charinfo#cutter.xml" 
+        color="back=frame4"/>
   </info>
   <info id="130" code="dobermann" name="도베르만" rare="4" group="rhodes" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#dobermann.png,frame=ui#button/ui_btn_gray.png"
-          file="info=akn_database_charinfo#dobermann.xml" />
+          file="info=akn_database_charinfo#dobermann.xml" 
+        color="back=frame4"/>
   </info>
   <info id="127" code="estelle" name="에스텔" rare="4" group="sargon" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#estelle.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#estelle.xml" />
+          file="info=akn_database_charinfo#estelle.xml" 
+        color="back=frame4"/>
   </info>
   <info id="193" code="frostleaf" name="프로스트리프" rare="4" group="rhodes" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#frostleaf.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#frostleaf.xml" />
+          file="info=akn_database_charinfo#frostleaf.xml" 
+        color="back=frame4"/>
   </info>
   <info id="347" code="jackie" name="Jackie" rare="4" group="columbia" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#jackie.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#jackie.xml" />
+          file="info=akn_database_charinfo#jackie.xml" 
+        color="back=frame4"/>
   </info>
   <info id="289" code="matoimaru" name="마토이마루" rare="4" group="higashi" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#matoimaru.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#matoimaru.xml" />
+          file="info=akn_database_charinfo#matoimaru.xml" 
+        color="back=frame4"/>
   </info>
   <info id="185" code="mousse" name="무스" rare="4" group="victoria" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#mousse.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#mousse.xml" />
+          file="info=akn_database_charinfo#mousse.xml"
+        color="back=frame4"/>
   </info>
   <info id="337" code="utage" name="우타게" rare="4" group="higashi" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#utage.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#utage.xml" />
+          file="info=akn_database_charinfo#utage.xml"
+        color="back=frame4"/>
   </info>
   <info id="208" code="melantha" name="멜란사" rare="3" group="reop_team_a4" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#melantha.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#melantha.xml" />
+          file="info=akn_database_charinfo#melantha.xml" 
+        color="back=frame3"/>
   </info>
   <info id="283" code="midnight" name="미드나이트" rare="3" group="reop_team_a6" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#midnight.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#midnight.xml" />
+          file="info=akn_database_charinfo#midnight.xml"
+        color="back=frame3"/>
   </info>
   <info id="281" code="popukar" name="포푸카" rare="3" group="reop_team_a6" gender="g" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#popukar.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#popukar.xml" />
+          file="info=akn_database_charinfo#popukar.xml" 
+        color="back=frame3"/>
   </info>
   <info id="286" code="castle_3" name="Castle-3" rare="1" group="rhodes" gender="m" position="c" Class="guard" >
     <ui ui="icon=akn_charicon#castle_3.png,frame=ui#button/ui_btn_gray.png"
-          file="info=akn_database_charinfo#castle_3.xml" />
+          file="info=akn_database_charinfo#castle_3.xml"
+        color="back=frame1"/>
   </info>
 
   <info id="332" code="archetto" name="Archetto" rare="6" group="laterano" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#archetto.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#archetto.xml" />
+          file="info=akn_database_charinfo#archetto.xml"
+        color="back=frame6"/>
   </info>
   <info id="456" code="ash" name="애쉬" rare="6" group="team_rainbow" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#ash.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#ash.xml" />
+          file="info=akn_database_charinfo#ash.xml" 
+        color="back=frame6"/>
   </info>
   <info id="103" code="exusiai" name="엑시아" rare="6" group="penguin" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#exusiai.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#exusiai.xml" />
+          file="info=akn_database_charinfo#exusiai.xml"
+        color="back=frame6"/>
   </info>
   <info id="391" code="rosmontis" name="Rosmontis" rare="6" group="rhodes_elite_op" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#rosmontis.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#rosmontis.xml" />
+          file="info=akn_database_charinfo#rosmontis.xml" 
+        color="back=frame6"/>
   </info>
   <info id="340" code="schwarz" name="슈바르츠" rare="6" group="siesta" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#schwarz.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#schwarz.xml" />
+          file="info=akn_database_charinfo#schwarz.xml"
+        color="back=frame6"/>
   </info>
   <info id="113" code="w" name="W" rare="6" group="babel" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#w.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#w.xml" />
+          file="info=akn_database_charinfo#w.xml" 
+        color="back=frame6"/>
   </info>
   <info id="197" code="rosa" name="로사" rare="6" group="ussg" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#rosa.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#rosa.xml" />
+          file="info=akn_database_charinfo#rosa.xml"
+        color="back=frame6"/>
   </info>
   <info id="218" code="andreanaоса" name="안드레아나" rare="5" group="abyssal_hunters" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#andreana.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#andreana.xml" />
+          file="info=akn_database_charinfo#andreana.xml" 
+        color="back=frame5"/>
   </info>
   <info id="346" code="aosta" name="Aosta" rare="5" group="chiave_gang" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#aosta.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#aosta.xml" />
+          file="info=akn_database_charinfo#aosta.xml"
+        color="back=frame5"/>
   </info>
   <info id="365" code="april" name="에이프릴" rare="5" group="rimbilliton" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#april.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#april.xml" />
+          file="info=akn_database_charinfo#april.xml"
+        color="back=frame5"/>
   </info>
   <info id="129" code="bluepoison" name="블루포이즌" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#bluepoison.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#bluepoison.xml" />
+          file="info=akn_database_charinfo#bluepoison.xml"
+        color="back=frame5"/>
   </info>
   <info id="279" code="executor" name="Executor" rare="5" group="laterano" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#executor.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#executor.xml" />
+          file="info=akn_database_charinfo#executor.xml"
+        color="back=frame5"/>
   </info>
   <info id="158" code="firewatch" name="파이어워치" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#firewatch.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#firewatch.xml" />
+          file="info=akn_database_charinfo#firewatch.xml" 
+        color="back=frame5"/>
   </info>
   <info id="367" code="greythroat" name="그레이스롯" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#greythroat.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#greythroat.xml" />
+          file="info=akn_database_charinfo#greythroat.xml"
+        color="back=frame5"/>
   </info>
   <info id="219" code="meteorite" name="메테오라이트" rare="5" group="rhodes" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#meteorite.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#meteorite.xml" />
+          file="info=akn_database_charinfo#meteorite.xml" 
+        color="back=frame5"/>
   </info>
   <info id="204" code="platinum" name="플래티넘" rare="5" group="kazimierz" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#platinum.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#platinum.xml" />
+          file="info=akn_database_charinfo#platinum.xml"
+        color="back=frame5" />
   </info>
   <info id="145" code="provence" name="프로방스" rare="5" group="siracusa" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#provence.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#provence.xml" />
+          file="info=akn_database_charinfo#provence.xml" 
+        color="back=frame5"/>
   </info>
   <info id="379" code="sesa" name="세사" rare="5" group="sargon" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#sesa.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#sesa.xml" />
+          file="info=akn_database_charinfo#sesa.xml" 
+        color="back=frame5"/>
   </info>
   <info id="511" code="stormeye" name="Stormeye" rare="5" group="null" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#stormeye.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#stormeye.xml" />
+          file="info=akn_database_charinfo#stormeye.xml" 
+        color="back=frame5"/>
   </info>
   <info id="366" code="aciddrop" name="Aciddrop" rare="4" group="columbia" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#aciddrop.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#aciddrop.xml" />
+          file="info=akn_database_charinfo#aciddrop.xml"
+        color="back=frame4" />
   </info>
   <info id="302" code="ambriel" name="엠브리얼" rare="4" group="laterano" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#ambriel.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#ambriel.xml" />
+          file="info=akn_database_charinfo#ambriel.xml"
+        color="back=frame4" />
   </info>
   <info id="235" code="jessica" name="제시카" rare="4" group="bsw" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#jessica.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#jessica.xml" />
+          file="info=akn_database_charinfo#jessica.xml"
+        color="back=frame4" />
   </info>
   <info id="133" code="may" name="메이" rare="4" group="victoria" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#may.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#may.xml" />
+          file="info=akn_database_charinfo#may.xml"
+        color="back=frame4" />
   </info>
   <info id="126" code="meteor" name="메테오" rare="4" group="kazimierz" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#meteor.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#meteor.xml" />
+          file="info=akn_database_charinfo#meteor.xml" 
+        color="back=frame4"/>
   </info>
   <info id="440" code="pinecone" name="Pinecone" rare="4" group="columbia" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#pinecone.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#pinecone.xml" />
+          file="info=akn_database_charinfo#pinecone.xml"
+        color="back=frame4" />
   </info>
   <info id="118" code="shirayuki" name="시라유키" rare="4" group="higashi" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#shirayuki.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#shirayuki.xml" />
+          file="info=akn_database_charinfo#shirayuki.xml" 
+        color="back=frame4"/>
   </info>
   <info id="190" code="vermeil" name="버메일" rare="4" group="siracusa" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#vermeil.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#vermeil.xml" />
+          file="info=akn_database_charinfo#vermeil.xml"
+        color="back=frame4" />
   </info>
   <info id="211" code="adnachiel" name="아드나키엘" rare="3" group="reop_team_a4" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#adnachiel.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#adnachiel.xml" />
+          file="info=akn_database_charinfo#adnachiel.xml"
+        color="back=frame3" />
   </info>
   <info id="282" code="catapult" name="캐터필트" rare="3" group="reop_team_a6" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#catapult.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#catapult.xml" />
+          file="info=akn_database_charinfo#catapult.xml" 
+        color="back=frame3"/>
   </info>
   <info id="124" code="kroos" name="크루스" rare="3" group="reop_team_a1" gender="g" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#kroos.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#kroos.xml" />
+          file="info=akn_database_charinfo#kroos.xml"
+        color="back=frame3" />
   </info>
   <info id="507" code="reserve_sniper" name="Reserve(Sniper)" rare="3" group="null" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#reserve_sniper.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#reserve_sniper.xml" />
+          file="info=akn_database_charinfo#reserve_sniper.xml" 
+        color="back=frame3"/>
   </info>
   <info id="503" code="rangers" name="레인저" rare="2" group="reop_team_a4" gender="m" position="c" Class="sniper" >
     <ui ui="icon=akn_charicon#rangers.png,frame=ui#button/ui_btn_green.png"
-          file="info=akn_database_charinfo#rangers.xml" />
+          file="info=akn_database_charinfo#rangers.xml"
+        color="back=frame2" />
   </info>
 
   <info id="2013" code="ceobe" name="케오베" rare="6" group="rhodes" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#ceobe.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#ceobe.xml" />
+          file="info=akn_database_charinfo#ceobe.xml" 
+        color="back=frame6"/>
   </info>
   <info id="2015" code="dusk" name="Dusk" rare="6" group="yan_sui" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#dusk.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#dusk.xml" />
+          file="info=akn_database_charinfo#dusk.xml"
+        color="back=frame6" />
   </info>
   <info id="180" code="eyjafjalla" name="에이야퍄들라" rare="6" group="leithanien" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#eyjafjalla.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#eyjafjalla.xml" />
+          file="info=akn_database_charinfo#eyjafjalla.xml"
+        color="back=frame6" />
   </info>
   <info id="134" code="ifrit" name="이프리트" rare="6" group="rhinelab" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#ifrit.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#ifrit.xml" />
+          file="info=akn_database_charinfo#ifrit.xml" 
+        color="back=frame6"/>
   </info>
   <info id="213" code="mostima" name="모스티마" rare="6" group="laterano" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#mostima.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#mostima.xml" />
+          file="info=akn_database_charinfo#mostima.xml"
+        color="back=frame6" />
   </info>
   <info id="405" code="absinthe" name="Absinthe" rare="5" group="ursus" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#absinthe.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#absinthe.xml" />
+          file="info=akn_database_charinfo#absinthe.xml"
+        color="back=frame5" />
   </info>
   <info id="002" code="amiya" name="아미야" rare="5" group="rhodes" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#amiya.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#amiya.xml" />
+          file="info=akn_database_charinfo#amiya.xml"
+        color="back=frame5"  />
   </info>
   <info id="344" code="beeswax" name="Beeswax" rare="5" group="sargon" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#beeswax.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#beeswax.xml" />
+          file="info=akn_database_charinfo#beeswax.xml"
+        color="back=frame5"  />
   </info>
   <info id="338" code="iris" name="이리스" rare="5" group="victoria" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#iris.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#iris.xml" />
+          file="info=akn_database_charinfo#iris.xml" 
+        color="back=frame5" />
   </info>
   <info id="306" code="leizi" name="레이지" rare="5" group="yan" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#leizi.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#leizi.xml" />
+          file="info=akn_database_charinfo#leizi.xml"
+        color="back=frame5"  />
   </info>
   <info id="373" code="leonhardt" name="레온하르트" rare="5" group="rimbilliton" gender="m" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#leonhardt.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#leonhardt.xml" />
+          file="info=akn_database_charinfo#leonhardt.xml" 
+        color="back=frame5" />
   </info>
   <info id="388" code="mint" name="민트" rare="5" group="victoria" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#mint.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#mint.xml" />
+          file="info=akn_database_charinfo#mint.xml"
+        color="back=frame5"  />
   </info>
   <info id="164" code="nightmare" name="나이트메어" rare="5" group="victoria" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#nightmare.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#nightmare.xml" />
+          file="info=akn_database_charinfo#nightmare.xml"
+        color="back=frame5"  />
   </info>
   <info id="509" code="pith" name="Pith" rare="5" group="null" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#pith.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#pith.xml" />
+          file="info=akn_database_charinfo#pith.xml" 
+        color="back=frame5" />
   </info>
   <info id="1011" code="purgatory" name="Purgatory" rare="5" group="rhodes" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#purgatory.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#purgatory.xml" />
+          file="info=akn_database_charinfo#purgatory.xml"
+        color="back=frame5"  />
   </info>
   <info id="166" code="skyfire" name="스카이파이어" rare="5" group="victoria" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#skyfire.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#skyfire.xml" />
+          file="info=akn_database_charinfo#skyfire.xml"
+        color="back=frame5"  />
   </info>
   <info id="411" code="tomimi" name="Tomimi" rare="5" group="sargon" gender="g" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#tomimi.png,frame=ui#button/ui_btn_gray.png"
-          file="info=akn_database_charinfo#tomimi.xml" />
+          file="info=akn_database_charinfo#tomimi.xml"
+        color="back=frame5"  />
   </info>
   <info id="328" code="click" name="클릭" rare="4" group="rhodes" gender="m" position="c" Class="caster" >
     <ui ui="icon=akn_charicon#click.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#click.xml" />
+          file="info=akn_database_charinfo#click.xml" 
+        color="back=frame4" />
   </info>
   <info id="109" code="gitano" name="기타노" rare="4" group="sami" gender="g" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#gitano.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#gitano.xml" />
+          file="info=akn_database_charinfo#gitano.xml"
+        color="back=frame4" />
   </info>
   <info id="253" code="greyy" name="그레이" rare="4" group="rhodes" gender="m" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#greyy.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#greyy.xml" />
+          file="info=akn_database_charinfo#greyy.xml"  
+        color="back=frame4"/>
   </info>
   <info id="141" code="haze" name="헤이즈" rare="4" group="victoria" gender="g" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#haze.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#haze.xml" />
+          file="info=akn_database_charinfo#haze.xml"
+        color="back=frame4" />
   </info>
   <info id="121" code="lava" name="라바" rare="3" group="reop_team_a1" gender="g" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#lava.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#lava.xml" />
+          file="info=akn_database_charinfo#lava.xml"
+        color="back=frame3" />
   </info>
   <info id="505" code="reserve_caster" name="Reserve(Caster)" rare="3" group="null" gender="g" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#reserve_caster.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#reserve_caster.xml" />
+          file="info=akn_database_charinfo#reserve_caster.xml"
+        color="back=frame3"  />
   </info>
   <info id="210" code="steward" name="스튜어드" rare="3" group="reop_team_a4" gender="m" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#steward.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#steward.xml" />
+          file="info=akn_database_charinfo#steward.xml" 
+        color="back=frame3" />
   </info>
   <info id="009" code="12f" name="12F" rare="2" group="rhodes" gender="m" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#12f.png,frame=ui#button/ui_btn_green.png"
-          file="info=akn_database_charinfo#12f.xml" />
+          file="info=akn_database_charinfo#12f.xml" 
+        color="back=frame2" />
   </info>
   <info id="501" code="durin" name="듀린" rare="2" group="reop_team_a4" gender="g" position="r" Class="caster" >
     <ui ui="icon=akn_charicon#durin.png,frame=ui#button/ui_btn_green.png"
-          file="info=akn_database_charinfo#durin.xml" />
+          file="info=akn_database_charinfo#durin.xml" 
+        color="back=frame2"/>
   </info>
 
   <info id="291" code="angelina" name="안젤리나" rare="6" group="siracusa" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#angelina.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#angelina.xml" />
+          file="info=akn_database_charinfo#angelina.xml"
+        color="back=frame6" />
   </info>
   <info id="248" code="magallan" name="마젤란" rare="6" group="rhinelab" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#magallan.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#magallan.xml" />
+          file="info=akn_database_charinfo#magallan.xml" 
+        color="back=frame6"/>
   </info>
   <info id="358" code="suzuran" name="Suzuran" rare="6" group="siracusa" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#suzuran.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#suzuran.xml" />
+          file="info=akn_database_charinfo#suzuran.xml"
+        color="back=frame6" />
   </info>
   <info id="326" code="glaucus" name="Glaucus" rare="5" group="rhodes" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#glaucus.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#glaucus.xml" />
+          file="info=akn_database_charinfo#glaucus.xml" 
+        color="back=frame5"/>
   </info>
   <info id="242" code="mayer" name="메이어" rare="5" group="rhinelab" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#mayer.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#mayer.xml" />
+          file="info=akn_database_charinfo#mayer.xml"
+        color="back=frame5" />
   </info>
   <info id="174" code="pramanix" name="프라마닉스" rare="5" group="karlan_trade" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#pramanix.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#pramanix.xml" />
+          file="info=akn_database_charinfo#pramanix.xml" 
+        color="back=frame5"/>
   </info>
   <info id="336" code="scene" name="Scene" rare="5" group="sargon" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#scene.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#scene.xml" />
+          file="info=akn_database_charinfo#scene.xml" 
+        color="back=frame5"/>
   </info>
   <info id="254" code="shamare" name="샤먀르" rare="5" group="siracusa" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#shamare.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#shamare.xml" />
+          file="info=akn_database_charinfo#shamare.xml" 
+        color="back=frame5"/>
   </info>
   <info id="101" code="sora" name="소라" rare="5" group="penguin" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#sora.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#sora.xml" />
+          file="info=akn_database_charinfo#sora.xml"
+        color="back=frame5" />
   </info>
   <info id="343" code="tsukinogi" name="Tsukinogi" rare="5" group="higashi" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#tsukinogi.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#tsukinogi.xml" />
+          file="info=akn_database_charinfo#tsukinogi.xml" 
+        color="back=frame5"/>
   </info>
   <info id="195" code="istina" name="이스티나" rare="5" group="ussg" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#istina.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#istina.xml" />
+          file="info=akn_database_charinfo#istina.xml" 
+        color="back=frame5"/>
   </info>
   <info id="110" code="deepcolor" name="딥컬러" rare="4" group="rhodes" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#deepcolor.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#deepcolor.xml" />
+          file="info=akn_database_charinfo#deepcolor.xml" 
+        color="back=frame4"/>
   </info>
   <info id="183" code="earthspirit" name="어스스피릿" rare="4" group="leithanien" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#earthspirit.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#earthspirit.xml" />
+          file="info=akn_database_charinfo#earthspirit.xml" 
+        color="back=frame4"/>
   </info>
   <info id="258" code="podenco" name="포덴코" rare="4" group="rhodes" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#podenco.png,frame=ui#button/ui_btn_cian.png"
-          file="info=akn_database_charinfo#podenco.xml" />
+          file="info=akn_database_charinfo#podenco.xml" 
+        color="back=frame4"/>
   </info>
   <info id="278" code="orchid" name="오키드" rare="3" group="reop_team_a6" gender="g" position="r" Class="supporter" >
     <ui ui="icon=akn_charicon#orchid.png,frame=ui#button/ui_btn_blue.png"
-          file="info=akn_database_charinfo#orchid.xml" />
+          file="info=akn_database_charinfo#orchid.xml"
+        color="back=frame3" />
   </info>
 
   <info id="179" code="nightingale" name="나이팅게일" rare="6" group="followers" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#nightingale.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#nightingale.xml" />
+          file="info=akn_database_charinfo#nightingale.xml"
+        color="back=frame6" />
   </info>
   <info id="147" code="shining" name="샤이닝" rare="6" group="followers" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#shining.png,frame=ui#button/ui_btn_red.png"
-          file="info=akn_database_charinfo#shining.xml" />
+          file="info=akn_database_charinfo#shining.xml" 
+        color="back=frame6"/>
   </info>
   <info id="275" code="breeze" name="브리즈" rare="5" group="victoria" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#breeze.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#breeze.xml" />
+          file="info=akn_database_charinfo#breeze.xml"
+        color="back=frame5" />
   </info>
   <info id="348" code="ceylon" name="실론" rare="5" group="siesta" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#ceylon.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#ceylon.xml" />
+          file="info=akn_database_charinfo#ceylon.xml" 
+        color="back=frame5" />
   </info>
   <info id="345" code="folinic" name="Folinic" rare="5" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#folinic.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#folinic.xml" />
+          file="info=akn_database_charinfo#folinic.xml" 
+        color="back=frame5" />
   </info>
   <info id="128" code="ptilopsis" name="프틸롭시스" rare="5" group="rhinelab" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#ptilopsis.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#ptilopsis.xml" />
+          file="info=akn_database_charinfo#ptilopsis.xml"
+        color="back=frame5"  />
   </info>
   <info id="108" code="silence" name="사일런스" rare="5" group="rhinelab" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#silence.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#silence.xml" />
+          file="info=akn_database_charinfo#silence.xml" 
+        color="back=frame5" />
   </info>
   <info id="510" code="touch" name="Touch" rare="5" group="null" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#touch.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#touch.xml" />
+          file="info=akn_database_charinfo#touch.xml" 
+        color="back=frame5" />
   </info>
   <info id="402" code="tuye" name="Tuye" rare="5" group="sargon" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#tuye.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#tuye.xml" />
+          file="info=akn_database_charinfo#tuye.xml" 
+        color="back=frame5" />
   </info>
   <info id="171" code="warfarin" name="와파린" rare="5" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#warfarin.png,frame=ui#button/ui_btn_gold.png"
-           file="info=akn_database_charinfo#warfarin.xml" />
+           file="info=akn_database_charinfo#warfarin.xml" 
+        color="back=frame5" />
   </info>
   <info id="436" code="whisperain" name="Whisperain" rare="5" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#whisperain.png,frame=ui#button/ui_btn_gold.png"
-          file="info=akn_database_charinfo#whisperain.xml" />
+          file="info=akn_database_charinfo#whisperain.xml" 
+        color="back=frame5" />
   </info>
   <info id="187" code="gavial" name="가비알" rare="4" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#gavial.png,frame=ui#button/ui_btn_cian.png"
-            file="info=akn_database_charinfo#gavial.xml" />
+            file="info=akn_database_charinfo#gavial.xml" 
+        color="back=frame4" />
   </info>
   <info id="117" code="myrrh" name="미르" rare="4" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#myrrh.png,frame=ui#button/ui_btn_cian.png"
-           file="info=akn_database_charinfo#myrrh.xml" />
+           file="info=akn_database_charinfo#myrrh.xml" 
+        color="back=frame4" />
   </info>
   <info id="181" code="perfumer" name="퍼퓨머" rare="4" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#perfumer.png,frame=ui#button/ui_btn_cian.png"
-              file="info=akn_database_charinfo#perfumer.xml" />
+              file="info=akn_database_charinfo#perfumer.xml" 
+        color="back=frame4" />
   </info>
   <info id="385" code="purestream" name="퓨어스트림" rare="4" group="yan" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#purestream.png,frame=ui#button/ui_btn_gray.png"
-           file="info=akn_database_charinfo#purestream.xml" />
+           file="info=akn_database_charinfo#purestream.xml" 
+        color="back=frame4" />
   </info>
   <info id="298" code="sussurro" name="Sussurro" rare="4" group="yan" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#sussurro.png,frame=ui#button/ui_btn_cian.png"
-            file="info=akn_database_charinfo#sussurro.xml" />
+            file="info=akn_database_charinfo#sussurro.xml" 
+        color="back=frame4" />
   </info>
   <info id="212" code="ansel" name="안셀" rare="3" group="reop_team_a4" gender="m" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#ansel.png,frame=ui#button/ui_btn_blue.png"
-              file="info=akn_database_charinfo#ansel.xml" />
+              file="info=akn_database_charinfo#ansel.xml"
+        color="back=frame3"  />
   </info>
   <info id="120" code="hibiscus" name="히비스커스" rare="3" group="reop_team_a1" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#hibiscus.png,frame=ui#button/ui_btn_blue.png"
-            file="info=akn_database_charinfo#hibiscus.xml" />
+            file="info=akn_database_charinfo#hibiscus.xml"
+        color="back=frame3"  />
   </info>
   <info id="506" code="reserve_logistic" name="Reserve(Logistic)" rare="3" group="null" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#reserve_logistic.png,frame=ui#button/ui_btn_blue.png"
-             file="info=akn_database_charinfo#reserve_logistic.xml" />
+             file="info=akn_database_charinfo#reserve_logistic.xml" 
+        color="back=frame3" />
   </info>
   <info id="285" code="lancet_2" name="Lancet-2" rare="1" group="rhodes" gender="g" position="r" Class="medic" >
     <ui ui="icon=akn_charicon#lancet_2.png,frame=ui#button/ui_btn_gray.png"
-             file="info=akn_database_charinfo#lancet_2.xml" />
+             file="info=akn_database_charinfo#lancet_2.xml"
+        color="back=frame1"  />
   </info>
 
   <info id="225" code="aak" name="아악" rare="6" group="lees_da" gender="m" position="r" Class="specialist" >
     <ui ui="icon=akn_charicon#aak.png,frame=ui#button/ui_btn_red.png"
-            file="info=akn_database_charinfo#aak.xml" />
+            file="info=akn_database_charinfo#aak.xml" 
+        color="back=frame6" />
   </info>
   <info id="250" code="phantom" name="팬텀" rare="6" group="victoria" gender="m" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#phantom.png,frame=ui#button/ui_btn_red.png"
-            file="info=akn_database_charinfo#phantom.xml" />
+            file="info=akn_database_charinfo#phantom.xml"
+        color="back=frame6" />
   </info>
   <info id="400" code="weedy" name="위디" rare="6" group="rhodes" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#weedy.png,frame=ui#button/ui_btn_red.png"
-              file="info=akn_database_charinfo#weedy.xml" />
+              file="info=akn_database_charinfo#weedy.xml" 
+        color="back=frame6"/>
   </info>
   <info id="173" code="cliffheart" name="클리프하트" rare="5" group="karlan_trade" gender="c" position="r" Class="specialist" >
     <ui ui="icon=akn_charicon#cliffheart.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#cliffheart.xml" />
+              file="info=akn_database_charinfo#cliffheart.xml"
+        color="back=frame5" />
   </info>
   <info id="241" code="feater" name="에프이터" rare="5" group="yan_lungmen" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#feater.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#feater.xml" />
+              file="info=akn_database_charinfo#feater.xml" 
+        color="back=frame5"/>
   </info>
   <info id="458" code="frost" name="Frost" rare="5" group="team_rainbow" gender="g" position="r" Class="specialist" >
     <ui ui="icon=akn_charicon#frost.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#frost.xml" />
+              file="info=akn_database_charinfo#frost.xml"
+        color="back=frame5" />
   </info>
   <info id="214" code="kafka" name="Kafka" rare="5" group="columbia" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#kafka.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#kafka.xml" />
+              file="info=akn_database_charinfo#kafka.xml" 
+        color="back=frame5"/>
   </info>
   <info id="215" code="manticore" name="맨티코어" rare="5" group="sargon" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#manticore.png,frame=ui#button/ui_btn_gold.png"
-             file="info=akn_database_charinfo#manticore.xml" />
+             file="info=akn_database_charinfo#manticore.xml"
+        color="back=frame5" />
   </info>
   <info id="455" code="nothing" name="Mr.Nothing" rare="5" group="yan" gender="m" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#nothing.png,frame=ui#button/ui_btn_gold.png"
-            file="info=akn_database_charinfo#nothing.xml" />
+            file="info=akn_database_charinfo#nothing.xml" 
+        color="back=frame5"/>
   </info>
   <info id="144" code="projektred" name="프로젝트레드" rare="5" group="sweep" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#projektred.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#projektred.xml" />
+              file="info=akn_database_charinfo#projektred.xml" 
+        color="back=frame5"/>
   </info>
   <info id="451" code="robin" name="Robin" rare="5" group="columbia" gender="g" position="r" Class="specialist" >
     <ui ui="icon=akn_charicon#robin.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#robin.xml" />
+              file="info=akn_database_charinfo#robin.xml"
+        color="back=frame5" />
   </info>
   <info id="383" code="snowsant" name="스노우상트" rare="5" group="yan_lungmen" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#snowsant.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#snowsant.xml" />
+              file="info=akn_database_charinfo#snowsant.xml"
+        color="back=frame5" />
   </info>
   <info id="243" code="waaifu" name="Waai Fu" rare="5" group="lees_da" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#waaifu.png,frame=ui#button/ui_btn_gold.png"
-              file="info=akn_database_charinfo#waaifu.xml" />
+              file="info=akn_database_charinfo#waaifu.xml" 
+        color="back=frame5"/>
   </info>
   <info id="355" code="ethan" name="Ethan" rare="4" group="rhodes" gender="m" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#ethan.png,frame=ui#button/ui_btn_cian.png"
-            file="info=akn_database_charinfo#ethan.xml" />
+            file="info=akn_database_charinfo#ethan.xml" 
+        color="back=frame4"/>
   </info>
   <info id="237" code="gravel" name="그라벨" rare="4" group="kazimierz" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#gravel.png,frame=ui#button/ui_btn_cian.png"
-              file="info=akn_database_charinfo#gravel.xml" />
+              file="info=akn_database_charinfo#gravel.xml" 
+        color="back=frame4"/>
   </info>
   <info id="272" code="jaye" name="Jaye" rare="4" group="yan_lungmen" gender="m" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#jaye.png,frame=ui#button/ui_btn_cian.png"
-              file="info=akn_database_charinfo#jaye.xml" />
+              file="info=akn_database_charinfo#jaye.xml"
+        color="back=frame4" />
   </info>
   <info id="236" code="rope" name="로프" rare="4" group="yan_lungmen" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#rope.png,frame=ui#button/ui_btn_cian.png"
-            file="info=akn_database_charinfo#rope.xml" />
+            file="info=akn_database_charinfo#rope.xml"
+        color="back=frame4" />
   </info>
   <info id="277" code="shaw" name="쇼" rare="4" group="yan_lungmen" gender="g" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#shaw.png,frame=ui#button/ui_btn_cian.png"
-            file="info=akn_database_charinfo#shaw.xml" />
+            file="info=akn_database_charinfo#shaw.xml" 
+        color="back=frame4"/>
   </info>
   <info id="376" code="thermal_ex" name="Thermal-EX" rare="1" group="rhodes" gender="m" position="c" Class="specialist" >
     <ui ui="icon=akn_charicon#thermal_ex.png,frame=ui#button/ui_btn_gray.png"
-            file="info=akn_database_charinfo#thermal_ex.xml" />
+            file="info=akn_database_charinfo#thermal_ex.xml"
+        color="back=frame1" />
   </info>
 </chractors>
