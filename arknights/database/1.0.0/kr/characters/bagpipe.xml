@@ -26,8 +26,6 @@
     <node code="audio" url="files/arknights/asset.resorce/audio/character/" />
   </file_hub>
   <url_node>
-    <url_info code="victoria" url="group#group_icon_victoria.png"/>
-    <url_info code="vanguard" url="class#class_vanguard.png"/>
     <url_info code="elite_0" url="img#icon/sticker/elite_0.png"/>
     <url_info code="elite_1" url="img#icon/sticker/elite_1.png"/>
     <url_info code="elite_2" url="img#icon/sticker/elite_2.png"/>
