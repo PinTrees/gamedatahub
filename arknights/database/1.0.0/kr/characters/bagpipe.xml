@@ -1,6 +1,6 @@
 <character>
   <url_hub>
-    <node code="main" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
+    <node code="akn_img_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <node code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <node code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <node code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
@@ -13,7 +13,7 @@
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
   </url_hub>
   <file_hub>
-    <node code="main" url="files/arknights/asset.image/ilust.charactor/" />
+    <node code="akn_img_charicon" url="files/arknights/asset.image/icon.charactor/" />
     <node code="class" url="files/arknights/asset.image/class/" />
     <node code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
     <node code="rang" url="files/arknights/asset.image/icon.rang/" />
@@ -63,7 +63,8 @@
     <ilust_info ui="icon=elite_2,ilust=illust_elite_2" code="elite_2" name="2차정예화" />
     <ilust_info ui="icon=icon_race,ilust=ilust_race" code="ilust_race" name="레이싱" />
   </ilust>
-  <header ui="class=akn_img_class#class_vanguard.png,group=akn_img_group#group_icon_victoria.png" id="0" code="bagpipe" name="백파이프" rare="6" group="빅토리아" gender="여성" position="근거리" class="뱅가드" tags="코스트+/딜러" trust="def#85">
+  <header ui="charicon=akn_img_charicon#bagpipe.png,class=akn_img_class#class_vanguard.png,group=akn_img_group#group_icon_victoria.png" 
+          id="0" code="bagpipe" name="백파이프" rare="6" group="빅토리아" gender="여성" position="근거리" class="뱅가드" tags="코스트+/딜러" trust="def#85">
     <specificity info="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환" />
     <potential info="배치 비용 -1/첫 번째 재능 향상(+3%)/공격력 +25/두 번째 재능 향상(+2)/배치 비용 -1" />
     <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
