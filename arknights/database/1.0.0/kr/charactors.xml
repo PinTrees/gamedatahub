@@ -45,7 +45,34 @@
   
   <top_menu code="vanguard=뱅가드,guard=가드,defender=디펜더,sniper=스나이퍼,caster=캐스터,supporter=서포터,medic=메딕,specialist=스페셜리스트"/>
   
-  <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="g" position="c" class="vanguard" >
+  <translation country="kr" >
+    <ts_node code="female" ts="여성"/>
+    <ts_node code="male" ts="남성"/>
+    
+    <ts_node code="vanguard" ts="뱅가드"/>
+    <ts_node code="guard" ts="가드"/>
+    <ts_node code="defender" ts="디펜더"/>
+    <ts_node code="sniper" ts="스나이퍼"/>
+    <ts_node code="caster" ts="캐스터"/>
+    <ts_node code="supporter" ts="서포터"/>
+    <ts_node code="medic" ts="메딕"/>
+    <ts_node code="specialist" ts="스페셜리스트"/>
+    
+    <ts_node code="victoria" ts="빅토리아"/>
+    <ts_node code="higashi" ts="Higashi"/>
+    <ts_node code="glasgow" ts="우르수스"/>
+    <ts_node code="rhodes" ts="로도스 아일랜드"/>
+    <ts_node code="penguin" ts="펭귄 로지틱스"/>
+  </translation>
+
+  <translation country="kr" >
+    <ts_node code="bagpipe" ts="백파이프"/>
+    <ts_node code="saga" ts="세가"/>
+    <ts_node code="siege" ts="시즈"/>
+    <ts_node code="chiave" ts="키아브"/>
+  </translation>
+    
+  <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="female" position="c" class="vanguard" >
     <ui ui="icon=akn_charicon#bagpipe.png,frame=ui#button/ui_btn_red.png"
         file="info=akn_database_charinfo#bagpipe.xml"
         color="back=frame6" />
