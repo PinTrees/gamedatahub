@@ -100,17 +100,17 @@
   </infra>
 
   <skill id="0" code="skill_icon_p_atkup_3" name="신속한 공격γ" unlock="elite_0" type="sp_auto/tr_manu"
-             info="공격력/, 공격속도/">
-    <s_lv code="" var="skill#1.lv#0" rang="" lv_n="elite_0" data="+20%/+20" sp="45/0" eft="35" />
-    <s_lv code="" var="skill#1.lv#1" rang="" lv_n="elite_0" data="+22%/+20" sp="44/0" eft="35" />
-    <s_lv code="" var="skill#1.lv#2" rang="" lv_n="elite_0" data="+24%/+20" sp="43/0" eft="35" />
-    <s_lv code="" var="skill#1.lv#3" rang="" lv_n="elite_0" data="+27%/+25" sp="42/5" eft="35" />
-    <s_lv code="" var="skill#1.lv#4" rang="" lv_n="elite_1" data="+29%/+25" sp="41/5" eft="35" />
-    <s_lv code="" var="skill#1.lv#5" rang="" lv_n="elite_1" data="+31%/+25" sp="40/5" eft="35" />
-    <s_lv code="" var="skill#1.lv#6" rang="" lv_n="elite_1" data="+34%/+35" sp="39/10" eft="35" />
-    <s_lv code="" var="skill#1.lv#7" rang="" lv_n="elite_2" data="+37%/+35" sp="38/10" eft="35" material="SB_3/kohl_4/ketn_3" count="8/4/8" />
-    <s_lv code="" var="skill#1.lv#8" rang="" lv_n="elite_2" data="+40%/+35" sp="37/10" eft="35" material="SB_3/rma_4/mang_4" count="12/4/7" />
-    <s_lv code="" var="skill#1.lv#9" rang="" lv_n="elite_2" data="+45%/+45" sp="35/15" eft="35" material="SB_3/bipl_5/ketn_4" count="15/6/5" />
+             info="공격력/, 공격속도/" menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9">
+    <s_lv code="sklv0" var="skill#1.lv#0" rang="" lv_n="elite_0" data="+20%/+20" sp="45/0" eft="35" />
+    <s_lv code="sklv1" var="skill#1.lv#1" rang="" lv_n="elite_0" data="+22%/+20" sp="44/0" eft="35" />
+    <s_lv code="sklv2" var="skill#1.lv#2" rang="" lv_n="elite_0" data="+24%/+20" sp="43/0" eft="35" />
+    <s_lv code="sklv3" var="skill#1.lv#3" rang="" lv_n="elite_0" data="+27%/+25" sp="42/5" eft="35" />
+    <s_lv code="sklv4" var="skill#1.lv#4" rang="" lv_n="elite_1" data="+29%/+25" sp="41/5" eft="35" />
+    <s_lv code="sklv5" var="skill#1.lv#5" rang="" lv_n="elite_1" data="+31%/+25" sp="40/5" eft="35" />
+    <s_lv code="sklv6" var="skill#1.lv#6" rang="" lv_n="elite_1" data="+34%/+35" sp="39/10" eft="35" />
+    <s_lv code="sklv7" var="skill#1.lv#7" rang="" lv_n="elite_2" data="+37%/+35" sp="38/10" eft="35" material="SB_3/kohl_4/ketn_3" count="8/4/8" />
+    <s_lv code="sklv8" var="skill#1.lv#8" rang="" lv_n="elite_2" data="+40%/+35" sp="37/10" eft="35" material="SB_3/rma_4/mang_4" count="12/4/7" />
+    <s_lv code="sklv9" var="skill#1.lv#9" rang="" lv_n="elite_2" data="+45%/+45" sp="35/15" eft="35" material="SB_3/bipl_5/ketn_4" count="15/6/5" />
   </skill>
   
   <skill_header>
