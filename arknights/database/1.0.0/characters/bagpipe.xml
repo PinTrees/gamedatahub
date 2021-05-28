@@ -11,6 +11,7 @@
     <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
+    <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
   </url_hub>
   <file_hub>
     <node code="akn_img_charicon" url="files/arknights/asset.image/icon.charactor/" />
@@ -22,7 +23,7 @@
     <node code="img" url="files/arknights/asset.image/" />
     <node code="ui" url="files/arknights/asset.ui/" />
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
-    <node code="audio" url="files/arknights/asset.resorce/audio/character/" />
+    <node code="language" url="files/arknights/language/" />
   </file_hub>
   <url_node>
     <url_info code="elite_0" url="img#icon/sticker/elite_0.png"/>
@@ -54,19 +55,20 @@
   </ilust>
 
   <urls>
-    <url_node code ="charicon" info="akn_img_charicon#bagpipe.png"/>
-    <url_node code ="class" info="akn_img_class#class_vanguard.png"/>
-    <url_node code ="group" info="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="kr" var="language#kr/characters/bagpipe.png"/>
+    <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
+    <url_node code ="class" var="akn_img_class#class_vanguard.png"/>
+    <url_node code ="group" var="akn_img_group#group_icon_victoria.png"/>
 
-    <url_node code ="elite_1" info="img#icon/sticker/elite_1.png"/>
-    <url_node code ="elite_2" info="img#icon/sticker/elite_2.png"/>
+    <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
+    <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
 
-    <url_node code="infra_dorm_ao3" info="img#icon/infraskill/infra_dorm_ao3.png"/>
-    <url_node code="infra_ws_asc2" info="img#icon/infraskill/infra_ws_asc2.png"/>
+    <url_node code="infra_dorm_ao3" var="img#icon/infraskill/infra_dorm_ao3.png"/>
+    <url_node code="infra_ws_asc2" var="img#icon/infraskill/infra_ws_asc2.png"/>
 
-    <url_node code="skill_icon_p_atkup_3" info="skill#skill_icon_p_atkup_3.png"/>
-    <url_node code="skill_icon_bagpipe_2" info="skill#skill_icon_bagpipe_2.png"/>
-    <url_node code="skill_icon_bagpipe_3" info="skill#skill_icon_bagpipe_3.png"/>
+    <url_node code="skill_icon_p_atkup_3" var="skill#skill_icon_p_atkup_3.png"/>
+    <url_node code="skill_icon_bagpipe_2" var="skill#skill_icon_bagpipe_2.png"/>
+    <url_node code="skill_icon_bagpipe_3" var="skill#skill_icon_bagpipe_3.png"/>
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value">
