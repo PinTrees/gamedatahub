@@ -6,81 +6,85 @@
   </style>
   
   <translation country="kr" >
-    <ts_node code="sp_auto" info="자동회복" />
-    <ts_node code="tr_auto" info="자동발동" />
-    <ts_node code="tr_manu" info="수동발동" />
+    <ts_node code="name" ts="백파이프"/>
 
-    <ts_node code="bagpipe" ts="백파이프"/>
+    <ts_node code="gender.title" ts="성별"/>
+    <ts_node code="gender.info" ts="여성"/>
 
-    <ts_node code="female" ts="여성"/>
-    <ts_node code="male" ts="남성"/>
+    <ts_node code="class.title" ts="클래스"/>
+    <ts_node code="class.info" ts="뱅가드"/>
 
-    <ts_node code="position" ts="근거리"/>
+    <ts_node code="group.title" ts="소속"/>
+    <ts_node code="group.info" ts="빅토리아"/>
 
-    <ts_node code="vanguard" ts="뱅가드"/>
+    <ts_node code="potential.title" ts="잠재력"/>
+    <ts_node code="potential#1.info" ts="배치 비용 -1"/>
+    <ts_node code="potential#2.info" ts="첫 번째 재능 향상(+3%)"/>
+    <ts_node code="potential#3.info" ts="공격력 +25"/>
+    <ts_node code="potential#4.info" ts="두 번째 재능 향상(+2)"/>
+    <ts_node code="potential#5.info" ts="배치 비용 -1"/>
 
-    <ts_node code="victoria" ts="빅토리아"/>
-
-    <ts_node code="potential_1" ts="배치 비용 -1"/>
-    <ts_node code="potential_2" ts="첫 번째 재능 향상(+3%)"/>
-    <ts_node code="potential_3" ts="공격력 +25"/>
-    <ts_node code="potential_4" ts="두 번째 재능 향상(+2)"/>
-    <ts_node code="potential_5" ts="배치 비용 -1"/>
-  
-    <ts_node code="specificity" ts="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환"/>
+    <ts_node code="specificity.title" ts="특성"/>
+    <ts_node code="specificity.info" ts="적 처치 시 배치 코스트 +1, 퇴각시 초기 배치 코스트 반환"/>
     <ts_node code="tags" ts="코스트+,딜러"/>
 
-    <ts_node code="ability_1_1.name" ts="정밀주입탄"/>
-    <ts_node code="ability_1_1.info" ts="매 타격 시 25%의 확률로 공격력이 110%로 향상되고, 한 대상을 추가로 공격"/>
-    <ts_node code="ability_1_2.name" ts="정밀주입탄"/>
-    <ts_node code="ability_1_2.info" ts="매 타격 시 25%의 확률로 공격력이 130%로 향상되고, 한 대상을 추가로 공격"/>
-    <ts_node code="ability_2_2.name" ts="군사 전통"/>
-    <ts_node code="ability_2_2.info" ts="팀에 편성 시 아군 [뱅가드] 오퍼레이터의 초기 SP +6"/>
+    <ts_node code="ability.title" ts="재능"/>
+    <ts_node code="ability#1.elite#1.name" ts="정밀주입탄"/>
+    <ts_node code="ability#1.eltie#1.info" ts="매 타격 시 25%의 확률로 공격력이 110%로 향상되고, 한 대상을 추가로 공격"/>
+    <ts_node code="ability#1.eltie#2.name" ts="정밀주입탄"/>
+    <ts_node code="ability#1.eltie#2.info" ts="매 타격 시 25%의 확률로 공격력이 130%로 향상되고, 한 대상을 추가로 공격"/>
+    <ts_node code="ability#2.elite#2.name" ts="군사 전통"/>
+    <ts_node code="ability#2.elite#2.info" ts="팀에 편성 시 아군 [뱅가드] 오퍼레이터의 초기 SP +6"/>
 
-    <ts_node code="infra_1_0.name" ts="목가"/>
-    <ts_node code="infra_1_0.info" ts="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <ts_node code="infra_1_1.name" ts="목가"/>
-    <ts_node code="infra_1_1.info" ts="숙소에 배치 시, 자신의 기분 시간당 회복 +0.65, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <ts_node code="infra_1_2.name" ts="목가"/>
-    <ts_node code="infra_1_2.info" ts="숙소에 배치 시, 자신의 기분 시간당 회복 +0.75, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
-    <ts_node code="infra_2_2.name" ts="잘 훈련 된"/>
-    <ts_node code="infra_2_2.info" ts="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
+    <ts_node code="infra.title" ts="인프라 스킬"/>
+    <ts_node code="infra#1.elite#0.name" ts="목가"/>
+    <ts_node code="infra#1.elite#0.info" ts="숙소에 배치 시, 자신의 기분 시간당 회복 +0.55, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <ts_node code="infra#1.elite#1.name" ts="목가"/>
+    <ts_node code="infra#1.elite#1.info" ts="숙소에 배치 시, 자신의 기분 시간당 회복 +0.65, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <ts_node code="infra#1.elite#2.name" ts="목가"/>
+    <ts_node code="infra#1.elite#2.info" ts="숙소에 배치 시, 자신의 기분 시간당 회복 +0.75, 숙소내 모든 오퍼레이터의 기분 시간당 회복 +0.1 (동종효과 중 가장 높은 하나만 적용)"/>
+    <ts_node code="infra#2.elite#2.name" ts="잘 훈련 된"/>
+    <ts_node code="infra#2.elite#2.info" ts="가공소에 배치 후 칩 가공 시, 부산물 산출 확률 80%"/>
 
-    <ts_node code="skill_1.name" ts="신속한 공격γ"/>
-    <ts_node code="skill_1.lv0.info" ts="공격력 #div#style{color=blue}#+20%, 공격속도 #div#style{color=blue}#+20"/>
-    <ts_node code="skill_1.lv1.info" ts="공격력 #div#style{color=blue}#+22%, 공격속도 #div#style{color=blue}#+20"/>
-    <ts_node code="skill_1.lv2.info" ts="공격력 #div#style{color=blue}#+24%, 공격속도 #div#style{color=blue}#+20"/>
-    <ts_node code="skill_1.lv3.info" ts="공격력 #div#style{color=blue}#+27%, 공격속도 #div#style{color=blue}#+25"/>
-    <ts_node code="skill_1.lv4.info" ts="공격력 #div#style{color=blue}#+29%, 공격속도 #div#style{color=blue}#+25"/>
-    <ts_node code="skill_1.lv5.info" ts="공격력 #div#style{color=blue}#+31%, 공격속도 #div#style{color=blue}#+25"/>
-    <ts_node code="skill_1.lv6.info" ts="공격력 #div#style{color=blue}#+34%, 공격속도 #div#style{color=blue}#+35"/>
-    <ts_node code="skill_1.lv7.info" ts="공격력 #div#style{color=blue}#+37%, 공격속도 #div#style{color=blue}#+35"/>
-    <ts_node code="skill_1.lv8.info" ts="공격력 #div#style{color=blue}#+40%, 공격속도 #div#style{color=blue}#+35"/>
-    <ts_node code="skill_1.lv9.info" ts="공격력 #div#style{color=blue}#+45%, 공격속도 #div#style{color=blue}#+45"/>
+    
+    
+    <ts_node code="skill.title" ts="스킬 정보"/>
 
-    <ts_node code="skill_2.name" ts="고효율 충격"/>
-    <ts_node code="skill_2.lv0.info" ts="다음 공격 시 공격력 #div#style{color=blue}#130%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
-    <ts_node code="skill_2.lv1.info" ts="다음 공격 시 공격력 #div#style{color=blue}#135%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
-    <ts_node code="skill_2.lv2.info" ts="다음 공격 시 공격력 #div#style{color=blue}#140%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
-    <ts_node code="skill_2.lv3.info" ts="다음 공격 시 공격력 #div#style{color=blue}#145%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
-    <ts_node code="skill_2.lv4.info" ts="다음 공격 시 공격력 #div#style{color=blue}#150%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
-    <ts_node code="skill_2.lv5.info" ts="다음 공격 시 공격력 #div#style{color=blue}#155%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
-    <ts_node code="skill_2.lv6.info" ts="다음 공격 시 공격력 #div#style{color=blue}#160%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#2회 충전 가능"/>
-    <ts_node code="skill_2.lv7.info" ts="다음 공격 시 공격력 #div#style{color=blue}#170%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#2회 충전 가능"/>
-    <ts_node code="skill_2.lv8.info" ts="다음 공격 시 공격력 #div#style{color=blue}#180%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#3회 충전 가능"/>
-    <ts_node code="skill_2.lv9.info" ts="다음 공격 시 공격력 #div#style{color=blue}#200%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#3회 충전 가능"/>
+    <ts_node code="skill#1.name" ts="신속한 공격γ"/>
+    <ts_node code="skill#1.lv#0.info" ts="공격력 #div#style{color=blue}#+20%, 공격속도 #div#style{color=blue}#+20"/>
+    <ts_node code="skill#1.lv#1.info" ts="공격력 #div#style{color=blue}#+22%, 공격속도 #div#style{color=blue}#+20"/>
+    <ts_node code="skill#1.lv#2.info" ts="공격력 #div#style{color=blue}#+24%, 공격속도 #div#style{color=blue}#+20"/>
+    <ts_node code="skill#1.lv#3.info" ts="공격력 #div#style{color=blue}#+27%, 공격속도 #div#style{color=blue}#+25"/>
+    <ts_node code="skill#1.lv#4.info" ts="공격력 #div#style{color=blue}#+29%, 공격속도 #div#style{color=blue}#+25"/>
+    <ts_node code="skill#1.lv#5.info" ts="공격력 #div#style{color=blue}#+31%, 공격속도 #div#style{color=blue}#+25"/>
+    <ts_node code="skill#1.lv#6.info" ts="공격력 #div#style{color=blue}#+34%, 공격속도 #div#style{color=blue}#+35"/>
+    <ts_node code="skill#1.lv#7.info" ts="공격력 #div#style{color=blue}#+37%, 공격속도 #div#style{color=blue}#+35"/>
+    <ts_node code="skill#1.lv#8.info" ts="공격력 #div#style{color=blue}#+40%, 공격속도 #div#style{color=blue}#+35"/>
+    <ts_node code="skill#1.lv#9.info" ts="공격력 #div#style{color=blue}#+45%, 공격속도 #div#style{color=blue}#+45"/>
 
-    <ts_node code="skill_3.name" ts="폐쇄 루프"/>
-    <ts_node code="skill_3.lv0.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+30%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv1.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+40%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv2.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+50%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv3.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+60%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv4.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+70%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv5.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+80%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv6.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+90%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv7.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+100%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv8.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+110%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
-    <ts_node code="skill_3.lv9.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+120%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#2.name" ts="고효율 충격"/>
+    <ts_node code="skill#2.lv#0.info" ts="다음 공격 시 공격력 #div#style{color=blue}#130%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
+    <ts_node code="skill#2.lv#1.info" ts="다음 공격 시 공격력 #div#style{color=blue}#135%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
+    <ts_node code="skill#2.lv#2.info" ts="다음 공격 시 공격력 #div#style{color=blue}#140%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
+    <ts_node code="skill#2.lv#3.info" ts="다음 공격 시 공격력 #div#style{color=blue}#145%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
+    <ts_node code="skill#2.lv#4.info" ts="다음 공격 시 공격력 #div#style{color=blue}#150%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
+    <ts_node code="skill#2.lv#5.info" ts="다음 공격 시 공격력 #div#style{color=blue}#155%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#1회 충전 가능"/>
+    <ts_node code="skill#2.lv#6.info" ts="다음 공격 시 공격력 #div#style{color=blue}#160%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#2회 충전 가능"/>
+    <ts_node code="skill#2.lv#7.info" ts="다음 공격 시 공격력 #div#style{color=blue}#170%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#2회 충전 가능"/>
+    <ts_node code="skill#2.lv#8.info" ts="다음 공격 시 공격력 #div#style{color=blue}#180%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#3회 충전 가능"/>
+    <ts_node code="skill#2.lv#9.info" ts="다음 공격 시 공격력 #div#style{color=blue}#200%증가 및 #div#style{color=blue}#1회 추가 공격, #div#style{color=orange}#3회 충전 가능"/>
+
+    <ts_node code="skill#3.name" ts="폐쇄 루프"/>
+    <ts_node code="skill#3.lv#0.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+30%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#1.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+40%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#2.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+50%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#3.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+60%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#4.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+70%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#5.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+80%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#6.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+90%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#7.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+100%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#8.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+110%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
+    <ts_node code="skill#3.lv#9.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7초), 저지 수 #div#style{color=blue}#+1, 공격력 및 방어력 #div#style{color=blue}#+120%, 공격이 #div#style{color=blue}#+3연격으로 변경"/>
 
     <ts_node code="audio_1.name" ts="어시스턴트 임명"/>
     <ts_node code="audio_1.info" ts="비서? 아~ 사람 옆에 계속 서 있는 그거? 군대에 있을 때 본 적 있나. 머이? 서류 작업도 해야 한다고? 전황 파악도? 공지도? 어, 엄청 귀찮잖아~!"/>
@@ -90,8 +94,11 @@
 
   <translation country="kr" >
     <ts_node code="trust" ts="신뢰도"/>
-    <ts_node code="group" ts="소속"/>
     <ts_node code="gender" ts="성별"/>
+
+    <ts_node code="sp_auto" info="자동회복" />
+    <ts_node code="tr_auto" info="자동발동" />
+    <ts_node code="tr_manu" info="수동발동" />
 
     <ts_node code="lock_elite_1" ts="1차 정예화후 해금"/>
     <ts_node code="lock_elite_2" ts="2차 정예화후 해금"/>
