@@ -30,9 +30,9 @@
 
     <ts_node code="ability.title" ts="재능"/>
     <ts_node code="ability#1.elite#1.name" ts="정밀주입탄"/>
-    <ts_node code="ability#1.eltie#1.info" ts="매 타격 시 25%의 확률로 공격력이 110%로 향상되고, 한 대상을 추가로 공격"/>
-    <ts_node code="ability#1.eltie#2.name" ts="정밀주입탄"/>
-    <ts_node code="ability#1.eltie#2.info" ts="매 타격 시 25%의 확률로 공격력이 130%로 향상되고, 한 대상을 추가로 공격"/>
+    <ts_node code="ability#1.elite#1.info" ts="매 타격 시 25%의 확률로 공격력이 110%로 향상되고, 한 대상을 추가로 공격"/>
+    <ts_node code="ability#1.elite#2.name" ts="정밀주입탄"/>
+    <ts_node code="ability#1.elite#2.info" ts="매 타격 시 25%의 확률로 공격력이 130%로 향상되고, 한 대상을 추가로 공격"/>
     <ts_node code="ability#2.elite#2.name" ts="군사 전통"/>
     <ts_node code="ability#2.elite#2.info" ts="팀에 편성 시 아군 [뱅가드] 오퍼레이터의 초기 SP +6"/>
 
