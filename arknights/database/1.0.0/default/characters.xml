@@ -6,7 +6,7 @@
   </url_hub>
   <file_hub>
     <node code="akn_charicon" url="files/arknights/asset.image/icon.charactor/" />
-    <node code="akn_database_charinfo" url="files/arknights/database/1.0.0/kr/characters/" />
+    <node code="akn_database_charinfo" url="files/arknights/database/1.0.0/characters/" />
     <node code="ui" url="files/arknights/asset.ui/" />
   </file_hub>
 
