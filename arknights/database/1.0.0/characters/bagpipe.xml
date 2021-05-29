@@ -12,9 +12,12 @@
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
     <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
+    <node code="akn_img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset/image/" />
   </url_hub>
   <file_hub>
     <node code="akn_img_charicon" url="files/arknights/asset.image/icon.charactor/" />
+    <node code="akn_img" url="files/arknights/asset/image/" />
+
     <node code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
     <node code="rang" url="files/arknights/asset.image/icon.rang/" />
     <node code="akn_img_class" url="files/arknights/asset.image/icon/class/" />
@@ -63,6 +66,12 @@
     <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
     <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
 
+    <url_node code ="potential#0.icon" var="akn_img#potential/potential_0.png"/>
+    <url_node code ="potential#1.icon" var="akn_img#potential/potential_1.png"/>
+    <url_node code ="potential#2.icon" var="akn_img#potential/potential_2.png"/>
+    <url_node code ="potential#3.icon" var="akn_img#potential/potential_3.png"/>
+    <url_node code ="potential#4.icon" var="akn_img#potential/potential_4.png"/>
+
     <url_node code="infra_dorm_ao3" var="img#icon/infraskill/infra_dorm_ao3.png"/>
     <url_node code="infra_ws_asc2" var="img#icon/infraskill/infra_ws_asc2.png"/>
 
@@ -77,7 +86,14 @@
   </header>
  
   <specificity title="specificity.title" info="specificity.info" />
-
+  <potential title="potential.title" >
+    <potential_info ui="icon=potential#0.icon" info="potential#0.info" />
+    <potential_info ui="icon=potential#1.icon" info="potential#1.info" />
+    <potential_info ui="icon=potential#2.icon" info="potential#2.info" />
+    <potential_info ui="icon=potential#3.icon" info="potential#3.info" />
+    <potential_info ui="icon=potential#4.icon" info="potential#4.info" />
+  </potential>
+  
   <ability title="ability.title" 
            menu="ability.menu#0,ability.menu#1,ability.menu#2" 
            menuItem="ability.menu#0=ability#1.elite#1\ability#1.elite#2\ability#2.elite#2,ability.menu#1=ability#1.elite#1,ability.menu#2=ability#1.elite#2\ability#2.elite#2" >
