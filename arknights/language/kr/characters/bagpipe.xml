@@ -96,6 +96,12 @@
     <ts_node code="ability.menu#0" ts="전체"/>
     <ts_node code="ability.menu#1" ts="1차 정예화 해금 재능"/>
     <ts_node code="ability.menu#2" ts="2차 정예화 해금 재능"/>
+
+    <ts_node code="infra.title" ts="인프라"/>
+    <ts_node code="infra.menu#0" ts="전체"/>
+    <ts_node code="infra.menu#1" ts="기본 인프라 스킬"/>
+    <ts_node code="infra.menu#2" ts="1차 정예화 인프라 스킬"/>
+    <ts_node code="infra.menu#3" ts="2차 정예화 인프라 스킬"/>
     
     <ts_node code="trust" ts="신뢰도"/>
     <ts_node code="gender" ts="성별"/>
