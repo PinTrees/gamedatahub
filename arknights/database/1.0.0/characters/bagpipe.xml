@@ -1,4 +1,10 @@
 <root>
+  <style>
+    <color_node code="blue" value="FFFFFFFF"/>
+    <color_node code="orange" value="FFFFFFFF"/>
+    <color_node code="red" value="FFFFFFFF"/>
+  </style>
+  
   <url_hub>
     <node code="akn_img_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <node code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
