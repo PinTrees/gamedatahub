@@ -79,8 +79,8 @@
   <specificity title="specificity.title" info="specificity.info" />
 
   <ability title="ability.title" 
-           menu="all_ability,ui_elite_1,ui_elite_2" 
-           menuItem="all_ability=ability#1.elite#1\ability#1.elite#2\ability#2.elite#2,ui_elite_1=ability#1.elite#1,ui_elite_2=ability#1.elite#2\ability#2.elite#2" >
+           menu="ability.menu#0,ability.menu#1,ability.menu#2" 
+           menuItem="all_ability=ability#1.elite#1\ability#1.elite#2\ability#2.elite#2,ability.menu#1=ability#1.elite#1,ability.menu#2=ability#1.elite#2\ability#2.elite#2" >
     <ability_info code="ability#1.elite#1" ui="unlock=elite_1" unlock="elite_1" name="ability#1.elite#1.name" info="ability#1.elite#1.info" />
     <ability_info code="ability#1.elite#2" ui="unlock=elite_2" unlock="elite_2" name="ability#1.elite#2.name" info="ability#1.elite#2.info" />
     <ability_info code="ability#2.elite#2" ui="unlock=elite_2" unlock="elite_2" name="ability#2.elite#2.name" info="ability#2.elite#2.info" />

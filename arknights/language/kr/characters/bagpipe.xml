@@ -93,6 +93,10 @@
   </translation>
 
   <translation country="kr" >
+    <ts_node code="ability.menu#0" ts="전체"/>
+    <ts_node code="ability.menu#1" ts="1차 정예화 해금 재능"/>
+    <ts_node code="ability.menu#2" ts="2차 정예화 해금 재능"/>
+    
     <ts_node code="trust" ts="신뢰도"/>
     <ts_node code="gender" ts="성별"/>
 
