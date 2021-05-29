@@ -50,10 +50,6 @@
     <url_info code="rang_icon_1" url="rang#rang_icon_1.png"/>
 
     <url_info code="gold" url="material#gold.png"/>
-
-    <url_info code="skill_icon_p_atkup_3" url="skill#skill_icon_p_atkup_3.png"/>
-    <url_info code="skill_icon_bagpipe_2" url="skill#skill_icon_bagpipe_2.png"/>
-    <url_info code="skill_icon_bagpipe_3" url="skill#skill_icon_bagpipe_3.png"/>
   </url_node>
 
   <ui ui="bottom_menu=" />
@@ -81,9 +77,9 @@
     <url_node code="infra_dorm_ao3" var="img#icon/infraskill/infra_dorm_ao3.png"/>
     <url_node code="infra_ws_asc2" var="img#icon/infraskill/infra_ws_asc2.png"/>
 
-    <url_node code="skill_icon_p_atkup_3" var="skill#skill_icon_p_atkup_3.png"/>
-    <url_node code="skill_icon_bagpipe_2" var="skill#skill_icon_bagpipe_2.png"/>
-    <url_node code="skill_icon_bagpipe_3" var="skill#skill_icon_bagpipe_3.png"/>
+    <url_node code="skill#1.icon" var="skill#skill_icon_p_atkup_3.png"/>
+    <url_node code="skill#2.icon" var="skill#skill_icon_bagpipe_2.png"/>
+    <url_node code="skill#3.icon" var="skill#skill_icon_bagpipe_3.png"/>
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value">
@@ -144,7 +140,7 @@
   <skill id="0" code="skill_icon_p_atkup_3" name="skill#1.name" unlock="elite_0" type="sp_auto/tr_manu"
          tags="skill#1.tags"
          menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" 
-         ui="icon=skill_icon_p_atkup_3">
+         ui="icon=skill#1.icon" >
     <s_lv code="sklv0" info="skill#1.lv#0.info" rang="1" unlock="elite_0" sp="45/0" eft="35" />
     <s_lv code="sklv1" info="skill#1.lv#1.info" rang="1" unlock="elite_0" sp="44/0" eft="35" />
     <s_lv code="sklv2" info="skill#1.lv#2.info" rang="1" unlock="elite_0" sp="43/0" eft="35" />
@@ -158,7 +154,8 @@
   </skill>
   <skill id="1" code="skill_icon_bagpipe_2" name="skill#2.name" unlock="elite_1"  type="sp_auto/tr_auto" 
          tags="skill#2.tags"
-         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" >
+         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
+         ui="icon=skill#2.icon" >
     <s_lv code="sklv0" info="skill#2.lv#0.info" rang="" unlock="elite_1" sp="7/0" />
     <s_lv code="sklv1" info="skill#2.lv#1.info" rang="" unlock="elite_1" sp="7/0" />
     <s_lv code="sklv2" info="skill#2.lv#2.info" rang="" unlock="elite_1" sp="7/0" />
@@ -172,7 +169,8 @@
   </skill>
   <skill id="2" code="skill_icon_bagpipe_3" name="skill#3.name" unlock="elite_2" type="sp_auto/tr_manu"
          tags="skill#3.tags"
-         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" >
+         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
+         ui="icon=skill#3.icon" >
     <s_lv code="sklv0" info="skill#3.lv#0.info" rang="" lv_n="elite_2" sp="40/9" />
     <s_lv code="sklv1" info="skill#3.lv#1.info" rang="" lv_n="elite_2" sp="40/10" />
     <s_lv code="sklv2" info="skill#3.lv#2.info" rang="" lv_n="elite_2" sp="40/11" />
