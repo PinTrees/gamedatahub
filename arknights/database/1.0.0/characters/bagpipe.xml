@@ -1,8 +1,8 @@
 <root>
   <style>
-    <color_node code="blue" value="FFFFFFFF"/>
-    <color_node code="orange" value="FFFFFFFF"/>
-    <color_node code="red" value="FFFFFFFF"/>
+    <color_node code="blue" value="FF1295E0"/>
+    <color_node code="orange" value="FFF69E21"/>
+    <color_node code="red" value="FFF33939"/>
   </style>
   
   <url_hub>

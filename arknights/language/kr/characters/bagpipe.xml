@@ -1,10 +1,4 @@
 <root>
-  <style>
-    <color_node code="blue" value="FFFFFFFF"/>
-    <color_node code="orange" value="FFFFFFFF"/>
-    <color_node code="red" value="FFFFFFFF"/>
-  </style>
-  
   <translation country="kr" >
     <ts_node code="name" ts="백파이프"/>
 
