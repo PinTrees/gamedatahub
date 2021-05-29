@@ -87,11 +87,11 @@
  
   <specificity title="specificity.title" info="specificity.info" />
   <potential title="potential.title" >
-    <potential_info ui="icon=potential#0.icon" info="potential#0.info" />
     <potential_info ui="icon=potential#1.icon" info="potential#1.info" />
     <potential_info ui="icon=potential#2.icon" info="potential#2.info" />
     <potential_info ui="icon=potential#3.icon" info="potential#3.info" />
     <potential_info ui="icon=potential#4.icon" info="potential#4.info" />
+    <potential_info ui="icon=potential#5.icon" info="potential#5.info" />
   </potential>
   
   <ability title="ability.title" 
