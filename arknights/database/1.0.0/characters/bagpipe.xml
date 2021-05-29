@@ -117,7 +117,7 @@
   </status>
   
   <infra title="infra.title" ui="button=elite_0/elite_1/elite_2"
-         menu="infra.menu#0/infra.menu#1/infra.menu#2/infra.menu#3" 
+         menu="infra.menu#0,infra.menu#1,infra.menu#2,infra.menu#3" 
          menuItem="infra.menu#0=infra#1.elite#0\infra#1.elite#1\infra#1.elite#2\infra#2.elite#2,infra.menu#1=infra#1.elite#0,infra.menu#2=infra#1.elite#1,infra.menu#3=infra#1.elite#2\infra#2.elite#2" >
     <infra_info code="infra#1.elite#0" ui="icon=icon=infra_dorm_ao3" unlock="elite_0" target="기숙사" name="infra#1.elite#0.name" info="infra#1.elite#0.info"/>
     <infra_info code="infra#1.elite#1" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#1.name" info="infra#1.elite#1.info"/>
