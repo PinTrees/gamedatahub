@@ -116,11 +116,13 @@
     <status_info code="elite_2" rang="rang_icon_1" level_max="90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
   </status>
   
-  <infra title="infra.title" ui="button=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2" >
-    <infra_info code="elite_0" ui="icon=infra_dorm_ao3" unlock="elite_0" target="기숙사" name="infra#1.elite#0.name" info="infra#1.elite#0.info"/>
-    <infra_info code="elite_1" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#1.name" info="infra#1.elite#1.info"/>
-    <infra_info code="elite_2" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#2.name" info="infra#1.elite#2.info"/>
-    <infra_info code="elite_2" ui="icon=infra_ws_asc2" unlock="elite_2" target="가공소" name="infra#2.elite#2.name" info="infra#2.elite#2.info"/>
+  <infra title="infra.title" ui="button=elite_0/elite_1/elite_2"
+         menu="infra.menu#0/infra.menu#1/infra.menu#2/infra.menu#3" 
+         menuItem="infra.menu#0=infra#1.elite#0\infra#1.elite#1\infra#1.elite#2\infra#2.elite#2,infra.menu#1=infra#1.elite#0,infra.menu#2=infra#1.elite#1,infra.menu#3=infra#1.elite#2\infra#2.elite#2" >
+    <infra_info code="infra#1.elite#0" ui="icon=icon=infra_dorm_ao3" unlock="elite_0" target="기숙사" name="infra#1.elite#0.name" info="infra#1.elite#0.info"/>
+    <infra_info code="infra#1.elite#1" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#1.name" info="infra#1.elite#1.info"/>
+    <infra_info code="infra#1.elite#2" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#2.name" info="infra#1.elite#2.info"/>
+    <infra_info code="infra#2.elite#2" ui="icon=infra_ws_asc2" unlock="elite_2" target="가공소" name="infra#2.elite#2.name" info="infra#2.elite#2.info"/>
   </infra>
 
   
