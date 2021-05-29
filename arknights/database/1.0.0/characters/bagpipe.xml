@@ -142,6 +142,7 @@
   </skill_header>
 
   <skill id="0" code="skill_icon_p_atkup_3" name="skill#1.name" unlock="elite_0" type="sp_auto/tr_manu"
+         tags="skill#1.tags"
          menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" 
          ui="icon=skill_icon_p_atkup_3">
     <s_lv code="sklv0" info="skill#1.lv#0.info" rang="1" unlock="elite_0" sp="45/0" eft="35" />
@@ -156,6 +157,7 @@
     <s_lv code="sklv9" info="skill#1.lv#9.info" rang="1" unlock="elite_2" sp="35/15" eft="35" material="SB_3/bipl_5/ketn_4" count="15/6/5" />
   </skill>
   <skill id="1" code="skill_icon_bagpipe_2" name="skill#2.name" unlock="elite_1"  type="sp_auto/tr_auto" 
+         tags="skill#2.tags"
          menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" >
     <s_lv code="sklv0" info="skill#2.lv#0.info" rang="" unlock="elite_1" sp="7/0" />
     <s_lv code="sklv1" info="skill#2.lv#1.info" rang="" unlock="elite_1" sp="7/0" />
@@ -169,7 +171,8 @@
     <s_lv code="sklv9" info="skill#2.lv#9.info" rang="" unlock="elite_2" sp="4/0" material="SB_3/d32_5/kohl_4" count="15/6/7" />
   </skill>
   <skill id="2" code="skill_icon_bagpipe_3" name="skill#3.name" unlock="elite_2" type="sp_auto/tr_manu"
-            menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" >
+         tags="skill#3.tags"
+         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" >
     <s_lv code="sklv0" info="skill#3.lv#0.info" rang="" lv_n="elite_2" sp="40/9" />
     <s_lv code="sklv1" info="skill#3.lv#1.info" rang="" lv_n="elite_2" sp="40/10" />
     <s_lv code="sklv2" info="skill#3.lv#2.info" rang="" lv_n="elite_2" sp="40/11" />

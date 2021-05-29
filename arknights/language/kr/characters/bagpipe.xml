@@ -45,6 +45,7 @@
     <ts_node code="skill.title" ts="스킬 정보"/>
 
     <ts_node code="skill#1.name" ts="신속한 공격γ"/>
+    <ts_node code="skill#1.tags" ts="자동회복ㆍ수동발동"/>
     <ts_node code="skill#1.lv#0.info" ts="공격력 #div#style{color=blue}#+20%#div, 공격속도 #div#style{color=blue}#+20#div"/>
     <ts_node code="skill#1.lv#1.info" ts="공격력 #div#style{color=blue}#+22%#div, 공격속도 #div#style{color=blue}#+20#div"/>
     <ts_node code="skill#1.lv#2.info" ts="공격력 #div#style{color=blue}#+24%#div, 공격속도 #div#style{color=blue}#+20#div"/>
@@ -57,6 +58,7 @@
     <ts_node code="skill#1.lv#9.info" ts="공격력 #div#style{color=blue}#+45%#div, 공격속도 #div#style{color=blue}#+45#div"/>
 
     <ts_node code="skill#2.name" ts="고효율 충격"/>
+    <ts_node code="skill#2.tags" ts="자동회복ㆍ자동발동"/>
     <ts_node code="skill#2.lv#0.info" ts="다음 공격 시 공격력 #div#style{color=blue}#130%#div증가 및 #div#style{color=blue}#1#div회 추가 공격, #div#style{color=orange}#1#div회 충전 가능"/>
     <ts_node code="skill#2.lv#1.info" ts="다음 공격 시 공격력 #div#style{color=blue}#135%#div증가 및 #div#style{color=blue}#1#div회 추가 공격, #div#style{color=orange}#1#div회 충전 가능"/>
     <ts_node code="skill#2.lv#2.info" ts="다음 공격 시 공격력 #div#style{color=blue}#140%#div증가 및 #div#style{color=blue}#1#div회 추가 공격, #div#style{color=orange}#1#div회 충전 가능"/>
@@ -69,6 +71,7 @@
     <ts_node code="skill#2.lv#9.info" ts="다음 공격 시 공격력 #div#style{color=blue}#200%#div증가 및 #div#style{color=blue}#1#div회 추가 공격, #div#style{color=orange}#3#div회 충전 가능"/>
 
     <ts_node code="skill#3.name" ts="폐쇄 루프"/>
+    <ts_node code="skill#3.tags" ts="자동회복ㆍ수동발동"/>
     <ts_node code="skill#3.lv#0.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7#div초), 저지 수 #div#style{color=blue}#+1#div, 공격력 및 방어력 #div#style{color=blue}#+30%#div, 공격이 #div#style{color=blue}#+3#div연격으로 변경"/>
     <ts_node code="skill#3.lv#1.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7#div초), 저지 수 #div#style{color=blue}#+1#div, 공격력 및 방어력 #div#style{color=blue}#+40%#div, 공격이 #div#style{color=blue}#+3#div연격으로 변경"/>
     <ts_node code="skill#3.lv#2.info" ts="공격 딜레이 증가(#div#style{color=red}#+0.7#div초), 저지 수 #div#style{color=blue}#+1#div, 공격력 및 방어력 #div#style{color=blue}#+50%#div, 공격이 #div#style{color=blue}#+3#div연격으로 변경"/>
