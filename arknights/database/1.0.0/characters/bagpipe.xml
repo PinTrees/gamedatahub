@@ -13,7 +13,6 @@
     <node code="akn_img_group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
     <node code="akn_img_class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/class/" />
     <node code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
-    <node code="skill" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.skill/" />
     <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
@@ -28,7 +27,6 @@
     <node code="rang" url="files/arknights/asset.image/icon.rang/" />
     <node code="akn_img_class" url="files/arknights/asset.image/icon/class/" />
     <node code="akn_img_group" url="files/arknights/asset.image/icon/group/" />
-    <node code="skill" url="files/arknights/asset.image/icon.skill/" />
     <node code="img" url="files/arknights/asset.image/" />
     <node code="ui" url="files/arknights/asset.ui/" />
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
@@ -77,9 +75,9 @@
     <url_node code="infra_dorm_ao3" var="img#icon/infraskill/infra_dorm_ao3.png"/>
     <url_node code="infra_ws_asc2" var="img#icon/infraskill/infra_ws_asc2.png"/>
 
-    <url_node code="skill#1.icon" var="skill#skill_icon_p_atkup_3.png"/>
-    <url_node code="skill#2.icon" var="skill#skill_icon_bagpipe_2.png"/>
-    <url_node code="skill#3.icon" var="skill#skill_icon_bagpipe_3.png"/>
+    <url_node code="skill#1.icon" var="akn_img#skill/raw/skill_icon_p_atkup_3.png"/>
+    <url_node code="skill#2.icon" var="akn_img#skill/raw/skill_icon_bagpipe_2.png"/>
+    <url_node code="skill#3.icon" var="akn_img#skill/raw/skill_icon_bagpipe_3.png"/>
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value">
