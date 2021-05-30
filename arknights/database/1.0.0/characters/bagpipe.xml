@@ -127,12 +127,12 @@
 
   
   <skill_header>
-    <skill_upgrade code="2" material="2.SKILL=5" count="5" />
-    <skill_upgrade code="3" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
-    <skill_upgrade code="4" material="3.SKILL=8/2.ORI=4" count="8/4" />
-    <skill_upgrade code="5" material="3.SKILL=8/3.KTN=4/2.RCK=5" count="8/4/5" />
-    <skill_upgrade code="6" material="3.SKILL=8/3.ORI=6" count="8/6" />
-    <skill_upgrade code="7" material="4.SKILL=8/3.ALK=5/3.KTN=4" count="8/5/4" />
+    <s_lv code="sklv1" material="2.SKILL=5" count="5" />
+    <s_lv code="sklv2" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
+    <s_lv code="sklv3" material="3.SKILL=8/2.ORI=4" count="8/4" />
+    <s_lv code="sklv4" material="3.SKILL=8/3.KTN=4/2.RCK=5" count="8/4/5" />
+    <s_lv code="sklv5" material="3.SKILL=8/3.ORI=6" count="8/6" />
+    <s_lv code="sklv6" material="4.SKILL=8/3.ALK=5/3.KTN=4" count="8/5/4" />
   </skill_header>
 
   <skill id="0" code="skill_icon_p_atkup_3" name="skill#1.name" unlock="elite_0" type="sp_auto/tr_manu"
