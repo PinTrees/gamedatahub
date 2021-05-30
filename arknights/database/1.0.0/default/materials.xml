@@ -66,10 +66,10 @@
 
     <material_info ui="icon=material.rare#4.rma"
                     code="4.RMA" name="material.rare#4.rma.name" info="material.rare#4.rma.info" record="material.rare#4.rma.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-    <material_info ui="icon=material.rare#4.ston"
-                    code="4.GST" name="material.rare#4.ston.name" info="material.rare#4.ston.info" record="material.rare#4.ston.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-    <material_info ui="icon=material.rare#4.mang"
-                   code="4.MNG" name="material.rare#4.mang.name" info="material.rare#4.mang.info" record="material.rare#4.mang.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.stone"
+                    code="4.GST" name="material.rare#4.stone.name" info="material.rare#4.stone.info" record="material.rare#4.stone.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.manga"
+                   code="4.MNG" name="material.rare#4.manga.name" info="material.rare#4.manga.info" record="material.rare#4.manga.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
     <material_info ui="icon=material.rare#4.kohl"
                    code="4.ALK" name="material.rare#4.kohl.name" info="material.rare#4.kohl.info" record="material.rare#4.kohl.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
     <material_info ui="icon=material.rare#4.device"
@@ -103,10 +103,10 @@
                    code="3.RCK" name="material.rare#3.rock.name" info="material.rare#3.rock.info" record="material.rare#3.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
     <material_info ui="icon=material.rare#3.kohl"
                    code="3.ALK" name="material.rare#3.kohl.name" info="material.rare#3.kohl.info" record="material.rare#3.kohl.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-    <material_info ui="icon=material.rare#3.ston"
-                   code="3.GST" name="material.rare#3.ston.name" info="material.rare#3.ston.info" record="material.rare#3.ston.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-    <material_info ui="icon=material.rare#3.mang"
-                   code="3.MNG" name="material.rare#3.mang.name" info="material.rare#3.mang.info" record="material.rare#3.mang.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.stone"
+                   code="3.GST" name="material.rare#3.stone.name" info="material.rare#3.stone.info" record="material.rare#3.stone.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.manga"
+                   code="3.MNG" name="material.rare#3.manga.name" info="material.rare#3.manga.info" record="material.rare#3.manga.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
     <material_info ui="icon=material.rare#3.rma"
                    code="3.RMA" name="material.rare#3.rma.name" info="material.rare#3.rma.info" record="material.rare#3.rma.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
     <material_info ui="icon=material.rare#3.gell"
