@@ -1,59 +1,59 @@
 <root>
   <urls>
-    <url_info code="kr" var="language#kr/default/materials.xml"/>
+    <url_node code="kr" var="language#kr/default/materials.xml"/>
   </urls>
   <urls>
-    <url_info code="material.rare#5.poly" var="material#mat_5_poly.png"/>
-    <url_info code="material.rare#5.bipolar" var="material#mat_5_bipolar.png"/>
-    <url_info code="material.rare#5.d32" var="material#mat_5_d32.png"/>
+    <url_node code="material.rare#5.poly" var="material#mat_5_poly.png"/>
+    <url_node code="material.rare#5.bipolar" var="material#mat_5_bipolar.png"/>
+    <url_node code="material.rare#5.d32" var="material#mat_5_d32.png"/>
    
-    <url_info code="material.rare#4.rma" var="material#mat_4_rma.png"/>
-    <url_info code="material.rare#4.stone" var="material#mat_4_stone.png"/>
-    <url_info code="material.rare#4.manga" var="material#mat_4_manga.png"/>
-    <url_info code="material.rare#4.kohl" var="material#mat_4_kohl.png"/>
-    <url_info code="material.rare#4.device" var="material#mat_4_device.png"/>
-    <url_info code="material.rare#4.keton" var="material#mat_4_keton.png"/>
-    <url_info code="material.rare#4.oriron" var="material#mat_4_oriron.png"/>
-    <url_info code="material.rare#4.poly" var="material#mat_4_poly.png"/>
-    <url_info code="material.rare#4.sugar" var="material#mat_4_sugar.png"/>
-    <url_info code="material.rare#4.rock" var="material#mat_4_rock.png"/>
-    <url_info code="material.rare#4.gell" var="material#mat_4_gel.png"/>
-    <url_info code="material.rare#4.alloy" var="material#mat_4_alloy.png"/>
+    <url_node code="material.rare#4.rma" var="material#mat_4_rma.png"/>
+    <url_node code="material.rare#4.stone" var="material#mat_4_stone.png"/>
+    <url_node code="material.rare#4.manga" var="material#mat_4_manga.png"/>
+    <url_node code="material.rare#4.kohl" var="material#mat_4_kohl.png"/>
+    <url_node code="material.rare#4.device" var="material#mat_4_device.png"/>
+    <url_node code="material.rare#4.keton" var="material#mat_4_keton.png"/>
+    <url_node code="material.rare#4.oriron" var="material#mat_4_oriron.png"/>
+    <url_node code="material.rare#4.poly" var="material#mat_4_poly.png"/>
+    <url_node code="material.rare#4.sugar" var="material#mat_4_sugar.png"/>
+    <url_node code="material.rare#4.rock" var="material#mat_4_rock.png"/>
+    <url_node code="material.rare#4.gell" var="material#mat_4_gel.png"/>
+    <url_node code="material.rare#4.alloy" var="material#mat_4_alloy.png"/>
   </urls>
   <urls>
-    <url_info code="material.rare#3.rma" var="material#mat_3_rma.png"/>
-    <url_info code="material.rare#3.stone" var="material#mat_3_stone.png"/>
-    <url_info code="material.rare#3.manga" var="material#mat_3_manga.png"/>
-    <url_info code="material.rare#3.kohl" var="material#mat_3_kohl.png"/>
-    <url_info code="material.rare#3.device" var="material#mat_3_device.png"/>
-    <url_info code="material.rare#3.keton" var="material#mat_3_keton.png"/>
-    <url_info code="material.rare#3.oriron" var="material#mat_3_oriron.png"/>
-    <url_info code="material.rare#3.poly" var="material#mat_3_poly.png"/>
-    <url_info code="material.rare#3.sugar" var="material#mat_3_sugar.png"/>
-    <url_info code="material.rare#3.rock" var="material#mat_3_rock.png"/>
-    <url_info code="material.rare#3.gell" var="material#mat_3_gel.png"/>
-    <url_info code="material.rare#3.alloy" var="material#mat_3_alloy.png"/>
+    <url_node code="material.rare#3.rma" var="material#mat_3_rma.png"/>
+    <url_node code="material.rare#3.stone" var="material#mat_3_stone.png"/>
+    <url_node code="material.rare#3.manga" var="material#mat_3_manga.png"/>
+    <url_node code="material.rare#3.kohl" var="material#mat_3_kohl.png"/>
+    <url_node code="material.rare#3.device" var="material#mat_3_device.png"/>
+    <url_node code="material.rare#3.keton" var="material#mat_3_keton.png"/>
+    <url_node code="material.rare#3.oriron" var="material#mat_3_oriron.png"/>
+    <url_node code="material.rare#3.poly" var="material#mat_3_poly.png"/>
+    <url_node code="material.rare#3.sugar" var="material#mat_3_sugar.png"/>
+    <url_node code="material.rare#3.rock" var="material#mat_3_rock.png"/>
+    <url_node code="material.rare#3.gell" var="material#mat_3_gel.png"/>
+    <url_node code="material.rare#3.alloy" var="material#mat_3_alloy.png"/>
  
-    <url_info code="material.rare#2.device" var="material#mat_2_device.png"/>
-    <url_info code="material.rare#2.keton" var="material#mat_2_keton.png"/>
-    <url_info code="material.rare#2.oriron" var="material#mat_2_oriron.png"/>
-    <url_info code="material.rare#2.poly" var="material#mat_2_poly.png"/>
-    <url_info code="material.rare#2.rock" var="material#mat_2_rock.png"/>
-    <url_info code="material.rare#2.sugar" var="material#mat_2_sugar.png"/>
+    <url_node code="material.rare#2.device" var="material#mat_2_device.png"/>
+    <url_node code="material.rare#2.keton" var="material#mat_2_keton.png"/>
+    <url_node code="material.rare#2.oriron" var="material#mat_2_oriron.png"/>
+    <url_node code="material.rare#2.poly" var="material#mat_2_poly.png"/>
+    <url_node code="material.rare#2.rock" var="material#mat_2_rock.png"/>
+    <url_node code="material.rare#2.sugar" var="material#mat_2_sugar.png"/>
 
-    <url_info code="material.rare#1.device" var="material#mat_1_device.png"/>
-    <url_info code="material.rare#1.keton" var="material#mat_1_keton.png"/>
-    <url_info code="material.rare#1.oriron" var="material#mat_1_oriron.png"/>
-    <url_info code="material.rare#1.poly" var="material#mat_1_poly.png"/>
-    <url_info code="material.rare#1.rock" var="material#mat_1_rock.png"/>
-    <url_info code="material.rare#1.sugar" var="material#mat_1_sugar.png"/>
+    <url_node code="material.rare#1.device" var="material#mat_1_device.png"/>
+    <url_node code="material.rare#1.keton" var="material#mat_1_keton.png"/>
+    <url_node code="material.rare#1.oriron" var="material#mat_1_oriron.png"/>
+    <url_node code="material.rare#1.poly" var="material#mat_1_poly.png"/>
+    <url_node code="material.rare#1.rock" var="material#mat_1_rock.png"/>
+    <url_node code="material.rare#1.sugar" var="material#mat_1_sugar.png"/>
   </urls>
   <urls>
-    <url_info code="rare_5" var="ui_btn#ui_btn_gold.png"/>
-    <url_info code="rare_4" var="ui_btn#ui_btn_cian.png"/>
-    <url_info code="rare_3" var="ui_btn#ui_btn_blue.png"/>
-    <url_info code="rare_2" var="ui_btn#ui_btn_green.png"/>
-    <url_info code="rare_1" var="ui_btn#ui_btn_gray.png"/>
+    <url_node code="rare_5" var="ui_btn#ui_btn_gold.png"/>
+    <url_node code="rare_4" var="ui_btn#ui_btn_cian.png"/>
+    <url_node code="rare_3" var="ui_btn#ui_btn_blue.png"/>
+    <url_node code="rare_2" var="ui_btn#ui_btn_green.png"/>
+    <url_node code="rare_1" var="ui_btn#ui_btn_gray.png"/>
   </urls>
 
   <material>
