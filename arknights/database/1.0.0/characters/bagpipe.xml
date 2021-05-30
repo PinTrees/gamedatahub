@@ -140,8 +140,8 @@
          menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" 
          ui="icon=skill#1.icon" >
     <s_lv code="sklv0" info="skill#1.lv#0.info" rang="1" unlock="elite_0" sp="45/0" eft="35" />
-    <s_lv code="sklv1" info="skill#1.lv#1.info" rang="1" unlock="elite_0" sp="44/0" eft="35" />
-    <s_lv code="sklv2" info="skill#1.lv#2.info" rang="1" unlock="elite_0" sp="43/0" eft="35" />
+    <s_lv code="sklv1" info="skill#1.lv#1.info" rang="1" unlock="elite_0" sp="44/0" eft="35" material="2.SKILL=5" count="5" />
+    <s_lv code="sklv2" info="skill#1.lv#2.info" rang="1" unlock="elite_0" sp="43/0" eft="35" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4"  />
     <s_lv code="sklv3" info="skill#1.lv#3.info" rang="1" unlock="elite_0" sp="42/5" eft="35" />
     <s_lv code="sklv4" info="skill#1.lv#4.info" rang="1" unlock="elite_1" sp="41/5" eft="35" />
     <s_lv code="sklv5" info="skill#1.lv#5.info" rang="1" unlock="elite_1" sp="40/5" eft="35" />
@@ -155,8 +155,8 @@
          menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
          ui="icon=skill#2.icon" >
     <s_lv code="sklv0" info="skill#2.lv#0.info" rang="" unlock="elite_1" sp="7/0" />
-    <s_lv code="sklv1" info="skill#2.lv#1.info" rang="" unlock="elite_1" sp="7/0" />
-    <s_lv code="sklv2" info="skill#2.lv#2.info" rang="" unlock="elite_1" sp="7/0" />
+    <s_lv code="sklv1" info="skill#2.lv#1.info" rang="" unlock="elite_1" sp="7/0" material="2.SKILL=5" count="5"/>
+    <s_lv code="sklv2" info="skill#2.lv#2.info" rang="" unlock="elite_1" sp="7/0" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
     <s_lv code="sklv3" info="skill#2.lv#3.info" rang="" unlock="elite_1" sp="6/0" />
     <s_lv code="sklv4" info="skill#2.lv#4.info" rang="" unlock="elite_1" sp="6/0" />
     <s_lv code="sklv5" info="skill#2.lv#5.info" rang="" unlock="elite_1" sp="6/0" />
@@ -170,8 +170,8 @@
          menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
          ui="icon=skill#3.icon" >
     <s_lv code="sklv0" info="skill#3.lv#0.info" rang="" lv_n="elite_2" sp="40/9" />
-    <s_lv code="sklv1" info="skill#3.lv#1.info" rang="" lv_n="elite_2" sp="40/10" />
-    <s_lv code="sklv2" info="skill#3.lv#2.info" rang="" lv_n="elite_2" sp="40/11" />
+    <s_lv code="sklv1" info="skill#3.lv#1.info" rang="" lv_n="elite_2" sp="40/10" material="2.SKILL=5" count="5"/>
+    <s_lv code="sklv2" info="skill#3.lv#2.info" rang="" lv_n="elite_2" sp="40/11" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
     <s_lv code="sklv3" info="skill#3.lv#3.info" rang="" lv_n="elite_2" sp="40/12" />
     <s_lv code="sklv4" info="skill#3.lv#4.info" rang="" lv_n="elite_2" sp="40/13" />
     <s_lv code="sklv5" info="skill#3.lv#5.info" rang="" lv_n="elite_2" sp="40/14" />
