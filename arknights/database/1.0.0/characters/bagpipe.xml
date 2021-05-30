@@ -111,9 +111,9 @@
   </elite>
   
   <status  menu="elite#0,elite#1,elite#2" >
-    <status_info code="elite#0" rang="rang_icon_1" level="1,50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" redeploy="70" cost="11" block="1" attack_time="1.0" />
-    <status_info code="elite#1" rang="rang_icon_1" level="1,80" hp="1355/1738" atk="369/492" def="241/313" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
-    <status_info code="elite#2" rang="rang_icon_1" level="1,90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" redeploy="70" cost="13" block="1" attack_time="1.0" />
+    <status_info code="elite#0" rang="rang_icon_1" level="1,50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" var="redeploy=70,cost=11,block=1,attackSpeed=1.0" stat="hp=975-1355,atk=250-369," />
+    <status_info code="elite#1" rang="rang_icon_1" level="1,80" hp="1355/1738" atk="369/492" def="241/313" mdef="0/0" var="redeploy=70,cost=13,block=1,attackSpeed=1.0"/>
+    <status_info code="elite#2" rang="rang_icon_1" level="1,90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" var="redeploy=70,cost=13,block=1,attackSpeed=1.0"/>
   </status>
   
   <infra title="infra.title" ui="button=elite_0/elite_1/elite_2"
