@@ -127,12 +127,12 @@
 
   
   <skill_header>
-    <skill_upgrade code="2" material="SB_1" count="5" />
-    <skill_upgrade code="3" material="SB_1/poly_1/orin_1" count="5/6/4" />
-    <skill_upgrade code="4" material="SB_2/orin_2" count="8/4" />
-    <skill_upgrade code="5" material="SB_2/ketn_3/rock_2" count="8/4/5" />
-    <skill_upgrade code="6" material="SB_2/orin_3" count="8/6" />
-    <skill_upgrade code="7" material="SB_3/kohl_3/ketn_3" count="8/5/4" />
+    <skill_upgrade code="2" material="2.SKILL=5" count="5" />
+    <skill_upgrade code="3" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
+    <skill_upgrade code="4" material="3.SKILL=8/2.ORI=4" count="8/4" />
+    <skill_upgrade code="5" material="3.SKILL=8/3.KTN=4/2.RCK=5" count="8/4/5" />
+    <skill_upgrade code="6" material="3.SKILL=8/3.ORI=6" count="8/6" />
+    <skill_upgrade code="7" material="4.SKILL=8/3.ALK=5/3.KTN=4" count="8/5/4" />
   </skill_header>
 
   <skill id="0" code="skill_icon_p_atkup_3" name="skill#1.name" unlock="elite_0" type="sp_auto/tr_manu"
@@ -146,9 +146,9 @@
     <s_lv code="sklv4" info="skill#1.lv#4.info" rang="1" unlock="elite_1" sp="41/5" eft="35" />
     <s_lv code="sklv5" info="skill#1.lv#5.info" rang="1" unlock="elite_1" sp="40/5" eft="35" />
     <s_lv code="sklv6" info="skill#1.lv#6.info" rang="1" unlock="elite_1" sp="39/10" eft="35" />
-    <s_lv code="sklv7" info="skill#1.lv#7.info" rang="1" unlock="elite_2" sp="38/10" eft="35" material="SB_3/kohl_4/ketn_3" count="8/4/8" />
-    <s_lv code="sklv8" info="skill#1.lv#8.info" rang="1" unlock="elite_2" sp="37/10" eft="35" material="SB_3/rma_4/mang_4" count="12/4/7" />
-    <s_lv code="sklv9" info="skill#1.lv#9.info" rang="1" unlock="elite_2" sp="35/15" eft="35" material="SB_3/bipl_5/ketn_4" count="15/6/5" />
+    <s_lv code="sklv7" info="skill#1.lv#7.info" rang="1" unlock="elite_2" sp="38/10" eft="35" material="4.SKILL=8/4.ALK=4/3.KTN=8" count="8/4/8" />
+    <s_lv code="sklv8" info="skill#1.lv#8.info" rang="1" unlock="elite_2" sp="37/10" eft="35" material="4.SKILL=12/4.RMA=4/4.MNG=7" count="12/4/7" />
+    <s_lv code="sklv9" info="skill#1.lv#9.info" rang="1" unlock="elite_2" sp="35/15" eft="35" material="4.SKILL=15/5.BIP=6/4.KTN=5" count="15/6/5" />
   </skill>
   <skill id="1" code="skill_icon_bagpipe_2" name="skill#2.name" unlock="elite_1"  type="sp_auto/tr_auto" 
          tags="skill#2.tags"
@@ -161,9 +161,9 @@
     <s_lv code="sklv4" info="skill#2.lv#4.info" rang="" unlock="elite_1" sp="6/0" />
     <s_lv code="sklv5" info="skill#2.lv#5.info" rang="" unlock="elite_1" sp="6/0" />
     <s_lv code="sklv6" info="skill#2.lv#6.info" rang="" unlock="elite_1" sp="5/0" />
-    <s_lv code="sklv7" info="skill#2.lv#7.info" rang="" unlock="elite_2" sp="5/0" material="SB_3/mang_4/devi_3" count="8/4/4" />
-    <s_lv code="sklv8" info="skill#2.lv#8.info" rang="" unlock="elite_2" sp="5/0" material="SB_3/aloy_4/rma_4" count="12/4/8" />
-    <s_lv code="sklv9" info="skill#2.lv#9.info" rang="" unlock="elite_2" sp="4/0" material="SB_3/d32_5/kohl_4" count="15/6/7" />
+    <s_lv code="sklv7" info="skill#2.lv#7.info" rang="" unlock="elite_2" sp="5/0" material="4.SKILL=8/4.MNG=4/3.DIV=4" count="8/4/4" />
+    <s_lv code="sklv8" info="skill#2.lv#8.info" rang="" unlock="elite_2" sp="5/0" material="4.SKILL=12/4.ALY=4/4.RMA=8" count="12/4/8" />
+    <s_lv code="sklv9" info="skill#2.lv#9.info" rang="" unlock="elite_2" sp="4/0" material="4.SKILL=15/5.D32=6/4.ALK=7" count="15/6/7" />
   </skill>
   <skill id="2" code="skill_icon_bagpipe_3" name="skill#3.name" unlock="elite_2" type="sp_auto/tr_manu"
          tags="skill#3.tags"
@@ -176,9 +176,9 @@
     <s_lv code="sklv4" info="skill#3.lv#4.info" rang="" lv_n="elite_2" sp="40/13" />
     <s_lv code="sklv5" info="skill#3.lv#5.info" rang="" lv_n="elite_2" sp="40/14" />
     <s_lv code="sklv6" info="skill#3.lv#6.info" rang="" lv_n="elite_2" sp="40/15" />
-    <s_lv code="sklv7" info="skill#3.lv#7.info" rang="" lv_n="elite_2" sp="40/18" material="SB_3/ston_4/kohl_3" count="8/4/7" />
-    <s_lv code="sklv8" info="skill#3.lv#8.info" rang="" lv_n="elite_2" sp="40/21" material="SB_3/gell_4/rock_4" count="12/4/10" />
-    <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="SB_3/bipl_5/orin_4" count="15/6/4" />
+    <s_lv code="sklv7" info="skill#3.lv#7.info" rang="" lv_n="elite_2" sp="40/18" material="4.SKILL=8/4.GST=4/3.ALK=7" count="8/4/7" />
+    <s_lv code="sklv8" info="skill#3.lv#8.info" rang="" lv_n="elite_2" sp="40/21" material="4.SKILL=12/4.GEL=4/4.RCK=10" count="12/4/10" />
+    <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" />
   </skill>
 
   <audio ui="play=play,pause=pause" >
