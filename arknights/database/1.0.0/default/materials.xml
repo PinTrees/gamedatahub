@@ -58,100 +58,101 @@
     <url_info code="rare_2" url="ui_btn#ui_btn_green.png"/>
     <url_info code="rare_1" url="ui_btn#ui_btn_gray.png"/>
   </urls>
-  
-  <material_info ui="icon=material.rare#5.d32" 
-                 code="5.D32" name="material.rare#5.d32.name" info="material.rare#5.d32.info" record="material.rare#5.d32.record" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#5.bipolar"
-                 code="5.BIP" name="material.rare#5.bipolar.name" info="material.rare#5.bipolar.info" record="material.rare#5.bipolar.record" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#5.poly"
-                 code="5.PLY" name="material.rare#5.poly.name" info="material.rare#5.poly.info" record="material.rare#5.poly.record" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
-  <material_info ui="icon=material.rare#4.rma"
-                  code="4.RMA" name="material.rare#4.rma.name" info="material.rare#4.rma.info" record="material.rare#4.rma.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.ston"
-                  code="4.GST" name="material.rare#4.ston.name" info="material.rare#4.ston.info" record="material.rare#4.ston.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.mang"
-                 code="4.MNG" name="material.rare#4.mang.name" info="material.rare#4.mang.info" record="material.rare#4.mang.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.kohl"
-                 code="4.ALK" name="material.rare#4.kohl.name" info="material.rare#4.kohl.info" record="material.rare#4.kohl.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.device"
-                 code="4.DIV" name="material.rare#4.device.name" info="material.rare#4.device.info" record="material.rare#4.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.keton"
-                 code="4.KTN" name="material.rare#4.keton.name" info="material.rare#4.keton.info" record="material.rare#4.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.oriron"
-                 code="4.ORI" name="material.rare#4.oriron.name" info="material.rare#4.oriron.info" record="material.rare#4.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.poly"
-                 code="4.PLY" name="material.rare#4.poly.name" info="material.rare#4.poly.info" record="material.rare#4.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.sugar"
-                 code="4.SGA" name="material.rare#4.sugar.name" info="material.rare#4.sugar.info" record="material.rare#4.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.rock"
-                 code="4.RCK" name="material.rare#4.rock.name" info="material.rare#4.rock.info" record="material.rare#4.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.gell"
-                 code="4.GEL" name="material.rare#4.gell.name" info="material.rare#4.gell.info" record="material.rare#4.gell.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#4.alloy"
-                 code="4.ALY" name="material.rare#4.alloy.name" info="material.rare#4.alloy.info" record="material.rare#4.alloy.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+  <material>
+    <material_info ui="icon=material.rare#5.d32"
+                   code="5.D32" name="material.rare#5.d32.name" info="material.rare#5.d32.info" record="material.rare#5.d32.record" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#5.bipolar"
+                   code="5.BIP" name="material.rare#5.bipolar.name" info="material.rare#5.bipolar.info" record="material.rare#5.bipolar.record" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#5.poly"
+                   code="5.PLY" name="material.rare#5.poly.name" info="material.rare#5.poly.info" record="material.rare#5.poly.record" rare="5" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
-  <material_info ui="icon=material.rare#3.device"
-                 code="3.DIV" name="material.rare#3.device.name" info="material.rare#3.device.info" record="material.rare#3.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.keton"
-                 code="3.KTN" name="material.rare#3.keton.name" info="material.rare#3.keton.info" record="material.rare#3.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.oriron"
-                 code="3.ORI" name="material.rare#3.oriron.name" info="material.rare#3.oriron.info" record="material.rare#3.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.poly"
-                 code="3.PLY" name="material.rare#3.poly.name" info="material.rare#3.poly.info" record="material.rare#3.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.sugar"
-                 code="3.SGA" name="material.rare#3.sugar.name" info="material.rare#3.sugar.info" record="material.rare#3.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.rock"
-                 code="3.RCK" name="material.rare#3.rock.name" info="material.rare#3.rock.info" record="material.rare#3.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.kohl"
-                 code="3.ALK" name="material.rare#3.kohl.name" info="material.rare#3.kohl.info" record="material.rare#3.kohl.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.ston"
-                 code="3.GST" name="material.rare#3.ston.name" info="material.rare#3.ston.info" record="material.rare#3.ston.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.mang"
-                 code="3.MNG" name="material.rare#3.mang.name" info="material.rare#3.mang.info" record="material.rare#3.mang.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.rma"
-                 code="3.RMA" name="material.rare#3.rma.name" info="material.rare#3.rma.info" record="material.rare#3.rma.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.gell"
-                 code="3.GEL" name="material.rare#3.gell.name" info="material.rare#3.gell.info" record="material.rare#3.gell.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.alloy"
-                 code="3.ALY" name="material.rare#3.alloy.name" info="material.rare#3.alloy.info" record="material.rare#3.alloy.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.rma"
+                    code="4.RMA" name="material.rare#4.rma.name" info="material.rare#4.rma.info" record="material.rare#4.rma.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.ston"
+                    code="4.GST" name="material.rare#4.ston.name" info="material.rare#4.ston.info" record="material.rare#4.ston.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.mang"
+                   code="4.MNG" name="material.rare#4.mang.name" info="material.rare#4.mang.info" record="material.rare#4.mang.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.kohl"
+                   code="4.ALK" name="material.rare#4.kohl.name" info="material.rare#4.kohl.info" record="material.rare#4.kohl.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.device"
+                   code="4.DIV" name="material.rare#4.device.name" info="material.rare#4.device.info" record="material.rare#4.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.keton"
+                   code="4.KTN" name="material.rare#4.keton.name" info="material.rare#4.keton.info" record="material.rare#4.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.oriron"
+                   code="4.ORI" name="material.rare#4.oriron.name" info="material.rare#4.oriron.info" record="material.rare#4.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.poly"
+                   code="4.PLY" name="material.rare#4.poly.name" info="material.rare#4.poly.info" record="material.rare#4.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.sugar"
+                   code="4.SGA" name="material.rare#4.sugar.name" info="material.rare#4.sugar.info" record="material.rare#4.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.rock"
+                   code="4.RCK" name="material.rare#4.rock.name" info="material.rare#4.rock.info" record="material.rare#4.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.gell"
+                   code="4.GEL" name="material.rare#4.gell.name" info="material.rare#4.gell.info" record="material.rare#4.gell.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.alloy"
+                   code="4.ALY" name="material.rare#4.alloy.name" info="material.rare#4.alloy.info" record="material.rare#4.alloy.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
-  <material_info ui="icon=material.rare#2.device"
-                 code="2.DIV" name="material.rare#2.device.name" info="material.rare#2.device.info" record="material.rare#2.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#2.keton"
-                 code="2.KTN" name="material.rare#2.keton.name" info="material.rare#2.keton.info" record="material.rare#2.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#2.oriron"
-                 code="2.ORI" name="material.rare#2.oriron.name" info="material.rare#2.oriron.info" record="material.rare#2.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#2.poly"
-                 code="2.PLY" name="material.rare#2.poly.name" info="material.rare#2.poly.info" record="material.rare#2.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#2.sugar"
-                 code="2.SGA" name="material.rare#2.sugar.name" info="material.rare#2.sugar.info" record="material.rare#2.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#2.rock"
-                 code="2.RCK" name="material.rare#2.rock.name" info="material.rare#2.rock.info" record="material.rare#2.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.device"
+                   code="3.DIV" name="material.rare#3.device.name" info="material.rare#3.device.info" record="material.rare#3.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.keton"
+                   code="3.KTN" name="material.rare#3.keton.name" info="material.rare#3.keton.info" record="material.rare#3.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.oriron"
+                   code="3.ORI" name="material.rare#3.oriron.name" info="material.rare#3.oriron.info" record="material.rare#3.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.poly"
+                   code="3.PLY" name="material.rare#3.poly.name" info="material.rare#3.poly.info" record="material.rare#3.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.sugar"
+                   code="3.SGA" name="material.rare#3.sugar.name" info="material.rare#3.sugar.info" record="material.rare#3.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.rock"
+                   code="3.RCK" name="material.rare#3.rock.name" info="material.rare#3.rock.info" record="material.rare#3.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.kohl"
+                   code="3.ALK" name="material.rare#3.kohl.name" info="material.rare#3.kohl.info" record="material.rare#3.kohl.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.ston"
+                   code="3.GST" name="material.rare#3.ston.name" info="material.rare#3.ston.info" record="material.rare#3.ston.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.mang"
+                   code="3.MNG" name="material.rare#3.mang.name" info="material.rare#3.mang.info" record="material.rare#3.mang.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.rma"
+                   code="3.RMA" name="material.rare#3.rma.name" info="material.rare#3.rma.info" record="material.rare#3.rma.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.gell"
+                   code="3.GEL" name="material.rare#3.gell.name" info="material.rare#3.gell.info" record="material.rare#3.gell.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.alloy"
+                   code="3.ALY" name="material.rare#3.alloy.name" info="material.rare#3.alloy.info" record="material.rare#3.alloy.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
-  <material_info ui="icon=material.rare#1.device"
-                 code="1.DIV" name="material.rare#1.device.name" info="material.rare#1.device.info" record="material.rare#1.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#1.keton"
-                 code="1.KTN" name="material.rare#1.keton.name" info="material.rare#1.keton.info" record="material.rare#1.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#1.oriron"
-                 code="1.ORI" name="material.rare#1.oriron.name" info="material.rare#1.oriron.info" record="material.rare#1.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#1.poly"
-                 code="1.PLY" name="material.rare#1.poly.name" info="material.rare#1.poly.info" record="material.rare#1.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#1.sugar"
-                 code="1.SGA" name="material.rare#1.sugar.name" info="material.rare#1.sugar.info" record="material.rare#1.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#1.rock"
-                 code="1.RCK" name="material.rare#1.rock.name" info="material.rare#1.rock.info" record="material.rare#1.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.device"
+                   code="2.DIV" name="material.rare#2.device.name" info="material.rare#2.device.info" record="material.rare#2.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.keton"
+                   code="2.KTN" name="material.rare#2.keton.name" info="material.rare#2.keton.info" record="material.rare#2.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.oriron"
+                   code="2.ORI" name="material.rare#2.oriron.name" info="material.rare#2.oriron.info" record="material.rare#2.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.poly"
+                   code="2.PLY" name="material.rare#2.poly.name" info="material.rare#2.poly.info" record="material.rare#2.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.sugar"
+                   code="2.SGA" name="material.rare#2.sugar.name" info="material.rare#2.sugar.info" record="material.rare#2.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.rock"
+                   code="2.RCK" name="material.rare#2.rock.name" info="material.rare#2.rock.info" record="material.rare#2.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
-  <material_info ui="icon=material.rare#4.skill"
-                 code="4.SKILL" name="material.rare#4.skill.name" info="material.rare#4.skill.info" record="material.rare#4.skill.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#3.skill"
-                 code="3.SKILL" name="material.rare#3.skill.name" info="material.rare#3.skill.info" record="material.rare#3.skill.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
-  <material_info ui="icon=material.rare#2.skill"
-                 code="2.SKILL" name="material.rare#2.skill.name" info="material.rare#2.skill.info" record="material.rare#2.skill.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#1.device"
+                   code="1.DIV" name="material.rare#1.device.name" info="material.rare#1.device.info" record="material.rare#1.device.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#1.keton"
+                   code="1.KTN" name="material.rare#1.keton.name" info="material.rare#1.keton.info" record="material.rare#1.keton.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#1.oriron"
+                   code="1.ORI" name="material.rare#1.oriron.name" info="material.rare#1.oriron.info" record="material.rare#1.oriron.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#1.poly"
+                   code="1.PLY" name="material.rare#1.poly.name" info="material.rare#1.poly.info" record="material.rare#1.poly.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#1.sugar"
+                   code="1.SGA" name="material.rare#1.sugar.name" info="material.rare#1.sugar.info" record="material.rare#1.sugar.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#1.rock"
+                   code="1.RCK" name="material.rare#1.rock.name" info="material.rare#1.rock.info" record="material.rare#1.rock.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
-  <material_info ui="icon=material.rare#4.lungmen"
-                code="2.LMD" name="material.rare#2.lungmen.name" info="material.rare#2.lungmen.info" record="material.rare#2.lungmen.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#4.skill"
+                   code="4.SKILL" name="material.rare#4.skill.name" info="material.rare#4.skill.info" record="material.rare#4.skill.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#3.skill"
+                   code="3.SKILL" name="material.rare#3.skill.name" info="material.rare#3.skill.info" record="material.rare#3.skill.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+    <material_info ui="icon=material.rare#2.skill"
+                   code="2.SKILL" name="material.rare#2.skill.name" info="material.rare#2.skill.info" record="material.rare#2.skill.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
 
+    <material_info ui="icon=material.rare#4.lungmen"
+                  code="2.LMD" name="material.rare#2.lungmen.name" info="material.rare#2.lungmen.info" record="material.rare#2.lungmen.record" rare="4" sub="RM_1/PS_1/MG_1" count="1/1/1"/>
+  </material>
   <material_info id="110" code="GD_1" name="순금" rare="4" drop="제조소" dropPer="생산" sub="" info="정제된 금괴. 용문폐를 대량으로 획득할 수 있다." record="이 금괴를 만들기 위해 얼마나 많은 광석을 사용해야 했을까? 이제는 그런 의문을 가질 필요가 없다. 지금 우리 눈앞에 금괴가 차곡차곡 쌓여있다는 사실이 훨씬 중요하니까."/>
 
   <material_info id="200" code="EX_3" name="기초작전기록" rare="2" drop="물자비축" dropPer="데이터 없음" sub="" info="작전 영상을 기록한 정보 기억장치.
