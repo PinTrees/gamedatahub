@@ -2,11 +2,13 @@
   <url_hub>
     <node code="akn_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <node code="akn_database_charinfo" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/characters/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/" />
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
   </url_hub>
   <file_hub>
     <node code="akn_charicon" url="files/arknights/asset.image/icon.charactor/" />
     <node code="akn_database_charinfo" url="files/arknights/database/1.0.0/characters/" />
+    <node code="akn_database" url="files/arknights/database/" />
     <node code="ui" url="files/arknights/asset.ui/" />
   </file_hub>
 
@@ -74,12 +76,12 @@
     
   <info id="222" code="bagpipe" name="백파이프" rare="6" group="victoria" gender="female" position="c" class="vanguard" >
     <urls var="icon=akn_charicon#bagpipe.png,frame=ui#button/ui_btn_red.png,
-        info=akn_database_charinfo#bagpipe.xml"
+        info=akn_database#characters/bagpipe.xml"
         color="back=frame6" />
   </info>
   <info id="362" code="saga" name="세가" rare="6" group="higashi" gender="female" position="c" class="vanguard" >
     <urls var="icon=akn_charicon#saga.png,frame=ui#button/ui_btn_red.png,
-          info=akn_database_charinfo#saga.xml"
+          info=akn_database#characters/saga.xml"
         color="back=frame6" />
   </info>
   <info id="112" code="siege" name="시즈" rare="6" group="glasgow" gender="female" position="c" class="vanguard" >
