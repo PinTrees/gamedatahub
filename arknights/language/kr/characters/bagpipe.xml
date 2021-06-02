@@ -1,13 +1,17 @@
 <root>
   <translation country="kr" >
-    <ts_node code="profile#1.title" ts="프로필"/>
-    <ts_node code="profile#1.info" ts="빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다."/>
+    <ts_node root="" code="profile#1.title" ts="프로필"/>
+    <ts_node root="" code="profile#1.info" ts="빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다."/>
 
     <ts_node code="profile.default.title" ts="기본정보"/>
+    <ts_node code="profile.default.codename.title" ts="백파이프"/>
     <ts_node code="profile.default.codename" ts="백파이프"/>
+    <ts_node code="profile.default.gender.title" ts="성별"/>
     <ts_node code="profile.default.gender" ts="여성"/>
     <ts_node code="profile.default.bt" ts="백파이프"/>
+    <ts_node code="profile.default.from.title" ts="출신지"/>
     <ts_node code="profile.default.from" ts="빅토리아"/>
+    <ts_node code="profile.default.birth.title" ts="생일"/>
     <ts_node code="profile.default.birth" ts="7월 17일"/>
 
     <ts_node code="profile.physical.title" ts="종합검진"/>
@@ -110,7 +114,6 @@
     
     
     <ts_node code="skill.title" ts="스킬 정보"/>
-
     <ts_node code="skill#1.name" ts="신속한 공격γ"/>
     <ts_node code="skill#1.tags" ts="자동회복ㆍ수동발동"/>
     <ts_node code="skill#1.lv#0.info" ts="공격력 #div#style{color=blue}#+20%#div, 공격속도 #div#style{color=blue}#+20#div"/>
@@ -161,7 +164,6 @@
     <ts_node code="ability.menu#1" ts="1차 정예화 해금 재능"/>
     <ts_node code="ability.menu#2" ts="2차 정예화 해금 재능"/>
 
-    <ts_node code="infra.title" ts="인프라"/>
     <ts_node code="infra.menu#0" ts="전체"/>
     <ts_node code="infra.menu#1" ts="기본 인프라 스킬"/>
     <ts_node code="infra.menu#2" ts="1차 정예화 인프라 스킬"/>
