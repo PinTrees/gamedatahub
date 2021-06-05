@@ -1,6 +1,6 @@
 <root>
   <import>
-    <import_ndoe path="language#fixed/character.xml"/>
+    <import_ndoe path="language#kr/fixed/character.xml"/>
   </import>
   <translation country="kr" >
     <ts_node root="" code="profile#1.title" ts="프로필"/>
