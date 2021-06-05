@@ -1,5 +1,7 @@
 <root>
   <translation root="character.title" country="kr" >
+    <ts_node code="character.info.title" ts="캐릭터 정보"/>
+
     <ts_node code="gender.title" ts="성별"/>
     <ts_node code="class.title" ts="클래스"/>
     <ts_node code="potential.title" ts="잠재력"/>
