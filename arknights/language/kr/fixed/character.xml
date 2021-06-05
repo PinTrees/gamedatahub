@@ -8,6 +8,7 @@
     <ts_node code="infra.title" ts="인프라 스킬"/>
     <ts_node code="skill.title" ts="스킬 정보"/>
 
+    <ts_node code="stat.title" ts="스테이터스"/>
     <ts_node code="stat.hp.title" ts="체력"/>
     <ts_node code="stat.atk.title" ts="공격력"/>
     <ts_node code="stat.def.title" ts="방어력"/>
