@@ -57,6 +57,7 @@
 
     <url_node code="illust.elite#0.illust" var="akn_img#character/illust/bagpipe.png"/>
     <url_node code="illust.elite#2.illust" var="akn_img#character/illust/bagpipe_e2.png"/>
+    <url_node code="illust.race#1.illust" var="akn_img#character/illust/bagpipe_race1.png"/>
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value">
@@ -67,6 +68,7 @@
   <illust>
     <illust_info code="illust.elite#0" ui="icon=illust.elite#0.icon,illust=illust.elite#0.illust" name="illust.elite#0.name" />
     <illust_info code="illust.elite#2" ui="icon=illust.elite#2.icon,illust=illust.elite#2.illust" name="illust.elite#2.name" />
+    <illust_info code="illust.race#1" ui="icon=illust.elite#2.icon,illust=illust.race#1.illust" name="illust.race#1.name" />
   </illust>
   
   <specificity title="specificity.title" info="specificity.info" />
