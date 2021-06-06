@@ -32,30 +32,6 @@
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
     <node code="language" url="files/arknights/language/" />
   </file_hub>
-  <url_node>
-    <url_info code="elite_0" url="img#icon/sticker/elite_0.png"/>
-    <url_info code="elite_1" url="img#icon/sticker/elite_1.png"/>
-    <url_info code="elite_2" url="img#icon/sticker/elite_2.png"/>
-    <url_info code="icon_race" url="img#icon/ilust.type/2020_race.png"/>
-   
-    <url_info code="illust_elite_0" url="illust#bagpipe.png"/>
-    <url_info code="illust_elite_2" url="illust#bagpipe_e2.png"/>
-    <url_info code="ilust_race" url="illust#bagpipe_race1.png"/>
-
-    <url_info code="play" url="ui#icon/audio/play.png"/>
-    <url_info code="pause" url="ui#icon/audio/pause.png"/>
-
-    <url_info code="rang_icon_1" url="rang#rang_icon_1.png"/>
-
-    <url_info code="gold" url="material#gold.png"/>
-  </url_node>
-
-  <ui ui="bottom_menu=" />
-  <ilust code="elite_0/elite_2/ilust_race">
-    <ilust_info ui="icon=elite_0,ilust=illust_elite_0" code="elite_0" name="기본" />
-    <ilust_info ui="icon=elite_2,ilust=illust_elite_2" code="elite_2" name="2차정예화" />
-    <ilust_info ui="icon=icon_race,ilust=ilust_race" code="ilust_race" name="레이싱" />
-  </ilust>
 
   <urls>
     <url_node code ="kr" var="language#kr/characters/bagpipe.xml"/>
@@ -78,13 +54,21 @@
     <url_node code="skill#1.icon" var="akn_img#skill/raw/skill_icon_p_atkup_3.png"/>
     <url_node code="skill#2.icon" var="akn_img#skill/raw/skill_icon_bagpipe_2.png"/>
     <url_node code="skill#3.icon" var="akn_img#skill/raw/skill_icon_bagpipe_3.png"/>
+
+    <url_node code="illust.elite#0.illust" var="akn_img#character/illust/bagpipe.png"/>
+    <url_node code="illust.elite#2.illust" var="akn_img#character/illust/bagpipe_e2.png"/>
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value">
     <potential info="배치 비용 -1/첫 번째 재능 향상(+3%)/공격력 +25/두 번째 재능 향상(+2)/배치 비용 -1" />
     <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
   </header>
- 
+
+  <illust>
+    <illust_info code="illust.elite#0" ui="icon=illust.elite#0.icon,illust=illust.elite#0.illust" name="illust.elite#0.name" />
+    <illust_info code="illust.elite#2" ui="icon=illust.elite#2.icon,illust=illust.elite#2.illust" name="illust.elite#2.name" />
+  </illust>
+  
   <specificity title="specificity.title" info="specificity.info" />
   <potential title="potential.title" >
     <potential_info ui="icon=potential#1.icon" info="potential#1.info" />
