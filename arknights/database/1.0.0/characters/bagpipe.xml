@@ -163,7 +163,7 @@
     <s_lv code="sklv6" info="skill#3.lv#6.info" rang="" lv_n="elite_2" sp="40/15" />
     <s_lv code="sklv7" info="skill#3.lv#7.info" rang="" lv_n="elite_2" sp="40/18" material="4.SKILL=8/4.GST=4/3.ALK=7" count="8/4/7" />
     <s_lv code="sklv8" info="skill#3.lv#8.info" rang="" lv_n="elite_2" sp="40/21" material="4.SKILL=12/4.GEL=4/4.RCK=10" count="12/4/10" />
-    <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" />
+    <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" /> 
   </skill>
 
   <audio ui="play=play,pause=pause" >
