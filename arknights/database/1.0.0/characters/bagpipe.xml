@@ -34,7 +34,7 @@
   </file_hub>
 
   <urls>
-    <url_node code ="kr" var="language#kr/characters/bagpipe.xml"/>
+    <url_node code ="translator" var="language#$contrycode/characters/bagpipe.xml"/>
     <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
     <url_node code ="class" var="akn_img_class#class_vanguard.png"/>
     <url_node code ="group" var="akn_img_group#group_icon_victoria.png"/>
