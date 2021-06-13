@@ -36,9 +36,11 @@
   <urls>
     <url_node code ="translator" var="language#$contrycode/characters/bagpipe.xml"/>
     <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
-    <url_node code ="class" var="akn_img_class#class_vanguard.png"/>
-    <url_node code ="group" var="akn_img_group#group_icon_victoria.png"/>
 
+    <url_node code ="gender.icon" var="akn_img_class#class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    
     <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
     <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
 
@@ -60,8 +62,9 @@
     <url_node code="illust.race#1.illust" var="akn_img#character/illust/bagpipe_race1.png"/>
   </urls>
   
-  <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value">
-    <potential info="배치 비용 -1/첫 번째 재능 향상(+3%)/공격력 +25/두 번째 재능 향상(+2)/배치 비용 -1" />
+  <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value"
+          ui="gender.icon=gender.icon,group.icon=group.icon,class.icon=class.icon"
+          text="gender=gender.info,group=group.info=class=class.info">
     <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
   </header>
 
