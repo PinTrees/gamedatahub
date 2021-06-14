@@ -16,7 +16,6 @@
     <node code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
     <node code="akn_img_group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
     <node code="akn_img_class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/class/" />
-    <node code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
@@ -43,10 +42,6 @@
     <url_node code ="translator" var="language#$contrycode/characters/bagpipe.xml"/>
     <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
 
-    <url_node code ="gender.icon" var="akn_img_class#class_vanguard.png"/>
-    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
-    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
-    
     <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
     <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
 
