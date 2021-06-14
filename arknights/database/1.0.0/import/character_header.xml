@@ -1,50 +1,31 @@
 <root>
-  <import>
-    <import_ndoe path="language#kr/fixed/character.xml"/>
-  </import>
-    
-  <style>
-    <color_node code="blue" value="FF1295E0"/>
-    <color_node code="orange" value="FFF69E21"/>
-    <color_node code="red" value="FFF33939"/>
-  </style>
-  
   <url_hub>
-    <node code="akn_img_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
-    <node code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
-    <node code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
-    <node code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
     <node code="akn_img_group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
     <node code="akn_img_class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/class/" />
-    <node code="fun" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.class/" />
     <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
-    <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
-    <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
-    <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
     <node code="akn_img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset/image/" />
   </url_hub>
   <file_hub>
-    <node code="akn_img_charicon" url="files/arknights/asset.image/icon.charactor/" />
     <node code="akn_img" url="files/arknights/asset/image/" />
-
-    <node code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
-    <node code="rang" url="files/arknights/asset.image/icon.rang/" />
     <node code="akn_img_class" url="files/arknights/asset.image/icon/class/" />
     <node code="akn_img_group" url="files/arknights/asset.image/icon/group/" />
-    <node code="img" url="files/arknights/asset.image/" />
-    <node code="ui" url="files/arknights/asset.ui/" />
-    <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
-    <node code="language" url="files/arknights/language/" />
   </file_hub>
 
   <urls>
-    <url_node code ="translator" var="language#$contrycode/characters/bagpipe.xml"/>
-    <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
-
-    <url_node code ="gender.icon" var="akn_img_class#class_vanguard.png"/>
-    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
-    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="gender.female.icon" var="akn_img#stiker/gender/female.png"/>
+    <url_node code ="gender.male.icon" var="akn_img#stiker/gender/male.png"/>
     
+    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img_class#class_vanguard.png"/>
+
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+
     <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
     <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
 
@@ -53,161 +34,5 @@
     <url_node code ="potential#3.icon" var="akn_img#potential/potential_2.png"/>
     <url_node code ="potential#4.icon" var="akn_img#potential/potential_3.png"/>
     <url_node code ="potential#5.icon" var="akn_img#potential/potential_4.png"/>
-
-    <url_node code="infra_dorm_ao3" var="img#icon/infraskill/infra_dorm_ao3.png"/>
-    <url_node code="infra_ws_asc2" var="img#icon/infraskill/infra_ws_asc2.png"/>
-
-    <url_node code="skill#1.icon" var="akn_img#skill/raw/skill_icon_p_atkup_3.png"/>
-    <url_node code="skill#2.icon" var="akn_img#skill/raw/skill_icon_bagpipe_2.png"/>
-    <url_node code="skill#3.icon" var="akn_img#skill/raw/skill_icon_bagpipe_3.png"/>
-
-    <url_node code="illust.elite#0.illust" var="akn_img#character/illust/bagpipe.png"/>
-    <url_node code="illust.elite#2.illust" var="akn_img#character/illust/bagpipe_e2.png"/>
-    <url_node code="illust.race#1.illust" var="akn_img#character/illust/bagpipe_race1.png"/>
   </urls>
-  
-  <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value"
-          ui="gender.icon=gender.icon,group.icon=group.icon,class.icon=class.icon"
-          text="gender=gender.info,group=group.info=class=class.info">
-    <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
-  </header>
-
-  <illust>
-    <illust_info code="illust.elite#0" ui="icon=illust.elite#0.icon,illust=illust.elite#0.illust" name="illust.elite#0.name" />
-    <illust_info code="illust.elite#2" ui="icon=illust.elite#2.icon,illust=illust.elite#2.illust" name="illust.elite#2.name" />
-    <illust_info code="illust.race#1" ui="icon=illust.elite#2.icon,illust=illust.race#1.illust" name="illust.race#1.name" />
-  </illust>
-  
-  <specificity title="specificity.title" info="specificity.info" />
-  <potential title="potential.title" >
-    <potential_info ui="icon=potential#1.icon" info="potential#1.info" />
-    <potential_info ui="icon=potential#2.icon" info="potential#2.info" />
-    <potential_info ui="icon=potential#3.icon" info="potential#3.info" />
-    <potential_info ui="icon=potential#4.icon" info="potential#4.info" />
-    <potential_info ui="icon=potential#5.icon" info="potential#5.info" />
-  </potential>
-  
-  <ability title="ability.title" 
-           menu="ability.menu#0,ability.menu#1,ability.menu#2" 
-           menuItem="ability.menu#0=ability#1.elite#1\ability#1.elite#2\ability#2.elite#2,ability.menu#1=ability#1.elite#1,ability.menu#2=ability#1.elite#2\ability#2.elite#2" >
-    <ability_info code="ability#1.elite#1" ui="unlock=elite_1" unlock="elite_1" name="ability#1.elite#1.name" info="ability#1.elite#1.info" />
-    <ability_info code="ability#1.elite#2" ui="unlock=elite_2" unlock="elite_2" name="ability#1.elite#2.name" info="ability#1.elite#2.info" />
-    <ability_info code="ability#2.elite#2" ui="unlock=elite_2" unlock="elite_2" name="ability#2.elite#2.name" info="ability#2.elite#2.info" />
-    <ability_info ui="unlock=elite_2" code="1_1+pt" unlock="elite_2" name="aa" info="ddd" />
-    <ability_info ui="unlock=elite_2" code="1_2+pt" unlock="elite_2" name="aaa" info="wcwdw" />
-    <ability_info ui="unlock=elite_2" code="2_1+pt" unlock="elite_2" name="2ed" info="cq3rfqrf" />
-  </ability>
-  
-  <elite ui="elite=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2">
-    <upgrade_info code="elite_1" material="lmd/vg_3/poly_2/ketn_2" count="30000/5/10/3" />
-    <upgrade_info code="elite_2" material="lmd/vg_3/poly_5/rock_4" count="180000/4/4/9"/>
-  </elite>
-  
-  <status  menu="elite#0,elite#1,elite#2" >
-    <status_info code="elite#0" rang="rang_icon_1" level="1,50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" var="redeploy=70,cost=11,block=1,attackSpeed=1.0" stat="hp=975-1355,atk=250-369," />
-    <status_info code="elite#1" rang="rang_icon_1" level="1,80" hp="1355/1738" atk="369/492" def="241/313" mdef="0/0" var="redeploy=70,cost=13,block=1,attackSpeed=1.0"/>
-    <status_info code="elite#2" rang="rang_icon_1" level="1,90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" var="redeploy=70,cost=13,block=1,attackSpeed=1.0"/>
-  </status>
-  
-  <infra title="infra.title" ui="button=elite_0/elite_1/elite_2"
-         menu="infra.menu#0,infra.menu#1,infra.menu#2,infra.menu#3" 
-         menuItem="infra.menu#0=infra#1.elite#0\infra#1.elite#1\infra#1.elite#2\infra#2.elite#2,infra.menu#1=infra#1.elite#0,infra.menu#2=infra#1.elite#1,infra.menu#3=infra#1.elite#2\infra#2.elite#2" >
-    <infra_info code="infra#1.elite#0" ui="icon=infra_dorm_ao3" unlock="elite_0" target="기숙사" name="infra#1.elite#0.name" info="infra#1.elite#0.info"/>
-    <infra_info code="infra#1.elite#1" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#1.name" info="infra#1.elite#1.info"/>
-    <infra_info code="infra#1.elite#2" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#2.name" info="infra#1.elite#2.info"/>
-    <infra_info code="infra#2.elite#2" ui="icon=infra_ws_asc2" unlock="elite_2" target="가공소" name="infra#2.elite#2.name" info="infra#2.elite#2.info"/>
-  </infra>
-  
-  <skill_header>
-    <s_lv code="sklv1" material="2.SKILL=5" count="5" />
-    <s_lv code="sklv2" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
-    <s_lv code="sklv3" material="3.SKILL=8/2.ORI=4" count="8/4" />
-    <s_lv code="sklv4" material="3.SKILL=8/3.KTN=4/2.RCK=5" count="8/4/5" />
-    <s_lv code="sklv5" material="3.SKILL=8/3.ORI=6" count="8/6" />
-    <s_lv code="sklv6" material="4.SKILL=8/3.ALK=5/3.KTN=4" count="8/5/4" />
-  </skill_header>
-
-  <skill id="0" code="skill_icon_p_atkup_3" name="skill#1.name" unlock="elite_0" type="sp_auto/tr_manu"
-         tags="skill#1.tags"
-         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" 
-         ui="icon=skill#1.icon" >
-    <s_lv code="sklv0" info="skill#1.lv#0.info" rang="1" unlock="elite_0" sp="45/0" eft="35" />
-    <s_lv code="sklv1" info="skill#1.lv#1.info" rang="1" unlock="elite_0" sp="44/0" eft="35" material="2.SKILL=5" count="5" />
-    <s_lv code="sklv2" info="skill#1.lv#2.info" rang="1" unlock="elite_0" sp="43/0" eft="35" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4"  />
-    <s_lv code="sklv3" info="skill#1.lv#3.info" rang="1" unlock="elite_0" sp="42/5" eft="35" />
-    <s_lv code="sklv4" info="skill#1.lv#4.info" rang="1" unlock="elite_1" sp="41/5" eft="35" />
-    <s_lv code="sklv5" info="skill#1.lv#5.info" rang="1" unlock="elite_1" sp="40/5" eft="35" />
-    <s_lv code="sklv6" info="skill#1.lv#6.info" rang="1" unlock="elite_1" sp="39/10" eft="35" />
-    <s_lv code="sklv7" info="skill#1.lv#7.info" rang="1" unlock="elite_2" sp="38/10" eft="35" material="4.SKILL=8/4.ALK=4/3.KTN=8" count="8/4/8" />
-    <s_lv code="sklv8" info="skill#1.lv#8.info" rang="1" unlock="elite_2" sp="37/10" eft="35" material="4.SKILL=12/4.RMA=4/4.MNG=7" count="12/4/7" />
-    <s_lv code="sklv9" info="skill#1.lv#9.info" rang="1" unlock="elite_2" sp="35/15" eft="35" material="4.SKILL=15/5.BIP=6/4.KTN=5" count="15/6/5" />
-  </skill>
-  <skill id="1" code="skill_icon_bagpipe_2" name="skill#2.name" unlock="elite_1"  type="sp_auto/tr_auto" 
-         tags="skill#2.tags"
-         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
-         ui="icon=skill#2.icon" >
-    <s_lv code="sklv0" info="skill#2.lv#0.info" rang="" unlock="elite_1" sp="7/0" />
-    <s_lv code="sklv1" info="skill#2.lv#1.info" rang="" unlock="elite_1" sp="7/0" material="2.SKILL=5" count="5"/>
-    <s_lv code="sklv2" info="skill#2.lv#2.info" rang="" unlock="elite_1" sp="7/0" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
-    <s_lv code="sklv3" info="skill#2.lv#3.info" rang="" unlock="elite_1" sp="6/0" />
-    <s_lv code="sklv4" info="skill#2.lv#4.info" rang="" unlock="elite_1" sp="6/0" />
-    <s_lv code="sklv5" info="skill#2.lv#5.info" rang="" unlock="elite_1" sp="6/0" />
-    <s_lv code="sklv6" info="skill#2.lv#6.info" rang="" unlock="elite_1" sp="5/0" />
-    <s_lv code="sklv7" info="skill#2.lv#7.info" rang="" unlock="elite_2" sp="5/0" material="4.SKILL=8/4.MNG=4/3.DIV=4" count="8/4/4" />
-    <s_lv code="sklv8" info="skill#2.lv#8.info" rang="" unlock="elite_2" sp="5/0" material="4.SKILL=12/4.ALY=4/4.RMA=8" count="12/4/8" />
-    <s_lv code="sklv9" info="skill#2.lv#9.info" rang="" unlock="elite_2" sp="4/0" material="4.SKILL=15/5.D32=6/4.ALK=7" count="15/6/7" />
-  </skill>
-  <skill id="2" code="skill_icon_bagpipe_3" name="skill#3.name" unlock="elite_2" type="sp_auto/tr_manu"
-         tags="skill#3.tags"
-         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
-         ui="icon=skill#3.icon" >
-    <s_lv code="sklv0" info="skill#3.lv#0.info" rang="" lv_n="elite_2" sp="40/9" />
-    <s_lv code="sklv1" info="skill#3.lv#1.info" rang="" lv_n="elite_2" sp="40/10" material="2.SKILL=5" count="5"/>
-    <s_lv code="sklv2" info="skill#3.lv#2.info" rang="" lv_n="elite_2" sp="40/11" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
-    <s_lv code="sklv3" info="skill#3.lv#3.info" rang="" lv_n="elite_2" sp="40/12" />
-    <s_lv code="sklv4" info="skill#3.lv#4.info" rang="" lv_n="elite_2" sp="40/13" />
-    <s_lv code="sklv5" info="skill#3.lv#5.info" rang="" lv_n="elite_2" sp="40/14" />
-    <s_lv code="sklv6" info="skill#3.lv#6.info" rang="" lv_n="elite_2" sp="40/15" />
-    <s_lv code="sklv7" info="skill#3.lv#7.info" rang="" lv_n="elite_2" sp="40/18" material="4.SKILL=8/4.GST=4/3.ALK=7" count="8/4/7" />
-    <s_lv code="sklv8" info="skill#3.lv#8.info" rang="" lv_n="elite_2" sp="40/21" material="4.SKILL=12/4.GEL=4/4.RCK=10" count="12/4/10" />
-    <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" /> 
-  </skill>
-
-  <audio ui="play=play,pause=pause" >
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="assistant" name="어시스턴트 임명" script="비서? 아~ 사람 옆에 계속 서 있는 그거? 군대에 있을 때 본 적 있나. 머이? 서류 작업도 해야 한다고? 전황 파악도? 공지도? 어, 엄청 귀찮잖아~!" />
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_1" name="대화 1" script="첸은 계속 찌푸린 얼굴이지 않나? 학교에서도 그래서 엄청 미움 받았었지. 그래도 끝에 가선 다~들 다시 보게 됐사! 뭐, 상처를 치료해 주거나 요리를 해주거나 같이 싸우거나 하느라, 나도 힘들었지만......" />
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_2" name="대화 2" script="기계 조작이라면 나한테 맡겨! 콤바인에 트랙터에 경운기까지 몽땅 조작할 수 있으니까! 어? 휴대 단말기에 스크린이랑 무선 장치...? 아니, 작은 기계는 좀…… 으아?! 살짝 만지기만 했는데 왜서 연기가?!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="대화 3" script="어제 제대로 밥 안 먹었나? 일하느라 바쁘다고 말이야! 일을 변명 삼지 마니! 몸이 망가지면 아무것도 못 해. 먹고 싶은 게 있으믄 머이든지 말해 봐. 맹글어 올게! 앗, 손이 마이 가는 건 안돼. 그런 건 나한테 무리란 말이야." />
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="정예화 후 대사 1" script="이 로도스 아일랜드의 함선 말이야, 정말…… 빅토리아의 군함보다 훨~씬 좋지 않나! 햇빛, 보리밭, 가축들...... 박사, 우리도 뭔가 키우자야! 감자 같은 거 괜찮지 않나? 감자 심는 거라면 한가닥 하거든!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="정예화 후 대사 2" script="박사는 어데까지를 '고향'이라 불러야 한다고 생각하나? 트럭 차고에서 가장 멀리 떨어져 있는 집? 대지와 하늘이 만나는 곳? 아니면 지도에 여러 색으로 그어진 선? 이렇게 전투에 몰두하고 있다 보면, 가끔 고향이 어떤 풍경이었는지 생각 안 나게 되거든."/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="신뢰도 상승 후 대사 1" script="저 리드라는 아이, 나 분명 만났던 적이 있사. 그런데 지금 쟈 분위기, 뭐인가 쓸쓸해서 다가가기 힘들다고 할까... 정말 내가 봤던 그 무서운 사람이 맞나? 이상하지 않나? 좋아, 본인에게 물어보... 응? 쟈랑 이야기하는 건 금지라고? 에엣, 왜서?!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="신뢰도 상승 후 대사 2" script="군사 학교로 진학했던 건 엄마가 항상 ''와이번 여자는 계속 강해져야 한다''고 해서야... 그 말에 대한 오기 같은 거랄까나? 지금 생각해 보면 엄마같이 강해질 필요는 없었는데. 봐봐야, 난 따지고 보면 귀여운 편이잖아. 안 그렇나?"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="신뢰도 상승 후 대사 3" script="군대에 있었을 때, 유령 같은 수수께끼의 부대한테 호되게 고생한 적이 있사. 빅토리아의 뒤에서 온갖 포학하고 무도한 짓을 해대고, 목격자도 대부분 행방불명이 되어 버렸었지. 난 쟈들의 정체를 파헤쳐야 한다고 생각하거든. 이거이 내가 사방팔방 뛰어다니는 진짜 이유야. 아, 박사는 신경 쓰지 마라. 박사는 자기 천직이 있지 않나?"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_3" name="방치" script="아! 땡땡이치나! 응응, 좋지~ 낮잠. 그래도 건초더미 위에서 자는 게 가장 기분 좋지. 흐아암~ 생각했더니 졸립다... 나도 좀 자도 되나?"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="획득 시 대화" script="안녕! 그쪽이 박사? 용문의 첸 총경한테 여서 조력자를 찾을 수 있을 거라 들었사! 우선은 사인? 어디 보자, 백.. 파.. 이.. 프.. 좋아! 어? '오퍼레이터 계약'? '전일 체재'? 뭐야 이거!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 기록 학습 대사" script="오오~! 로도스 아일랜드의 전투 방식, 꽤 그럴싸하지 않나~!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="1차 정예화 대사" script="승진? 음...... 기쁘다고도 싫다고도 못 하겠다. 군인에게 책임이라는 건 더 많은 전투, 더 나아가서 더 많은 과오를 의미하는 거지 않나."/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="2차 정예화 대화" script="나한테 로도스 아일랜드 가입은 이득이었사. 광석병도 감염자도 처음엔 무서웠지만, 도망쳐봤자 아무것도 해결할 수 없지 않나. 안 그러나? 나도 내가 해야 할 일을 분명히 알았사. 박사 덕분이다야."/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="팀 배치 대사" script="차렷!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="팀장 임명" script="내가 이끄는 이상, 즉각 작전을 집행하겠다!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 출발" script="명령에 따라, 출격!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 개시" script="전원, 산개!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="오퍼레이터 터치 1" script="지시를."/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="오퍼레이터 터치 2" script="대기 중."/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="배치 1" script="가라!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="배치 2" script="빅토리아의 백파이프, 캐슬브레이커와 함께, 참전한다!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 중 1" script="“사고를 명석하게 하는 것은 전술!”"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 중 2" script="“의지를 견고하게 하는 것은 규율!”"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 중 3" script="“사악함을 괴멸시킬 수 있는 것은 용맹!”"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 중 4" script="“생명을 구제할 수 있는 것은 자애!”"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 성공 - 4성" script="학교에서도 군대에서도… 더 어려운 사태는 많이 봐왔어."/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 성공 - 3성" script="후우...... 이번에도 이 제복에 부끄럽지 않은 전투를 할 수 있었네!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 성공 - 3성 미만" script="적을 놓쳤다! 각자, 추격 시에는 충분히 주의하도록!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="작전 실패" script="먼저 도망가! 빨리!"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="시설에 배치" script="온실은 어디나?"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="터치" script="오오?"/>
-    <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="onboard" name="신뢰도 터치" script="피크닉 가고 싶지 않나? 둘이서 가자!"/>
-    <info ui="" file="audio=audio#bagpipe/null.mp3" code="onboard" name="아크나이츠"  script="아크나이츠" />
-    <info ui="" file="" code="onboard" name="인사" script="박사, 밭일하러 가자!"/>
-  </audio>
 </root>

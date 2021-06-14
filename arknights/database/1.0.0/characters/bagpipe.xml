@@ -1,6 +1,6 @@
 <root>
   <import>
-    <import_ndoe path="language#kr/fixed/character.xml"/>
+    <import_ndoe path="akn_database#$version/import/character_header.xml"/>
   </import>
     
   <style>
@@ -21,6 +21,7 @@
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
     <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/" />
     <node code="akn_img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset/image/" />
   </url_hub>
   <file_hub>
@@ -35,6 +36,7 @@
     <node code="ui" url="files/arknights/asset.ui/" />
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
     <node code="language" url="files/arknights/language/" />
+    <node code="akn_database" url="files/arknights/database/" />
   </file_hub>
 
   <urls>
@@ -67,7 +69,7 @@
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value"
-          ui="gender.icon=gender.icon,group.icon=group.icon,class.icon=class.icon"
+          ui="gender.icon=gender.female.icon,group.icon=group.icon,class.icon=class.icon"
           text="gender=gender.info,group=group.info=class=class.info">
     <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
   </header>
