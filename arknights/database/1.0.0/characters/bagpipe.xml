@@ -10,29 +10,22 @@
   </style>
   
   <url_hub>
-    <node code="akn_img_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <node code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <node code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
-    <node code="rang" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.rang/" />
     <node code="akn_img_group" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/group/" />
     <node code="akn_img_class" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon/class/" />
     <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
-    <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
     <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
     <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/" />
     <node code="akn_img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset/image/" />
   </url_hub>
   <file_hub>
-    <node code="akn_img_charicon" url="files/arknights/asset.image/icon.charactor/" />
     <node code="akn_img" url="files/arknights/asset/image/" />
 
-    <node code="icon_c" url="files/arknights/asset.ui/icon.costume/" />
-    <node code="rang" url="files/arknights/asset.image/icon.rang/" />
     <node code="akn_img_class" url="files/arknights/asset.image/icon/class/" />
     <node code="akn_img_group" url="files/arknights/asset.image/icon/group/" />
     <node code="img" url="files/arknights/asset.image/" />
-    <node code="ui" url="files/arknights/asset.ui/" />
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
     <node code="language" url="files/arknights/language/" />
     <node code="akn_database" url="files/arknights/database/" />
