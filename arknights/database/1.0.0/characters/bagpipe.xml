@@ -42,7 +42,7 @@
   </urls>
   
   <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value"
-          ui="gender.icon=gender.female.icon,group.icon=group.icon,class.icon=class.icon"
+          ui="gender.icon=gender.female.icon,group.icon=group.icon,class.icon=class.vanguard.icon"
           text="gender=gender.info,group=group.info=class=class.info">
     <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
   </header>
