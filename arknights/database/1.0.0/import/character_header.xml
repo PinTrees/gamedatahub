@@ -7,7 +7,7 @@
     <node code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
     <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.resorce/audio/character/" />
     <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
-    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/$version/" />
   </url_hub>
   <file_hub>
     <node code="akn_img" url="files/arknights/asset/image/" />
@@ -15,7 +15,7 @@
     <node code="img" url="files/arknights/asset.image/" />
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
     <node code="language" url="files/arknights/language/" />
-    <node code="akn_database" url="files/arknights/database/" />
+    <node code="akn_database" url="files/arknights/database/$version/" />
   </file_hub>
 
   <urls>
