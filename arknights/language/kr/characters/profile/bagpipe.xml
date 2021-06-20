@@ -3,27 +3,15 @@
     <title>htmltabg_2</title>
   </head>
   <style>
-    div.wrap. {
-    overflow-wrap: break-word;
-    }
-    div.textwarp {
-    word-break: break-all;
-    }
   </style>
   <body bgcolor="#e1eff2">
     <div style = "padding: 18px 8px 18px 8px;">
-      <p>
-        They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)
-      </p>
-      <p class="normal">
-        They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)
-      </p>
-      <p class="wrap">
-        Theyasaysthe fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)
-      </p>
-      <p style="color:#ffffff" class="textwarp">
-        They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)They say the fishing is excellent at Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)though I've never been there myself. (normal)
-      </p>
+      <div style="word-wrap: break-word;">
+        프로필
+      </div>
+      <div style="word-wrap: break-word;">
+        빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.
+      </div>
     </div>
   </body>
 </html>
