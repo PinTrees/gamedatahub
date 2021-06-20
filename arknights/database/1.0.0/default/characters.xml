@@ -6,7 +6,7 @@
   <url_hub>
     <node code="akn_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <node code="akn_database_charinfo" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/characters/" />
-    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/" />
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
   </url_hub>
   <file_hub>
