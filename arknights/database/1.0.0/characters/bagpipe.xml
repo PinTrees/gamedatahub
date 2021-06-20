@@ -1,6 +1,6 @@
 <root>
   <import>
-    <import_ndoe path="akn_database#$version/import/character_header.xml"/>
+    <import_ndoe path="akn_database#import/character_header.xml"/>
   </import>
     
   <style>
