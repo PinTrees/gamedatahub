@@ -1,12 +1,9 @@
 <html>
-  <head>
-    <title>htmltabg_2</title>
-  </head>
   <style>
     
   </style>
   <body bgcolor="#e1eff2">
-    <div style = "padding: 8px 20px 8px 20px;">
+    <div style = "padding: 8px 40px 20px 20px;">
       <div style="word-wrap: break-word; color: #ffffff">
         프로필
       </div>
