@@ -10,10 +10,10 @@
   </style>
   
   <url_hub>
-    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/$version/" />
   </url_hub>
   <file_hub>
-    <node code="akn_database" url="files/arknights/database/" />
+    <node code="akn_database" url="files/arknights/database/$version/" />
   </file_hub>
 
   <urls>
