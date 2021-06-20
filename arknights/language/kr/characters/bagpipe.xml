@@ -7,7 +7,7 @@
     <ts_node root="" code="profile#1.info" ts="빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다."/>
 
     <ts_node code="profile.default.title" ts="기본정보"/>
-    <ts_node code="profile.default.codename.title" ts="백파이프"/>
+    <ts_node code="profile.default.codename.title" ts="코드네임"/>
     <ts_node code="profile.default.codename" ts="백파이프"/>
     <ts_node code="profile.default.gender.title" ts="성별"/>
     <ts_node code="profile.default.gender" ts="여성"/>
