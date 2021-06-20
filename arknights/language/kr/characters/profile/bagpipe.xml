@@ -1,1 +1,13 @@
-<a href="https://www.itopening.com" target="_">IT Opening 사이트로 이동</a>
+<html>
+  <head>
+    <title>htmltabg_2</title>
+  </head>
+  <body bgcolor="#e1eff2">
+    <center>
+      비티샘의 <font size="7" color="#d92931">홈페이지</font>입니다.
+    </center>
+    <a href="https://blog.naver.com/kji9653" target="_"> ICT블로그</a>
+  </body>
+</html>
+
+​
