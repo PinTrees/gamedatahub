@@ -17,7 +17,6 @@
     <ts_node code="profile.default.from" ts="빅토리아"/>
     <ts_node code="profile.default.birth.title" ts="생일"/>
     <ts_node code="profile.default.birth" ts="7월 17일"/>
-    <ts_node code="profile.default.birth" ts="7월 17일"/>
     <ts_node code="profile.default.combat.title" ts="전투 경험"/>
     <ts_node code="profile.default.combat.info" ts="없음"/>
     <ts_node code="profile.default.height.title" ts="신장"/>
