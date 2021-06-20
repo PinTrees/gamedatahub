@@ -24,7 +24,7 @@
     <ts_node code="profile.default.height.info" ts="162cm"/>
     <ts_node code="profile.default.infection.title" ts="광석병 감염 상황"/>
     <ts_node code="profile.default.infection.info" ts="의학적 검사 보고서를 참고, 비감염자로 확인됨."/>
-
+    
     <ts_node code="profile.physical.title" ts="종합검진"/>
     <ts_node code="profile.physical#0.info" ts="종합검진"/>
     <ts_node code="profile.physical#0.info" ts="종합검진"/>
