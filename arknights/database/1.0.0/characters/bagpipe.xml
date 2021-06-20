@@ -19,7 +19,7 @@
   <urls>
     <url_node code ="translator" var="language#$contrycode/characters/bagpipe.xml"/>
     <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
-    <url_node code ="profile" var="language#$contrycode/characters/profile/bagpipe.txt"/>
+    <url_node code ="profile" var="language#$contrycode/characters/profile/bagpipe.xml"/>
 
     <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
     <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
