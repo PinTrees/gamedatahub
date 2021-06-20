@@ -1,12 +1,12 @@
 <chractors>
   <import>
-    <import_ndoe path="akn_database#$version/import/character_header.xml"/>
+    <import_ndoe path="akn_database#import/character_header.xml"/>
   </import>
   
   <url_hub>
     <node code="akn_charicon" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/icon.charactor/" />
     <node code="akn_database_charinfo" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/1.0.0/characters/" />
-    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/$version/" />
     <node code="ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.ui/" />
   </url_hub>
   <file_hub>
