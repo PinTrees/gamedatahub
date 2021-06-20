@@ -11,7 +11,8 @@
     <ts_node code="profile.default.codename" ts="백파이프"/>
     <ts_node code="profile.default.gender.title" ts="성별"/>
     <ts_node code="profile.default.gender" ts="여성"/>
-    <ts_node code="profile.default.bt" ts="백파이프"/>
+    <ts_node code="profile.default.tribe.title" ts="종족"/>
+    <ts_node code="profile.default.tribe.info" ts="와이번"/>
     <ts_node code="profile.default.from.title" ts="출신지"/>
     <ts_node code="profile.default.from" ts="빅토리아"/>
     <ts_node code="profile.default.birth.title" ts="생일"/>
