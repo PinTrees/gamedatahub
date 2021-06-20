@@ -3,8 +3,8 @@
     <title>htmltabg_2</title>
   </head>
   <style>
-    div.wrap {
-      word-wrap: break-word;
+    div.wrap. {
+    overflow-wrap: break-word;
     }
   </style>
   <body bgcolor="#e1eff2">
