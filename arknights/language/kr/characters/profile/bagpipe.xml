@@ -1,36 +1,22 @@
 <html>
   <head>
-    <style type="text/css">
-      .my-box { border:1px solid; padding:10px; }
-      .vcontainer {
-      padding: 0;
-      margin: 0;
-      }
-    </style>
   </head>
   <body>
-    <container height='100' width='300'>
-      <row>
-        <container height='100' width='100' color='#ffffffff'></container>
-        <expandeds>
-          <container height='50' width='50' color='#ff565168'></container>
-        </expandeds>
-        <container height='100' width='100' color='#ffffffff'></container>
-      </row>
-    </container>
-    <container padding="14,0,14,0">
-      <column>
-        <div>
-          <text>프로필</text>
-        </div>
-        <sizebox height='8'></sizebox>
-        <div>
-          <text>빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과</text>
-        </div>
-        <div>
-          <text>빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과</text>
-        </div>
-      </column>
-    </container>
+    <column>
+      <container height='100' width='300'>
+        <row>
+          <container height='100' width='100' color='#ffffffff'></container>
+          <container width='100' color='#ff565168'></container>
+          <container height='100' width='100' color='#ffffffff'></container>
+        </row>
+      </container>
+      <container height='100' width='300'>
+        <row>
+          <container height='100' width='100' color='#ffffffff'></container>
+          <container width='100' color='#ff565168'></container>
+          <container height='100' width='100' color='#ffffffff'></container>
+        </row>
+      </container>
+    </column>
   </body>
 </html>
