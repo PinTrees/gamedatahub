@@ -1,16 +1,20 @@
 <html>
-  <style>
-    .box1 {
-    float:left; width:200px; height:100px; background-color:#234234;}
-    .box2 {
-    display:inline-block; width:200px; height:100px; background-color:#666666; margin-left:10px;}
-  </style>
+  <head>
+    <style type="text/css">
+      .my-box { border:1px solid; padding:10px; }
+    </style>
+  </head>
   <body>
-    <div class="box1">
+    <div class="my-box">
+      저 버스 표지판에 적힌 지명들은 이 세상에 존재하지 않는 곳이거나 누구도 갈 수 없는 곳인 양 여겨지고 있다. 저 약재상과 이불 가게의 진열창을 침수시킨 어둠은 내가 항시 보던 어둠과 전혀 달라 어떤 탐미적 이질감마저 느껴지고 있다.
+
+      상점 안에 보이는 저 상인들조차도 단순히 뭔가를 팔고 있는 것이 아니라, 인생이라는 우울한 사건을 꾸미러 온 정체 불명의 존재들처럼 여겨지고 있다.
+    </div>
+    <container padding="14,0,14,0">
       <div>프로필</div>
       <div>
-        빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다."/>
+        빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.
       </div>
-    </div>
+    </container>
   </body>
 </html>
