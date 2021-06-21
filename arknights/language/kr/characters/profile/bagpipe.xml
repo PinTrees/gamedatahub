@@ -8,6 +8,15 @@
   </style>
   <body bgcolor="#e1eff2">
     <div>
+      <column>
+        <container padding='14,0,14,0'>
+          <text font-size='16' color='#ffffffff'>프로필</text>
+        </container>
+        <text font-size='16' color='#ffffffff'>프로필</text>
+        <text font-size='16' color='#ffffffff'>프로필</text>
+        <text font-size='16' color='#ffffffff'>프로필</text>
+        <text font-size='16' color='#ffffffff'>프로필</text>
+      </column>
       <column-text>
         <div style='color:#ffffff; font-size: 16px;'>프로필</div>
         <div style='color:#ffffff; font-size: 14px;'>
