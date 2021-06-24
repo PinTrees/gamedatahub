@@ -1,12 +1,11 @@
 <html>
   <head>
-    <title>제목</title>
     <style>
       #sssss {
       padding: 50px 50px 50px 50px;
       }
     </style>
-    <meta charset="utf-8" />
+    <meta charset='utf-8' />
   </head>
 
   <body>
