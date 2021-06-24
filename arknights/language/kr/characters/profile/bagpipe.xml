@@ -1,22 +1,16 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <column>
-      <container height='100' width='300'>
-        <row>
-          <container height='100' width='100' color='#ffffffff'></container>
-          <container width='100' color='#ff565168'></container>
-          <container height='100' width='100' color='#ffffffff'></container>
-        </row>
-      </container>
-      <container height='100' width='300'>
-        <row>
-          <container height='100' width='100' color='#ffffffff'></container>
-          <container width='100' color='#ff565168'></container>
-          <container height='100' width='100' color='#ffffffff'></container>
-        </row>
-      </container>
-    </column>
-  </body>
-</html>
+<column>
+  <container height='100' width='300'>
+    <row>
+      <container height='100' width='100' color='#ffffffff'></container>
+      <container width='100' color='#ff565168'></container>
+      <container height='100' width='100' color='#ffffffff'></container>
+    </row>
+  </container>
+  <container height='100' width='300'>
+    <row>
+      <container height='100' width='100' color='#ffffffff'></container>
+      <container width='100' color='#ff565168'></container>
+      <container height='100' width='100' color='#ffffffff'></container>
+    </row>
+  </container>
+</column>
