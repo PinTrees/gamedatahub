@@ -1,15 +1,10 @@
 <html>
   <head>
     <style type='text/css'>
-      #sssss {
-      padding: 50px 50px 50px 50px;
-      }
     </style>
-    <meta charset='utf-8' />
   </head>
-
   <body>
-    <div id='sssss'>
+    <div id='div-text'>
       <div style='border: 1px solid #48BAE4; height: 70px; width: 50px;'></div>
     </div>
   </body>
