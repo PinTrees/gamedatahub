@@ -25,12 +25,12 @@
         </pre>
       </div>
     </div>
-    <table style='border: 1px solid black; border-collapse: collapse;'>
-      <th>테이블</th>
-      <th>만들기</th>
+    <table>
+      <th colspan='2' >기본정보</th>
       <tr>
         <!-- 첫번째 줄 시작 -->
-        <th colspan="2">개보조</th>
+        <td>코드네임</td>
+        <td>백파이프</td>
       </tr>
       <tr>
         <td>첫번째 칸</td>
