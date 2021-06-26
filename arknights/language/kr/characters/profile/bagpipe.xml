@@ -24,7 +24,7 @@
 
         <container>
           <row>
-            <container width='160'>
+            <container width='165'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
                 <sizebox height='8' width='100'></sizebox>
@@ -87,7 +87,7 @@
               </column>
             </container>
             <sizebox width='24' ></sizebox>
-            <container width='160'>
+            <container width='165'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
                 <sizebox height='8' width='100'></sizebox>
@@ -132,10 +132,10 @@
                   </container>
                 </row>
                 <row>
-                  <container width='100' align='center-left'>
+                  <container width='120' align='center-left'>
                     <text color='title' font-size='12'>오리지늄 아츠 적응성</text>
                   </container>
-                  <container width='58' align='center-right'>
+                  <container width='45' align='center-right'>
                     <text color='normal'>표준</text>
                   </container>
                 </row>
