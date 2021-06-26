@@ -24,10 +24,9 @@
  ——와파린
         </pre>
 
+        <div class='text-title'>기본 정보</div>
         <table style='background-color:#ffffff; width:66%; border:2px solid #505050;' >
-          <th colspan='2' >기본정보</th>
-          <tr height='100'>
-            <!-- 첫번째 줄 시작 -->
+          <tr>
             <td class='class' style='width:33%;' >코드네임</td>
             <td style='width:66%;'>백파이프</td>
           </tr>
