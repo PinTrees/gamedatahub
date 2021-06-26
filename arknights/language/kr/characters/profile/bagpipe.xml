@@ -24,7 +24,7 @@
 
         <sizebox height='36'></sizebox>
         <container>
-          <row>
+          <row cross-axis='start'>
             <container width='165'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
