@@ -78,14 +78,10 @@
             </tr>
             <tr>
               <td style="background-color:#808080; width:20%; text-align:center;" data-dark-style="background-color:#010101;" class="wiki-dynamic-251a761b5f2f0b93bb1b535a64ccf340">
-                <div class="wiki-paragraph">
-                  <strong>
-                    <span class="wiki-color wiki-dynamic-9e08ff9108da3958596878f87595b478" style="color:#ffffff" data-dark-style="color:#dddddd;">특기</span>
-                  </strong>
-                </div>
+                <div class='text-info'>특기</div>
               </td>
               <td style="width:30%; text-align:center;">
-                <div class="wiki-paragraph">운전(트랙터), 농업 생산, 무기 기술(군사)</div>
+                <div class='text-info'>운전(트랙터), 농업 생산, 무기 기술(군사)</div>
               </td>
             </tr>
             <tr>
