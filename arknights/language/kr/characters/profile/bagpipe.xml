@@ -25,9 +25,9 @@
         </pre>
 
         <div class='text-title'>기본 정보</div>
-        <table style='width:66%; border:1px solid #505050;' >
+        <table style='width:66%; border:1px solid #505050; text-align:right;' >
           <tr>
-            <td class='class' style='width:33%; text-align:right;' >코드네임</td>
+            <td class='class' >코드네임</td>
             <td style='width:66%;'>백파이프</td>
           </tr>
           <tr>
