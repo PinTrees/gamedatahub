@@ -8,7 +8,7 @@
       <column>
         <row>
           <text class='class' >코드네임</text>
-          <container class='withd-small'>
+          <container width='500' height='50' class='withd-small'>
             <text class='align-right'>백파이프</text>
           </container>
         </row>
