@@ -24,7 +24,7 @@
 
         <container>
           <row>
-            <container width='150'>
+            <container width='160'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
                 <sizebox height='36'></sizebox>
@@ -55,7 +55,7 @@
               </column>
             </container>
             <sizebox width='24' ></sizebox>
-            <container width='150'>
+            <container width='160'>
               <column>
                 <text color='title' font-size='16'>종합 검진</text>
                 <sizebox height='36'></sizebox>
