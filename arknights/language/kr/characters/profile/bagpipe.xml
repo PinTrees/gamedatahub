@@ -90,7 +90,7 @@
             <container width='160'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
-                <sizebox height='36' width='100'></sizebox>
+                <sizebox height='8' width='100'></sizebox>
                 <row>
                   <container width='74' align='center-left'>
                     <text color='title'>물리적 강도</text>
@@ -133,7 +133,7 @@
                 </row>
                 <row>
                   <container width='100' align='center-left'>
-                    <text color='title'>오리지늄 아츠 적응성</text>
+                    <text color='title' font-size='12'>오리지늄 아츠 적응성</text>
                   </container>
                   <container width='58' align='center-right'>
                     <text color='normal'>표준</text>
