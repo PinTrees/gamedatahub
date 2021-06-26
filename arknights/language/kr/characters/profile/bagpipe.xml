@@ -32,31 +32,31 @@
           </tr>
           <tr>
             <td>성별</td>
-            <td>여성</td>
+            <td class='text-align-right' >여성</td>
           </tr>
           <tr>
             <td>출신지</td>
-            <td>빅토리아</td>
+            <td class='text-align-right'>빅토리아</td>
           </tr>
           <tr>
             <td>직업</td>
-            <td>-</td>
+            <td class='text-align-right'>-</td>
           </tr>
           <tr>
             <td>생일</td>
-            <td>7월17일</td>
+            <td class='text-align-right'>7월17일</td>
           </tr>
           <tr>
             <td>전투경험</td>
-            <td>없음</td>
+            <td class='text-align-right'>없음</td>
           </tr>
           <tr>
             <td>신장</td>
-            <td>16cm</td>
+            <td class='text-align-right'>16cm</td>
           </tr>
           <tr>
             <td>종족</td>
-            <td>와이번</td>
+            <td class='text-align-right'>와이번</td>
           </tr>
         </table>
         
