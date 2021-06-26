@@ -92,10 +92,9 @@
             <sizebox width='18' ></sizebox>
             <container width='165'>
               <column>
-                <container width='150' align='center-left'>
+                <container width='150' padding='0,0,0,8' align='center-left'>
                   <text color='title' font-size='16'>종합검진</text>
                 </container>
-                <sizebox height='8'></sizebox>
                 <row>
                   <container width='74' align='center-left'>
                     <text color='title'>물리적 강도</text>
