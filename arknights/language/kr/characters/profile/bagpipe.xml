@@ -79,7 +79,7 @@
             <container width='165' height='200' align='top-center'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
-                <container height='4' ></container>
+                <container height='2' ></container>
                 <container>
                   <row>
                     <container width='86' align='center-left'>
