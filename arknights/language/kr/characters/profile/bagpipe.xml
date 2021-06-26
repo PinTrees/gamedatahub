@@ -86,7 +86,7 @@
                 </row>
               </column>
             </container>
-            <sizebox width='24' ></sizebox>
+            <sizebox width='18' ></sizebox>
             <container width='165'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
@@ -135,7 +135,7 @@
                   <container width='120' align='center-left'>
                     <text color='title' font-size='12'>오리지늄 아츠 적응성</text>
                   </container>
-                  <container width='45' align='center-right'>
+                  <container width='40' align='center-right'>
                     <text color='normal'>표준</text>
                   </container>
                 </row>
