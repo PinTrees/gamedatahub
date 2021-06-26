@@ -154,6 +154,18 @@
         <container height='24' ></container>
         <text color='title' font-size='16'>#ts#profile.file#1.title</text>
         <text color='normal'>#ts#profile.file#1.info</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#2.title</text>
+        <text color='normal'>#ts#profile.file#2.info</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#3.title</text>
+        <text color='normal'>#ts#profile.file#3.info</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#4.title</text>
+        <text color='normal'>#ts#profile.file#4.info</text>
       </column>
     </container>
   </body>
