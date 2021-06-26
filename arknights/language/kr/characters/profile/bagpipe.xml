@@ -90,7 +90,7 @@
             <container width='160'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
-                <sizebox height='36'></sizebox>
+                <sizebox height='36' width='100'></sizebox>
                 <row>
                   <container width='74' align='center-left'>
                     <text color='title'>물리적 강도</text>
