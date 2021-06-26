@@ -27,7 +27,7 @@
             <container width='160'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
-                <sizebox height='36'></sizebox>
+                <sizebox height='8' width='100'></sizebox>
                 <row>
                   <container width='74' padding='0,0,0,0' align='center-left'>
                     <text color='title'>코드네임</text>
