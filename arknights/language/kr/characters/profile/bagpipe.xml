@@ -80,54 +80,56 @@
               <column>
                 <text color='title' font-size='16'>종합검진</text>
                 <container height='4' ></container>
-                <row>
-                  <container width='74' align='center-left'>
-                    <text color='title'>물리적 강도</text>
-                  </container>
-                  <container width='74' align='center-right'>
-                    <text color='normal'>우수</text>
-                  </container>
-                </row>
-                <row>
-                  <container width='74' align='center-left'>
-                    <text color='title'>전장 기동력</text>
-                  </container>
-                  <container width='74' align='center-right'>
-                    <text color='normal'>표준</text>
-                  </container>
-                </row>
-                <row>
-                  <container width='74' align='center-left'>
-                    <text color='title'>생체 인내도</text>
-                  </container>
-                  <container width='74' align='center-right'>
-                    <text color='normal'>우수</text>
-                  </container>
-                </row>
-                <row>
-                  <container width='74' align='center-left'>
-                    <text color='title'>전술 계획력</text>
-                  </container>
-                  <container width='74' align='center-right'>
-                    <text color='normal'>표준</text>
-                  </container>
-                </row>
-                <row>
-                  <container width='74' align='center-left'>
-                    <text color='title'>전투 기술력</text>
-                  </container>
-                  <container width='74' align='center-right'>
-                    <text color='normal'>우수</text>
-                  </container>
-                </row>
-                <row>
-                  <container width='120' align='center-left'>
-                    <text color='title' font-size='12'>오리지늄 아츠 적응성</text>
-                  </container>
-                  <container width='40' align='center-right'>
-                    <text color='normal'>표준</text>
-                  </container>
-                </row>
+                <container>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>물리적 강도</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>우수</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>전장 기동력</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>표준</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>생체 인내도</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>우수</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>전술 계획력</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>표준</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>전투 기술력</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>우수</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='120' align='center-left'>
+                      <text color='title' font-size='12'>오리지늄 아츠 적응성</text>
+                    </container>
+                    <container width='40' align='center-right'>
+                      <text color='normal'>표준</text>
+                    </container>
+                  </row>
+                </container>
               </column>
             </container>
           </row>
