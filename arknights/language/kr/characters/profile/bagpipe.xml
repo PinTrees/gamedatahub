@@ -82,7 +82,7 @@
                 <container height='4' ></container>
                 <container>
                   <row>
-                    <container width='74' align='center-left'>
+                    <container width='86' align='center-left'>
                       <text color='title'>물리적 강도</text>
                     </container>
                     <container width='74' align='center-right'>
@@ -90,7 +90,7 @@
                     </container>
                   </row>
                   <row>
-                    <container width='74' align='center-left'>
+                    <container width='86' align='center-left'>
                       <text color='title'>전장 기동력</text>
                     </container>
                     <container width='74' align='center-right'>
@@ -98,7 +98,7 @@
                     </container>
                   </row>
                   <row>
-                    <container width='74' align='center-left'>
+                    <container width='86' align='center-left'>
                       <text color='title'>생체 인내도</text>
                     </container>
                     <container width='74' align='center-right'>
@@ -106,7 +106,7 @@
                     </container>
                   </row>
                   <row>
-                    <container width='74' align='center-left'>
+                    <container width='86' align='center-left'>
                       <text color='title'>전술 계획력</text>
                     </container>
                     <container width='74' align='center-right'>
@@ -114,7 +114,7 @@
                     </container>
                   </row>
                   <row>
-                    <container width='74' align='center-left'>
+                    <container width='86' align='center-left'>
                       <text color='title'>전투 기술력</text>
                     </container>
                     <container width='74' align='center-right'>
