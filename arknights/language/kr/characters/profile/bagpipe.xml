@@ -33,18 +33,18 @@
         </row>
         <container>
           <row>
-            <container width='100' margin='0,0,0,0' align='center-left'>
+            <container width='100' padding='0,0,0,0' align='center-left'>
               <text color='title'>성별</text>
             </container>
-            <container width='100' margin='0,0,0,0' align='center-right'>
+            <container width='100' padding='0,0,0,0' align='center-right'>
               <text color='normal'>여성</text>
             </container>
           </row>
           <row>
-            <container width='100' align='center-left'>
+            <container width='100' padding='0,0,0,0' align='center-left'>
               <text color='title'>출신지</text>
             </container>
-            <container width='100' align='center-right'>
+            <container width='100' padding='0,0,0,0' align='center-right'>
               <text color='normal'>빅토리아</text>
             </container>
           </row>
