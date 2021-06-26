@@ -9,7 +9,7 @@
       <column>
         <text color='title' font-size='16'>프로필</text>
         <text color='normal'>빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.</text>
-        <sizebox height='24'></sizebox>
+        <container height='24' ></container>
 
         <text color='title' font-size='16'>임상 진단 분석</text>
         <text color='normal'>방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
