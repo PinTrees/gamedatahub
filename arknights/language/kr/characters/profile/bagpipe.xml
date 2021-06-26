@@ -10,7 +10,7 @@
         <text color='title' font-size='16'>프로필</text>
         <text color='normal'>빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.</text>
         <text color='title' font-size='16'>임상 진단 분석</text>
-        <sizebox height='8'></sizebox>
+        <sizebox height='36'></sizebox>
         <text color='normal'>방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
 
 [체세포와 오리지늄 융합률] 0%
@@ -24,18 +24,18 @@
 
         <text color='title' font-size='16'>기본정보</text>
         <row>
-          <container width='100' align='center-left'>
+          <container width='100' padding='0,0,0,0' align='center-left'>
             <text color='title'>코드네임</text>
           </container>
-          <container width='100' align='center-right'>
+          <container width='100' padding='0,0,0,0' align='center-right'>
             <text color='normal'>백파이프</text>
           </container>
         </row>
         <row>
-          <container width='100' align='center-left'>
+          <container width='100' margin='0,0,0,0' align='center-left'>
             <text color='title'>성별</text>
           </container>
-          <container width='100' align='center-right'>
+          <container width='100' margin='0,0,0,0' align='center-right'>
             <text color='normal'>여성</text>
           </container>
         </row>
