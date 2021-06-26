@@ -26,7 +26,7 @@
         <sizebox height='24'></sizebox>
         <container>
           <row cross-axis='start'>
-            <container width='165' align='top-center'>
+            <container width='165' height='200' align='top-center'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
                 <container height='4' ></container>
@@ -89,7 +89,7 @@
               </column>
             </container>
             <sizebox width='18' ></sizebox>
-            <container width='165' align='top-center'>
+            <container width='165' height='200' align='top-center'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
                 <container height='4' ></container>
