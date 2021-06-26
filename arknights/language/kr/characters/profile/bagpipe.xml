@@ -132,10 +132,10 @@
                   </container>
                 </row>
                 <row>
-                  <container width='74' align='center-left'>
+                  <container width='100' align='center-left'>
                     <text color='title'>오리지늄 아츠 적응성</text>
                   </container>
-                  <container width='74' align='center-right'>
+                  <container width='58' align='center-right'>
                     <text color='normal'>표준</text>
                   </container>
                 </row>
