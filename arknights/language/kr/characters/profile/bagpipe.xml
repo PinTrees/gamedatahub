@@ -13,7 +13,7 @@
 
         <container>
           <row cross-axis='start'>
-            <container width='165' height='200' align='top-center'>
+            <container width='165' height='150' align='top-center'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
                 <container height='4' ></container>
