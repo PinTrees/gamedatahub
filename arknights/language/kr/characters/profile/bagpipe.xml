@@ -152,8 +152,8 @@
 ——와파린</text>
 
         <container height='24' ></container>
-        <text color='title' font-size='16'>광석병 감염 상황</text>
-        <text color='normal'>의학적 검사 보고서를 참고, 비감염자로 확인됨.</text>
+        <text color='title' font-size='16'>#ts#profile.file#1.title</text>
+        <text color='normal'>#ts#profile.file#1.info</text>
       </column>
     </container>
   </body>
