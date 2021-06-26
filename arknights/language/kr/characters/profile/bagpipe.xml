@@ -1,15 +1,16 @@
+<!-- fultter html -->
 <html>
   <head>
     <style type='text/css'>
     </style>
   </head>
   <body>
-    <container width='500'>
+    <container width='200' padding='14,8,14,8' >
       <column>
         <row>
-          <text class='class' >코드네임</text>
-          <container width='500' height='50' class='withd-small'>
-            <text class='align-right'>백파이프</text>
+          <text color='title'>코드네임</text>
+          <container width='100' align='center-right'>
+            <text color='normal'>백파이프</text>
           </container>
         </row>
       </column>
