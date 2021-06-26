@@ -24,9 +24,40 @@
 
         <container>
           <row>
-            <container width='200'>
+            <container width='150'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
+                <sizebox height='36'></sizebox>
+                <row>
+                  <container width='74' padding='0,0,0,0' align='center-left'>
+                    <text color='title'>성별</text>
+                  </container>
+                  <container width='74' padding='0,0,0,0' align='center-right'>
+                    <text color='normal'>여성</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' padding='0,0,0,0' align='center-left'>
+                    <text color='title'>성별</text>
+                  </container>
+                  <container width='74' padding='0,0,0,0' align='center-right'>
+                    <text color='normal'>여성</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' padding='0,0,0,0' align='center-left'>
+                    <text color='title'>성별</text>
+                  </container>
+                  <container width='74' padding='0,0,0,0' align='center-right'>
+                    <text color='normal'>여성</text>
+                  </container>
+                </row>
+              </column>
+            </container>
+            <sizebox width='24' ></sizebox>
+            <container width='150'>
+              <column>
+                <text color='title' font-size='16'>종합 검진</text>
                 <sizebox height='36'></sizebox>
                 <row>
                   <container width='74' padding='0,0,0,0' align='center-left'>
@@ -59,14 +90,6 @@
 
         <sizebox height='36'></sizebox>
         <column>
-          <row>
-            <container width='150' align='center-left'>
-              <text color='title' font-size='16'>기본정보</text>
-            </container>
-            <container width='150' align='center-left'>
-              <text color='title' font-size='16'>종합 검진</text>
-            </container>
-          </row>
           <sizebox height='36'></sizebox>
 
           <row>
