@@ -65,12 +65,12 @@
           <tbody>
             <tr>
               <td colspan="4" style="background-color:#808080; text-align:center;" >
-                <div class='text-title'>기본정보</div>
+                <div class='text-info'>기본정보</div>
               </td>
             </tr>
             <tr>
               <td rowspan="2" style="background-color:#808080; width:20%; text-align:center;" data-dark-style="background-color:#010101;" class="wiki-dynamic-251a761b5f2f0b93bb1b535a64ccf340">
-                <div class='text-title'>직업</div>
+                <div class='text-info'>직업</div>
               </td>
               <td rowspan="2" style="width:30%; text-align:center;">
                 <div class='text-info'>-</div>
