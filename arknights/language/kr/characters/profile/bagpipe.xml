@@ -61,27 +61,19 @@
           </tr>
         </table>
         
-        <table class="wiki-table wiki-dynamic-c0af6be787ae13fc570bbb300af0f619" style="background-color:#ffffff; width:100%; border:2px solid #505050;" data-dark-style="background-color:#2d2f34; border:2px solid #010101;">
+        <table style='background-color:#ffffff; width:100%; border:2px solid #505050;' >
           <tbody>
             <tr>
-              <td colspan="4" style="background-color:#808080; text-align:center;" data-dark-style="background-color:#010101;" class="wiki-dynamic-251a761b5f2f0b93bb1b535a64ccf340">
-                <div class="wiki-paragraph">
-                  <strong>
-                    <span class="wiki-color wiki-dynamic-9e08ff9108da3958596878f87595b478" style="color:#ffffff" data-dark-style="color:#dddddd;">기본정보</span>
-                  </strong>
-                </div>
+              <td colspan="4" style="background-color:#808080; text-align:center;" >
+                <div class='text-title'>기본정보</div>
               </td>
             </tr>
             <tr>
               <td rowspan="2" style="background-color:#808080; width:20%; text-align:center;" data-dark-style="background-color:#010101;" class="wiki-dynamic-251a761b5f2f0b93bb1b535a64ccf340">
-                <div class="wiki-paragraph">
-                  <strong>
-                    <span class="wiki-color wiki-dynamic-9e08ff9108da3958596878f87595b478" style="color:#ffffff" data-dark-style="color:#dddddd;">직업</span>
-                  </strong>
-                </div>
+                <div class='text-title'>직업</div>
               </td>
               <td rowspan="2" style="width:30%; text-align:center;">
-                <div class="wiki-paragraph">-</div>
+                <div class='text-info'>-</div>
               </td>
             </tr>
             <tr>
