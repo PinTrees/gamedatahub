@@ -13,7 +13,7 @@
 
         <container>
           <row cross-axis='start'>
-            <container width='165' height='200' align='top-center'>
+            <container width='165' height='180' align='top-center'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
                 <container padding='0,4,0,0' >
@@ -77,10 +77,10 @@
               </column>
             </container>
             <sizebox width='18' ></sizebox>
-            <container width='165' height='200' align='top-center'>
+            <container width='165' height='180' align='top-center'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
-                <container padding='0,0,0,0'>
+                <container padding='0,4,0,0'>
                   <row>
                     <container width='86' align='center-left'>
                       <text color='title'>물리적 강도</text>
@@ -134,11 +134,11 @@
             </container>
           </row>
         </container>
-        <text color='title' font-size='16'>광석병 감염 상황</text>
+        <text color='title' font-size='14'>광석병 감염 상황</text>
         <text color='normal'>의학적 검사 보고서를 참고, 비감염자로 확인됨.</text>
 
         <container height='24' ></container>
-        <text color='title' font-size='14'>임상 진단 분석</text>
+        <text color='title' font-size='16'>임상 진단 분석</text>
         <text color='normal'>방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
 
 [체세포와 오리지늄 융합률] 0%
