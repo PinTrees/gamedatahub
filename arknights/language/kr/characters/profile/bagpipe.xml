@@ -25,27 +25,27 @@
         <sizebox height='36'></sizebox>
         <column>
           <row>
-            <container width='200' align='center-left'>
+            <container width='150' align='center-left'>
               <text color='title' font-size='16'>기본정보</text>
             </container>
-            <container width='200' align='center-left'>
+            <container width='150' align='center-left'>
               <text color='title' font-size='16'>종합 검진</text>
             </container>
           </row>
           <sizebox height='36'></sizebox>
 
           <row>
-            <container width='74' padding='0,0,0,0' align='center-left'>
+            <container width='68' padding='0,0,0,0' align='center-left'>
               <text color='title'>코드네임</text>
             </container>
-            <container width='74' padding='0,0,0,0' align='center-right'>
+            <container width='68' padding='0,0,0,0' align='center-right'>
               <text color='normal'>백파이프</text>
             </container>
-            <sizebox width='48'></sizebox>
-            <container width='74' padding='0,0,0,0' align='center-left'>
+            <sizebox width='28'></sizebox>
+            <container width='68' padding='0,0,0,0' align='center-left'>
               <text color='title'>코드네임</text>
             </container>
-            <container width='74' padding='0,0,0,0' align='center-right'>
+            <container width='68' padding='0,0,0,0' align='center-right'>
               <text color='normal'>백파이프</text>
             </container>
           </row>
