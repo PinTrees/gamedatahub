@@ -27,7 +27,7 @@
             <container width='165'>
               <column>
                 <text color='title' font-size='16'>기본정보</text>
-                <sizebox height='8' width='100'></sizebox>
+                <sizebox height='8' ></sizebox>
                 <row>
                   <container width='74' padding='0,0,0,0' align='center-left'>
                     <text color='title'>코드네임</text>
@@ -90,7 +90,7 @@
             <container width='165'>
               <column>
                 <text color='title' font-size='16'>종합검진</text>
-                <sizebox height='8' width='100'></sizebox>
+                <sizebox height='8'></sizebox>
                 <row>
                   <container width='74' align='center-left'>
                     <text color='title'>물리적 강도</text>
