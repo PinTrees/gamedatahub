@@ -23,15 +23,17 @@
 ——와파린</text>
 
         <sizebox height='36'></sizebox>
-        <row>
-          <container width='200' align='center-left'>
-            <text color='title' font-size='16'>기본정보</text>
-          </container>
-          <container width='200' align='center-left'>
-            <text color='title' font-size='16'>종합 검진</text>
-          </container>
-        </row>
-        <container>
+        <column>
+          <row>
+            <container width='200' align='center-left'>
+              <text color='title' font-size='16'>기본정보</text>
+            </container>
+            <container width='200' align='center-left'>
+              <text color='title' font-size='16'>종합 검진</text>
+            </container>
+          </row>
+          <sizebox height='36'></sizebox>
+
           <row>
             <container width='74' padding='0,0,0,0' align='center-left'>
               <text color='title'>코드네임</text>
@@ -63,7 +65,7 @@
               <text color='normal'>빅토리아</text>
             </container>
           </row>
-        </container>
+        </column>
       </column>
     </container>
     <div>
