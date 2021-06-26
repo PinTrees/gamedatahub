@@ -30,72 +30,68 @@
               <column>
                 <text color='title' font-size='16'>기본정보</text>
                 <container height='8' ></container>
-                <container>
-                  <row>
-                    <container width='74' padding='0,0,0,0' align='center-left'>
-                      <text color='title'>코드네임</text>
-                    </container>
-                    <container width='74' padding='0,0,0,0' align='center-right'>
-                      <text color='normal'>백파이프</text>
-                    </container>
-                  </row>
-                  <row>
-                    <container width='74' padding='0,0,0,0' align='center-left'>
-                      <text color='title'>성별</text>
-                    </container>
-                    <container width='74' padding='0,0,0,0' align='center-right'>
-                      <text color='normal'>여성</text>
-                    </container>
-                  </row>
-                  <row>
-                    <container width='74' align='center-left'>
-                      <text color='title'>종족</text>
-                    </container>
-                    <container width='74' align='center-right'>
-                      <text color='normal'>와이번</text>
-                    </container>
-                  </row>
-                  <row>
-                    <container width='74' align='center-left'>
-                      <text color='title'>출신지</text>
-                    </container>
-                    <container width='74' align='center-right'>
-                      <text color='normal'>빅토리아</text>
-                    </container>
-                  </row>
-                  <row>
-                    <container width='74' align='center-left'>
-                      <text color='title'>생일</text>
-                    </container>
-                    <container width='74' align='center-right'>
-                      <text color='normal'>7월 17일</text>
-                    </container>
-                  </row>
-                  <row>
-                    <container width='74' align='center-left'>
-                      <text color='title'>전투 경험</text>
-                    </container>
-                    <container width='74' align='center-right'>
-                      <text color='normal'>5년</text>
-                    </container>
-                  </row>
-                  <row>
-                    <container width='74' align='center-left'>
-                      <text color='title'>신장</text>
-                    </container>
-                    <container width='74' align='center-right'>
-                      <text color='normal'>162cm</text>
-                    </container>
-                  </row>
-                </container>
+                <row>
+                  <container width='74' padding='0,0,0,0' align='center-left'>
+                    <text color='title'>코드네임</text>
+                  </container>
+                  <container width='74' padding='0,0,0,0' align='center-right'>
+                    <text color='normal'>백파이프</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' padding='0,0,0,0' align='center-left'>
+                    <text color='title'>성별</text>
+                  </container>
+                  <container width='74' padding='0,0,0,0' align='center-right'>
+                    <text color='normal'>여성</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' align='center-left'>
+                    <text color='title'>종족</text>
+                  </container>
+                  <container width='74' align='center-right'>
+                    <text color='normal'>와이번</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' align='center-left'>
+                    <text color='title'>출신지</text>
+                  </container>
+                  <container width='74' align='center-right'>
+                    <text color='normal'>빅토리아</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' align='center-left'>
+                    <text color='title'>생일</text>
+                  </container>
+                  <container width='74' align='center-right'>
+                    <text color='normal'>7월 17일</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' align='center-left'>
+                    <text color='title'>전투 경험</text>
+                  </container>
+                  <container width='74' align='center-right'>
+                    <text color='normal'>5년</text>
+                  </container>
+                </row>
+                <row>
+                  <container width='74' align='center-left'>
+                    <text color='title'>신장</text>
+                  </container>
+                  <container width='74' align='center-right'>
+                    <text color='normal'>162cm</text>
+                  </container>
+                </row>
               </column>
             </container>
             <sizebox width='18' ></sizebox>
-            <container width='165'>
               <column>
-                <container width='150' padding='0,0,0,8' align='center-left'>
-                  <text color='title' font-size='16'>종합검진</text>
-                </container>
+                <text color='title' font-size='16'>종합검진</text>
+                <container height='8' ></container>
                 <row>
                   <container width='74' align='center-left'>
                     <text color='title'>물리적 강도</text>
@@ -145,7 +141,6 @@
                   </container>
                 </row>
               </column>
-            </container>
           </row>
         </container>
       </column>
