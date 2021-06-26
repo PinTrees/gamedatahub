@@ -22,7 +22,15 @@
 아무리 와이번이라지만 이 아가씨의 신체는 내가 본 것 중에서도 수위를 다툴 정도로 훌륭해. 만약 그녀가 정말로 광석병에 감염된다면…… 심지어 광석병에 저항할 수도 있지 않을까 하는 생각을 할 정도라니까? 그래, 아마 안되겠지. 해보자고? 아니, 안돼.
 ——와파린</text>
 
-        <text color='title' font-size='16'>기본정보</text>
+        <sizebox height='36'></sizebox>
+        <row>
+          <container width='200' align='center-left'>
+            <text color='title' font-size='16'>기본정보</text>
+          </container>
+          <container width='200' align='center-left'>
+            <text color='title' font-size='16'>종합 검진</text>
+          </container>
+        </row>
         <container>
           <row>
             <container width='74' padding='0,0,0,0' align='center-left'>
