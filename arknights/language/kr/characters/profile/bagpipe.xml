@@ -23,15 +23,15 @@
 ——와파린</text>
 
         <text color='title' font-size='16'>기본정보</text>
-        <row>
-          <container width='100' padding='0,0,0,0' align='center-left'>
-            <text color='title'>코드네임</text>
-          </container>
-          <container width='100' padding='0,0,0,0' align='center-right'>
-            <text color='normal'>백파이프</text>
-          </container>
-        </row>
         <container>
+          <row>
+            <container width='100' padding='0,0,0,0' align='center-left'>
+              <text color='title'>코드네임</text>
+            </container>
+            <container width='100' padding='0,0,0,0' align='center-right'>
+              <text color='normal'>백파이프</text>
+            </container>
+          </row>
           <row>
             <container width='100' padding='0,0,0,0' align='center-left'>
               <text color='title'>성별</text>
