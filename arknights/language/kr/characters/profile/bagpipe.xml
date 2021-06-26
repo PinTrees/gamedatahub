@@ -25,14 +25,16 @@
         </pre>
 
         <div class='text-title'>기본 정보</div>
-        <column>
-          <row>
-            <div class='class' >코드네임</div>
-            <div class='withd-small'>
-              <div class='align-right'>백파이프</div>
-            </div>
-          </row>
-        </column>
+        <container width='500'>
+          <column>
+            <row>
+              <div class='class' >코드네임</div>
+              <div class='withd-small'>
+                <div class='align-right'>백파이프</div>
+              </div>
+            </row>
+          </column>
+        </container>
         <table style='width:66%; border:1px solid #505050;' >
           <tr>
             <td class='class' >코드네임</td>
