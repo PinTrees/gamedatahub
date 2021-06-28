@@ -28,5 +28,7 @@
     <ts_node code="illust.title" ts="일러스트"/>
     <ts_node code="illust.elite#0.name" ts="기본"/>
     <ts_node code="illust.elite#2.name" ts="2차 정예화"/>
+
+    <ts_node code="audio.title" ts="오디오"/>
   </translation>
 </root>
