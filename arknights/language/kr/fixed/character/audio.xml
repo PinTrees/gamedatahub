@@ -1,0 +1,34 @@
+<root>
+  <translation root="character.title" country="kr" >
+    <ts_node code="character.info.title" ts="캐릭터 정보"/>
+
+    <ts_node code="gender.title" ts="성별"/>
+    <ts_node code="class.title" ts="클래스"/>
+    <ts_node code="potential.title" ts="잠재력"/>
+    <ts_node code="specificity.title" ts="특성"/>
+    <ts_node code="ability.title" ts="재능"/>
+    <ts_node code="infra.title" ts="인프라 스킬"/>
+    <ts_node code="skill.title" ts="스킬 정보"/>
+
+    <ts_node code="stat.title" ts="스테이터스"/>
+    <ts_node code="stat.hp.title" ts="체력"/>
+    <ts_node code="stat.atk.title" ts="공격력"/>
+    <ts_node code="stat.def.title" ts="방어력"/>
+    <ts_node code="stat.mdef.title" ts="마법저항력"/>
+    
+    <ts_node code="stat.cost.title" ts="코스트"/>
+    <ts_node code="stat.block.title" ts="저지"/>
+    <ts_node code="stat.atktime.title" ts="공격속도"/>
+    <ts_node code="stat.redeploytime.title" ts="재배치"/>
+
+    <ts_node code="elite#0" ts="기초"/>
+    <ts_node code="elite#1" ts="1차 정예화"/>
+    <ts_node code="elite#2" ts="2차 정예화"/>
+
+    <ts_node code="illust.title" ts="일러스트"/>
+    <ts_node code="illust.elite#0.name" ts="기본"/>
+    <ts_node code="illust.elite#2.name" ts="2차 정예화"/>
+
+    <ts_node code="audio.title" ts="오디오"/>
+  </translation>
+</root>
