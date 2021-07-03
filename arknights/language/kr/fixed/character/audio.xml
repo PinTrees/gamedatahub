@@ -1,34 +1,39 @@
 <root>
   <translation root="character.title" country="kr" >
-    <ts_node code="character.info.title" ts="캐릭터 정보"/>
-
-    <ts_node code="gender.title" ts="성별"/>
-    <ts_node code="class.title" ts="클래스"/>
-    <ts_node code="potential.title" ts="잠재력"/>
-    <ts_node code="specificity.title" ts="특성"/>
-    <ts_node code="ability.title" ts="재능"/>
-    <ts_node code="infra.title" ts="인프라 스킬"/>
-    <ts_node code="skill.title" ts="스킬 정보"/>
-
-    <ts_node code="stat.title" ts="스테이터스"/>
-    <ts_node code="stat.hp.title" ts="체력"/>
-    <ts_node code="stat.atk.title" ts="공격력"/>
-    <ts_node code="stat.def.title" ts="방어력"/>
-    <ts_node code="stat.mdef.title" ts="마법저항력"/>
-    
-    <ts_node code="stat.cost.title" ts="코스트"/>
-    <ts_node code="stat.block.title" ts="저지"/>
-    <ts_node code="stat.atktime.title" ts="공격속도"/>
-    <ts_node code="stat.redeploytime.title" ts="재배치"/>
-
-    <ts_node code="elite#0" ts="기초"/>
-    <ts_node code="elite#1" ts="1차 정예화"/>
-    <ts_node code="elite#2" ts="2차 정예화"/>
-
-    <ts_node code="illust.title" ts="일러스트"/>
-    <ts_node code="illust.elite#0.name" ts="기본"/>
-    <ts_node code="illust.elite#2.name" ts="2차 정예화"/>
-
-    <ts_node code="audio.title" ts="오디오"/>
+    <ts_node code="character.audio.assistant.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.talk#1.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.talk#2.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.talk#3.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.promotion#1.talk.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.promotion#2.talk.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.trust#1.talk.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.trust#2.talk.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.trust#3.talk.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.idle.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.onboard.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.battlerecord.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.promotion#1.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.promotion#2.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.squad:add.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.squad.leader.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.depart.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.begin.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.operator:select#1.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.operator:select#2.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.deployment#1.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.deployment#2.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.battle#1.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.battle#2.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.battle#2.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.battle#4.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.result.4star.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.result.3star.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.result.sub.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.operation.result.failure.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.facility:assigned.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.tap.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.trust.tap.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.arknights.title" ts="캐릭터 정보"/>
+    <ts_node code="character.audio.greeting.title" ts="캐릭터 정보"/>
   </translation>
 </root>
