@@ -155,7 +155,7 @@
 	</list-string>
 	
     <list-string tag="audio">
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=character.audio.assistant.title,info=character.audio.assistant.info" />
 		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
 		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
 		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
