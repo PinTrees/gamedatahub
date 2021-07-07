@@ -149,6 +149,10 @@
     <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" /> 
   </skill>
 
+    <list-string tag="audio">
+		<string value="audio=audio#$contry/bagpipe/cn_001.mp3,name=,info=" ></string>
+	</list-string>
+		
   <audio ui="play=play,pause=pause" >
     <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="assistant" name="어시스턴트 임명" script="비서? 아~ 사람 옆에 계속 서 있는 그거? 군대에 있을 때 본 적 있나. 머이? 서류 작업도 해야 한다고? 전황 파악도? 공지도? 어, 엄청 귀찮잖아~!" />
     <info ui="" file="audio=audio#bagpipe/cn_001.mp3" code="talk_1" name="대화 1" script="첸은 계속 찌푸린 얼굴이지 않나? 학교에서도 그래서 엄청 미움 받았었지. 그래도 끝에 가선 다~들 다시 보게 됐사! 뭐, 상처를 치료해 주거나 요리를 해주거나 같이 싸우거나 하느라, 나도 힘들었지만......" />
