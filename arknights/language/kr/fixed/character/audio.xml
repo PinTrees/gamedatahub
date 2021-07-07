@@ -1,17 +1,17 @@
 <root>
-  <translation root="character.title" country="kr" >
-    <ts_node code="character.audio.assistant.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.talk#1.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.talk#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.talk#3.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.promotion#1.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.promotion#2.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust#1.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust#2.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust#3.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.idle.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.onboard.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.battlerecord.title" ts="캐릭터 정보"/>
+  <translation >
+    <ts_node code="character.audio.assistant.title" ts="어시스턴트 임명"/>
+    <ts_node code="character.audio.talk#1.title" ts="대화 1"/>
+    <ts_node code="character.audio.talk#2.title" ts="대화 2"/>
+    <ts_node code="character.audio.talk#3.title" ts="대화 3"/>
+    <ts_node code="character.audio.promotion#1.talk.title" ts="정예화 후 대사 1"/>
+    <ts_node code="character.audio.promotion#2.talk.title" ts="정예화 후 대사 2"/>
+    <ts_node code="character.audio.trust#1.talk.title" ts="신뢰도 상승 후 대사 1"/>
+    <ts_node code="character.audio.trust#2.talk.title" ts="신뢰도 상승 후 대사 2"/>
+    <ts_node code="character.audio.trust#3.talk.title" ts="신뢰도 상승 후 대사 3"/>
+    <ts_node code="character.audio.idle.title" ts="방치"/>
+    <ts_node code="character.audio.onboard.title" ts="획득 시 대화"/>
+    <ts_node code="character.audio.battlerecord.title" ts="작전 기록 학습 대사"/>
     <ts_node code="character.audio.promotion#1.title" ts="캐릭터 정보"/>
     <ts_node code="character.audio.promotion#2.title" ts="캐릭터 정보"/>
     <ts_node code="character.audio.squad:add.title" ts="캐릭터 정보"/>
