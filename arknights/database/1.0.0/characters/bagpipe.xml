@@ -6,7 +6,7 @@
   <style>
     <color_node code="blue" value="FF1295E0"/>
     <color_node code="orange" value="FFF69E21"/>
-    <color_node code="red" value="FFF33939"/>
+    <color_node code="red" value="FFF33939"></color_node>
   </style>
   
   <url_hub>
@@ -149,8 +149,31 @@
     <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" /> 
   </skill>
 
+	
+	<list-string tag="header">
+		<string value="audio-country=cn/kr" ></string>
+	</list-string>
+	
     <list-string tag="audio">
-		<string value="audio=audio#$contry/bagpipe/cn_001.mp3,name=,info=" ></string>
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" ></string>
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
 	</list-string>
 		
   <audio ui="play=play,pause=pause" >
