@@ -161,9 +161,9 @@
 		<string value="audio=audio#$countrycode/character/bagpipe/004.mp3,name=character.audio.talk#3.title,info=character.audio.talk#3.info" />
 		<string value="audio=audio#$countrycode/character/bagpipe/005.mp3,name=character.audio.promotion#1.talk.title,info=character.audio.promotion#1.talk.info" />
 		<string value="audio=audio#$countrycode/character/bagpipe/006.mp3,name=character.audio.promotion#2.talk.title,info=character.audio.promotion#2.talk.info" />
-		<string value="audio=audio#$countrycode/character/bagpipe/007.mp3,name=character.audio.trust#1.title,info=character.audio.trust#1.info" />
-		<string value="audio=audio#$countrycode/character/bagpipe/008.mp3,name=character.audio.trust#2.title,info=character.audio.trust#2.info" />
-		<string value="audio=audio#$countrycode/character/bagpipe/009.mp3,name=character.audio.trust#3.title,info=character.audio.trust#3.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/007.mp3,name=character.audio.trust#1.talk.title,info=character.audio.trust#1.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/008.mp3,name=character.audio.trust#2.talk.title,info=character.audio.trust#2.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/009.mp3,name=character.audio.trust#3.talk.title,info=character.audio.trust#3.talk.info" />
 		<string value="audio=audio#$countrycode/character/bagpipe/010.mp3,name=character.audio.idle.title,info=character.audio.idle.info" />
 		<string value="audio=audio#$countrycode/character/bagpipe/011.mp3,name=character.audio.onboard.title,info=character.audio.onboard.info" />
 		<string value="audio=audio#$countrycode/character/bagpipe/012.mp3,name=character.audio.battlerecord.title,info=character.audio.battlerecord.info" />

@@ -200,7 +200,7 @@
     <ts_node code="character.audio.deployment#2.info" ts="빅토리아의 백파이프, 캐슬브레이커와 함께, 참전한다!"/>
     <ts_node code="character.audio.battle#1.info" ts="'사고를 명석하게 하는 것은 전술!'"/>
     <ts_node code="character.audio.battle#2.info" ts="'의지를 견고하게 하는 것은 규율!'"/>
-    <ts_node code="character.audio.battle#2.info" ts="'사악함을 괴멸시킬 수 있는 것은 용맹!'"/>
+    <ts_node code="character.audio.battle#3.info" ts="'사악함을 괴멸시킬 수 있는 것은 용맹!'"/>
     <ts_node code="character.audio.battle#4.info" ts="'생명을 구제할 수 있는 것은 자애!'"/>
     <ts_node code="character.audio.operation.result.4star.info" ts="학교에서도 군대에서도... 더 어려운 사태는 많이 봐왔어."/>
     <ts_node code="character.audio.operation.result.3star.info" ts="후우...... 이번에도 이 제복에 부끄럽지 않은 전투를 할 수 있었네!"/>

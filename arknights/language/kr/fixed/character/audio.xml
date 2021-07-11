@@ -24,7 +24,7 @@
     <ts_node code="character.audio.deployment#2.title" ts="배치 2"/>
     <ts_node code="character.audio.battle#1.title" ts="작전 중 1"/>
     <ts_node code="character.audio.battle#2.title" ts="작전 중 2"/>
-    <ts_node code="character.audio.battle#2.title" ts="작전 중 3"/>
+    <ts_node code="character.audio.battle#3.title" ts="작전 중 3"/>
     <ts_node code="character.audio.battle#4.title" ts="작전 중 4"/>
     <ts_node code="character.audio.operation.result.4star.title" ts="작전 성공 - 4성"/>
     <ts_node code="character.audio.operation.result.3star.title" ts="작전 성공 - 3성"/>
