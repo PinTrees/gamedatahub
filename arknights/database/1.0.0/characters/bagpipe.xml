@@ -154,26 +154,41 @@
 		<string value="audio-country=cn/kr" ></string>
 	</list-string>
 	
-    <list-string tag="audio">
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=character.audio.assistant.title,info=character.audio.assistant.info" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" ></string>
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
-		<string value="audio=audio#country/bagpipe/cn_001.mp3,name=,info=" />
+  <list-string tag="audio">
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.assistant.title,info=character.audio.assistant.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.talk#1.title,info=character.audio.talk#1.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.talk#2.title,info=character.audio.talk#2.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.talk#3.title,info=character.audio.talk#3.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.promotion#1.talk.title,info=character.audio.promotion#1.talk.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.promotion#2.talk.title,info=character.audio.promotion#2.talk.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.trust#1.title,info=character.audio.trust#1.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.trust#2.title,info=character.audio.trust#2.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.trust#3.title,info=character.audio.trust#3.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.idle.title,info=character.audio.idle.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.onboard.title,info=character.audio.onboard.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.battlerecord.title,info=character.audio.battlerecord.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.promotion#1.title,info=character.audio.promotion#1.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.promotion#2.title,info=character.audio.promotion#2.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.squad:add.title,info=character.audio.squad:add.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.squad.leader.title,info=character.audio.squad.leader.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.depart.title,info=character.audio.depart.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.begin.title,info=character.audio.operation.begin.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.operator:select#1.title,info=character.audio.operation.operator:select#1.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.operator:select#2.title,info=character.audio.operation.operator:select#2.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.deployment#1.title,info=character.audio.deployment#1.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.deployment#2.title,info=character.audio.deployment#2.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.battle#1.title,info=character.audio.battle#1.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.battle#2.title,info=character.audio.battle#2.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.battle#3.title,info=character.audio.battle#3.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.battle#4.title,info=character.audio.battle#4.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.result.4star.title,info=character.audio.operation.result.4star.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.result.3star.title,info=character.audio.operation.result.3star.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.result.sub.title,info=character.audio.operation.result.sub.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.operation.result.failure.title,info=character.audio.operation.result.failure.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.tap.title,info=character.audio.tap.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.trust.tap.title,info=character.audio.trust.tap.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.arknights.title,info=character.audio.arknights.info" />
+		<string value="audio=audio#country/bagpipe/001.mp3,name=character.audio.greeting.title,info=character.audio.greeting.info" />
 	</list-string>
 		
   <audio ui="play=play,pause=pause" >
