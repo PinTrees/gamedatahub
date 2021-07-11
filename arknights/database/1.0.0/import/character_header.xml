@@ -16,6 +16,7 @@
     <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
     <node code="language" url="files/arknights/language/" />
     <node code="akn_database" url="files/arknights/database/$version/" />
+    <node code="audio" url="files/arknights/asset/audio/" />
   </file_hub>
 
   <urls>
