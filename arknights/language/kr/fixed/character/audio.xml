@@ -1,39 +1,39 @@
 <root>
-  <translation root="character.title" country="kr" >
-    <ts_node code="character.audio.assistant.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.talk#1.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.talk#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.talk#3.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.promotion#1.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.promotion#2.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust#1.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust#2.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust#3.talk.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.idle.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.onboard.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.battlerecord.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.promotion#1.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.promotion#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.squad:add.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.squad.leader.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.depart.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.begin.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.operator:select#1.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.operator:select#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.deployment#1.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.deployment#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.battle#1.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.battle#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.battle#2.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.battle#4.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.result.4star.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.result.3star.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.result.sub.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.operation.result.failure.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.facility:assigned.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.tap.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.trust.tap.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.arknights.title" ts="캐릭터 정보"/>
-    <ts_node code="character.audio.greeting.title" ts="캐릭터 정보"/>
+  <translation >
+    <ts_node code="character.audio.assistant.title" ts="어시스턴트 임명"/>
+    <ts_node code="character.audio.talk#1.title" ts="대화 1"/>
+    <ts_node code="character.audio.talk#2.title" ts="대화 2"/>
+    <ts_node code="character.audio.talk#3.title" ts="대화 3"/>
+    <ts_node code="character.audio.promotion#1.talk.title" ts="정예화 후 대사 1"/>
+    <ts_node code="character.audio.promotion#2.talk.title" ts="정예화 후 대사 2"/>
+    <ts_node code="character.audio.trust#1.talk.title" ts="신뢰도 상승 후 대사 1"/>
+    <ts_node code="character.audio.trust#2.talk.title" ts="신뢰도 상승 후 대사 2"/>
+    <ts_node code="character.audio.trust#3.talk.title" ts="신뢰도 상승 후 대사 3"/>
+    <ts_node code="character.audio.idle.title" ts="방치"/>
+    <ts_node code="character.audio.onboard.title" ts="획득 시 대화"/>
+    <ts_node code="character.audio.battlerecord.title" ts="작전 기록 학습 대사"/>
+    <ts_node code="character.audio.promotion#1.title" ts="1차 정예화 대사"/>
+    <ts_node code="character.audio.promotion#2.title" ts="2차 정예화 대사"/>
+    <ts_node code="character.audio.squad:add.title" ts="팀 배치 대사"/>
+    <ts_node code="character.audio.squad.leader.title" ts="팀장 임명"/>
+    <ts_node code="character.audio.depart.title" ts="작전 출발"/>
+    <ts_node code="character.audio.operation.begin.title" ts="작전 개시"/>
+    <ts_node code="character.audio.operation.operator:select#1.title" ts="오퍼레이터 터치 1"/>
+    <ts_node code="character.audio.operation.operator:select#2.title" ts="오퍼레이터 터치 2"/>
+    <ts_node code="character.audio.deployment#1.title" ts="배치 1"/>
+    <ts_node code="character.audio.deployment#2.title" ts="배치 2"/>
+    <ts_node code="character.audio.battle#1.title" ts="작전 중 1"/>
+    <ts_node code="character.audio.battle#2.title" ts="작전 중 2"/>
+    <ts_node code="character.audio.battle#3.title" ts="작전 중 3"/>
+    <ts_node code="character.audio.battle#4.title" ts="작전 중 4"/>
+    <ts_node code="character.audio.operation.result.4star.title" ts="작전 성공 - 4성"/>
+    <ts_node code="character.audio.operation.result.3star.title" ts="작전 성공 - 3성"/>
+    <ts_node code="character.audio.operation.result.sub.title" ts="작전 성공 - 3성 미만"/>
+    <ts_node code="character.audio.operation.result.failure.title" ts="작전 실패"/>
+    <ts_node code="character.audio.facility:assigned.title" ts="시설에 배치"/>
+    <ts_node code="character.audio.tap.title" ts="터치"/>
+    <ts_node code="character.audio.trust.tap.title" ts="신뢰도 터치"/>
+    <ts_node code="character.audio.arknights.title" ts="아크나이츠"/>
+    <ts_node code="character.audio.greeting.title" ts="인사"/>
   </translation>
 </root>
