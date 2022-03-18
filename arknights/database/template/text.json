@@ -99,7 +99,7 @@
                                 "style": "spacing: 4",
                                 "1:TextBox": {
                                     "style": "color:#ffffff; fontSize: 12",
-                                    "boxStyle": "padding: 42,4,2; color:#64CD3C; round: 2;",
+                                    "boxStyle": "padding: 4,2,4,2; color:#64CD3C; round: 2;",
                                     "text": "DP-Recovery"
                                 },
                                 "2:TextBox": {
