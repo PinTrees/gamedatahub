@@ -64,17 +64,17 @@
                             "style": "spacing: 4",
                             "12:ImageCo": {
                                 "style": "elevation: 18; round: 2; width: 74; height: 74; backgroundColor:#ffffff",
-                                "image": "address: //icon++/character/absinthe.png"
+                                "image": "address://icon++/character/absinthe.png"
                             },
                             "9:Column": {
                                 "style": "crossAlignment:start; spacing: 4;",
                                 "7:ImageCo": {
                                     "style": "elevation: 18; round: 2; width: 36; height: 36; backgroundColor:#000000",
-                                    "image": "address: //icon++/class/class_vanguard.png"
+                                    "image": "address://icon++/class/class_vanguard.png"
                                 },
                                 "8:ImageCo": {
                                     "style": "elevation: 18; round: 2; width: 36; height: 36; backgroundColor:#000000",
-                                    "image": "address: //icon++/group/group_icon_victoria.png"
+                                    "image": "address://icon++/group/group_icon_victoria.png"
                                 }
                             }
                         },
@@ -99,7 +99,7 @@
                                 "style": "spacing: 4",
                                 "1:TextBox": {
                                     "style": "color:#ffffff; fontSize: 12",
-                                    "boxStyle": "padding: 4,2,4,2; color:#64CD3C; round: 2;",
+                                    "boxStyle": "padding:4,2,4,2; color:#64CD3C; round: 2;",
                                     "text": "DP-Recovery"
                                 },
                                 "2:TextBox": {
@@ -145,7 +145,7 @@
         }
     },
     "address": {
-        "icon": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/",
-        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
+        "icon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/",
+        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
     }
 }
