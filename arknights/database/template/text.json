@@ -37,7 +37,7 @@
         ">ColumnTitle?": {
             "style": "padding: 8,8,8,8; color:#ffffff,#dddddd; spacing: 36;",
             "title": "Title",
-            "124:ColumnTitle": {
+            "0:ColumnTitle": {
                 "style": "titleSpacing: 12; ",
                 "titleStyle": "fontSize: 20",
                 "title": "캐릭터 정보 홍수진",
@@ -47,11 +47,11 @@
                         "style": "spacing: 12",
                         "11:Text": {
                             "style": "color:#ffffff; fontSize: 18",
-                            "text": "★★★★★★"
+                            "text": "★★★★★★" 
                         },
                         "1:TextBox": {
                             "style": "color:#ffffff; fontSize: 12",
-                            "text": "뱅가드"
+                            "text": "flant-name"
                         },
                         "2:TextBox": {
                             "style": "color:#ffffff; fontSize: 12",
@@ -99,7 +99,7 @@
                                 "style": "spacing: 4",
                                 "1:TextBox": {
                                     "style": "color:#ffffff; fontSize: 12",
-                                    "boxStyle": "padding:4,2,4,2; color:#64CD3C; round: 2;",
+                                    "boxStyle": "padding:4,2,4,2; color:#64CD3C;",
                                     "text": "DP-Recovery"
                                 },
                                 "2:TextBox": {
@@ -111,63 +111,19 @@
                         }
                     }
                 }
-            },
-            "2:ColumnTitle": {
-                "key": "ilustIndex",
-                "style": "titleSpacing: 12; crossAlignment:start;",
-                "titleStyle": "fontSize: 20",
-                "title": "일러스트",
-                "indexStyle": "length: 3; width: 24; height: 24; start: 1; spacing: 4;",
-                "indexIcon": "0:address: //icon++/elite/elite_0.png; 1:address://icon++/elite/elite_1.png; 2:address://icon++/elite/elite_2.png;",
-                "12:ImageButton": {
-                    "style": "round: 2;",
-                    "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/character/bagpipe_race1.png"
-                }
-            },
-            "5:ColumnTitle": {
-                "style": "titleSpacing: 8;",
-                "titleStyle": "fontSize: 16",
-                "title": "정예화 업그레이드 재료",
-                "1:RowContainer": {
-                    "style": "crossAlignment:start; mainAlignment:start; spacing: 8;",
-                    "0:ItemButton": {
-                        "style": "imageSize: 1; width: 64; height: 64;",
-                        "titleStyle": "fontSize: 10;",
-                        "title": "바이플라 나노 플레이크 칩",
-                        "tagStyle": "fontSize: 12;",
-                        "tag": "3000",
-                        "image":  "address://icon++/material/mat_5_bipolar.png",
-                        "backgroundImage": "address://image++/frame.item/item-5.png"
-                    },
-                    "1:ItemButton": {
-                        "style": "imageSize: 1; width: 64; height: 64;",
-                        "titleStyle": "fontSize: 10;",
-                        "title": "D32",
-                        "image":   "address://icon++/material/mat_5_bipolar.png",
-                        "backgroundImage":   "address://image++/frame.item/item-4.png"
-                    },
-                    "2:ItemButton": {
-                        "style": "imageSize: 1; width: 64; height: 64;",
-                        "image":   "address://icon++/material/mat_5_bipolar.png",
-                        "backgroundImage":   "address://image++/frame.item/item-3.png"
-                    },
-                    "3:ItemButton": {
-                        "style": "imageSize: 1; width: 64; height: 64;",
-                        "image":  "address://icon++/material/mat_5_bipolar.png",
-                        "backgroundImage":   "address://image++/frame.item/item-2.png"
-                    }
-                }
             }
         }
     },
     "translator": {
         "kr": {
+            "flant-name": "튤립",
             "title-talent": "재능",
             "potential#0-info": "배치 비용 -1",
             "potential#1-info": "첫 번째 재능 향상(+3%)",
             "potential#2-info": "공격력 +25",
             "potential#3-info": "두 번째 재능 향상(+2)",
             "potential#4-info": "배치 비용 -1",
+
             "infra#0-lv#0-open": "초기",
             "infra#0-lv#0-target": "숙소",
             "infra#0-lv#0-name": "농요",
