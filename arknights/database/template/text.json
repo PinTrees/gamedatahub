@@ -136,25 +136,25 @@
                         "title": "바이플라 나노 플레이크 칩",
                         "tagStyle": "fontSize: 12;",
                         "tag": "3000",
-                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
-                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                        "image":  "address://iconAAA",
+                        "backgroundImage": "address://iconBBB"
                     },
                     "1:ItemButton": {
                         "style": "imageSize: 1; width: 64; height: 64;",
                         "titleStyle": "fontSize: 10;",
                         "title": "D32",
-                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
-                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                        "image":  "address://iconAAA",
+                        "backgroundImage":  "address://iconBBB"
                     },
                     "2:ItemButton": {
                         "style": "imageSize: 1; width: 64; height: 64;",
-                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
-                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                        "image":  "address://iconAAA",
+                        "backgroundImage":  "address://iconBBB"
                     },
                     "3:ItemButton": {
                         "style": "imageSize: 1; width: 64; height: 64;",
-                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
-                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                        "image": "address://iconAAA",
+                        "backgroundImage":  "address://iconBBB"
                     }
                 }
             }
@@ -180,6 +180,8 @@
     },
     "address": {
         "icon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/",
+        "iconAAA": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
+        "iconBBB": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png",
         "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
     }
 }
