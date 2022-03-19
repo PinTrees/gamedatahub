@@ -137,24 +137,24 @@
                         "tagStyle": "fontSize: 12;",
                         "tag": "3000",
                         "image":  "address://icon++/material/mat_5_bipolar.png",
-                        "backgroundImage": "address://iconBBB"
+                        "backgroundImage": "address://image++/frame.item/item-5.png"
                     },
                     "1:ItemButton": {
                         "style": "imageSize: 1; width: 64; height: 64;",
                         "titleStyle": "fontSize: 10;",
                         "title": "D32",
-                        "image":  "address://iconAAA",
-                        "backgroundImage":  "address://iconBBB"
+                        "image":   "address://icon++/material/mat_5_bipolar.png",
+                        "backgroundImage":   "address://image++/frame.item/item-4.png"
                     },
                     "2:ItemButton": {
                         "style": "imageSize: 1; width: 64; height: 64;",
-                        "image":  "address://iconAAA",
-                        "backgroundImage":  "address://iconBBB"
+                        "image":   "address://icon++/material/mat_5_bipolar.png",
+                        "backgroundImage":   "address://image++/frame.item/item-3.png"
                     },
                     "3:ItemButton": {
                         "style": "imageSize: 1; width: 64; height: 64;",
-                        "image": "address://iconAAA",
-                        "backgroundImage":  "address://iconBBB"
+                        "image":  "address://icon++/material/mat_5_bipolar.png",
+                        "backgroundImage":   "address://image++/frame.item/item-2.png"
                     }
                 }
             }
