@@ -123,6 +123,40 @@
                     "style": "round: 2;",
                     "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/character/bagpipe_race1.png"
                 }
+            },
+            "5:ColumnTitle": {
+                "style": "titleSpacing: 8;",
+                "titleStyle": "fontSize: 16",
+                "title": "정예화 업그레이드 재료",
+                "1:RowContainer": {
+                    "style": "crossAlignment:start; mainAlignment:start; spacing: 8;",
+                    "0:ItemButton": {
+                        "style": "imageSize: 1; width: 64; height: 64;",
+                        "titleStyle": "fontSize: 10;",
+                        "title": "바이플라 나노 플레이크 칩",
+                        "tagStyle": "fontSize: 12;",
+                        "tag": "3000",
+                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
+                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                    },
+                    "1:ItemButton": {
+                        "style": "imageSize: 1; width: 64; height: 64;",
+                        "titleStyle": "fontSize: 10;",
+                        "title": "D32",
+                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
+                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                    },
+                    "2:ItemButton": {
+                        "style": "imageSize: 1; width: 64; height: 64;",
+                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
+                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                    },
+                    "3:ItemButton": {
+                        "style": "imageSize: 1; width: 64; height: 64;",
+                        "image": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
+                        "backgroundImage": "https: //raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png"
+                    }
+                }
             }
         }
     },
