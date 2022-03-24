@@ -1,0 +1,917 @@
+{
+    "style": {
+        "stat_RowBox": "elevation:12; padding:hrzAll(8); mainSize:max; mainAlignment:between; color:#363636; borderSize:0; borderRadius:4;",
+        "stat_Text": "width:80; color:#ffffff,#000000; fontSize:14;"
+    },
+    "widget": {
+        "template": {
+            "infraView:Column": {
+                "active": "null(&name)",
+                "style": "crossAlignment:start; spacing:4;",
+                "1:RowIconText": {
+                    "style": "",
+                    "icon": "&icon",
+                    "text": "&name",
+                    "0:NumberIndex": {
+                        "key": "&key",
+                        "style": "width:20; height:20; length:&level; start:1; spacing:8;",
+                        "titleStyle": "fontSize:14;",
+                        "title": "레벨",
+                        "iconStyle": ""
+                    }
+                },
+                "2:TextBox": {
+                    "style": "fontSize:14; color:#9c9fa4;",
+                    "boxStyle": "padding:32,0,0,0;",
+                    "text": "&info"
+                }
+            },
+            "talentView:Column": {
+                "active": "null(&name)",
+                "style": "crossAlignment:start; spacing:8;",
+                "0:RowIconText": {
+                    "style": "textColor:#ffffff;",
+                    "icon": "&icon",
+                    "text": "&name",
+                    "0:NumberIndex": {
+                        "key": "&key",
+                        "style": "width:20; height:20; length:&level; start:1; spacing:8;",
+                        "titleStyle": "fontSize:14;",
+                        "title": "레벨",
+                        "iconStyle": ""
+                    }
+                },
+                "1:TextBox": {
+                    "style": "fontSize:12; color:#c8c8c8;",
+                    "boxStyle": "padding:32,0,0,0;",
+                    "text": "1차 정예화 후 해금",
+                },
+                "2:TextBox": {
+                    "style": "fontSize:14; color:#9c9fa4;",
+                    "boxStyle": "padding:32,0,0,0;",
+                    "text": "&info",
+                },
+            },
+            "skillView:Column": {
+                "style": "crossAlignment:start; spacing:8;",
+                "0:RowContainer": {
+                    "style": "spacing:12",
+                    "12:ImageButton": {
+                        "style": "elevation:18; round:2; width:60; height:60;",
+                        "image": "address://icon++/skill/skill_icon_bagpipe_3.png",
+                    },
+                    "1:Column": {
+                        "style": "crossAlignment:start; spacing:4",
+                        "0:Text": {
+                            "style": "color:#ffffff; fontSize:16",
+                            "text": "skill#&index-name"
+                        },
+                        "3:Row": {
+                            "style": "spacing:6",
+                            "1:TextBox": {
+                                "active": "null(skill#&index-charge)",
+                                "style": "color:#ffffff; fontSize:12",
+                                "boxStyle": "padding:4,2,4,2; color:#64CD3C; round:2;",
+                                "text": "skill#&index-charge"
+                            },
+                            "2:TextBox": {
+                                "active": "null(skill#&index-active)",
+                                "style": "color:#ffffff; fontSize:12",
+                                "boxStyle": "padding:4,2,4,2; color:#FFD228; round:2;",
+                                "text": "skill#&index-active"
+                            },
+                            "3:TextBox": {
+                                "active": "null(skill#&index-lv#&level-duration)",
+                                "style": "color:#ffffff; fontSize:12",
+                                "boxStyle": "padding:4,2,4,2; color:#363636; round:2;",
+                                "texts": [
+                                    "지속시간 ",
+                                    "skill#&index-lv#&level-duration",
+                                    "초"
+                                ]
+                            }
+                        },
+                        "50:Row": {
+                            "style": "spacing:12",
+                            "1:TextBox": {
+                                "style": "color:#ffffff; fontSize:12",
+                                "texts": [
+                                    "초기 SP ",
+                                    "skill#&index-lv#&level-sp#0",
+                                ],
+                            },
+                            "2:TextBox": {
+                                "style": "color:#ffffff; fontSize:12",
+                                "texts": [
+                                    "사용 SP ",
+                                    "skill#&index-lv#&level-sp#1",
+                                ],
+                            },
+                        },
+                    },
+                },
+                "1:TextBox": {
+                    "style": "fontSize:14; color:#9c9fa4;",
+                    "boxStyle": "padding:0,0,0,18;",
+                    "text": "skill#&index-lv#&level-info"
+                },
+                "5:ColumnTitle": {
+                    "style": "crossAlignment:start; titleSpacing:4; spacing:4;",
+                    "titleStyle": "fontSize:14",
+                    "title": "스킬 업그레이드 시 필요",
+                    "50:Row": {
+                        "style": "spacing:8",
+                        "1:TextBox": {
+                            "style": "color:#9c9fa4; fontSize:12",
+                            "boxStyle": "",
+                            "text": "요구 레벨  Lv1"
+                        }
+                    },
+                    "1:RowContainer": {
+                        "style": "mainAlignment:start; spacing:2;",
+                        "0:materialView": {
+                            "name": "skill#&index-lv#&level-mat#0-name",
+                            "code": "TS://skill#&index-lv#&level-mat#0-code",
+                            "rare": "TS://skill#&index-lv#&level-mat#0-rare",
+                            "count": "TS://skill#&index-lv#&level-mat#0-count"
+                        },
+                        "1:materialView": {
+                            "name": "skill#&index-lv#&level-mat#1-name",
+                            "code": "TS://skill#&index-lv#&level-mat#1-code",
+                            "rare": "TS://skill#&index-lv#&level-mat#1-rare",
+                            "count": "TS://skill#&index-lv#&level-mat#1-count"
+                        },
+                        "2:materialView": {
+                            "name": "skill#&index-lv#&level-mat#2-name",
+                            "code": "TS://skill#&index-lv#&level-mat#2-code",
+                            "rare": "TS://skill#&index-lv#&level-mat#2-rare",
+                            "count": "TS://skill#&index-lv#&level-mat#2-count"
+                        },
+                        "3:materialView": {
+                            "name": "skill#&index-lv#&level-mat#3-name",
+                            "code": "TS://skill#&index-lv#&level-mat#3-code",
+                            "rare": "TS://skill#&index-lv#&level-mat#3-rare",
+                            "count": "TS://skill#&index-lv#&level-mat#3-count"
+                        }
+                    }
+                }
+            },
+            "materialView:ItemButton": {
+                "active": "null(&name)",
+                "style": "imageSize:1; width:64; height:64;",
+                "titleStyle": "fontSize:10;",
+                "title": "&name",
+                "tag": "&count",
+                "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/material/&code.png",
+                "backgroundImage": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-&rare.png"
+            },
+            "statView:BoxRow": {
+                "style": "elevation:12; padding:8,4,8,4; mainSize:max; mainAlignment:between; color:#363636; borderSize:0; borderRadius:2;",
+                "0:Text": {
+                    "style": "color:#ffffff,#000000; fontSize:14;",
+                    "text": "&name"
+                },
+                "1:NumberRangIndex": {
+                    "style": "fontSize:18; cast:int.row;",
+                    "value": "&statRang",
+                    "index": "&level",
+                    "rang": "&indexRang"
+                }
+            },
+            "statView2:BoxRow": {
+                "style": "elevation:12; padding:8,4,8,4; mainSize:max; mainAlignment:between; color:#363636; borderSize:0; borderRadius:2;",
+                "0:Text": {
+                    "style": "color:#ffffff,#000000; fontSize:14;",
+                    "text": "&name"
+                },
+                "1:Text": {
+                    "style": "color:#ffffff,#000000; fontSize:18;",
+                    "text": "&info"
+                }
+            }
+        },
+        "header": {
+            "title": ""
+        },
+        "tab": {
+            "0": "스테이터스",
+            "1": "프로필"
+        },
+        "0:MainColumn": {
+            "style": "",
+            "0121:ImageCover": {
+                "style": "height:174; round:0; backgroundColor:#161616",
+                "image": "address://image++/character/bagpipe_race1.png"
+            },
+            "0:ColumnContainer": {
+                "style": "padding:18,18,18,18; color:#ffffff,#dddddd; spacing:48;",
+                "124:ColumnTitle": {
+                    "style": "titleSpacing:8; ",
+                    "titleStyle": "fontSize:18",
+                    "title": "캐릭터 정보",
+                    "0:Column": {
+                        "style": "crossAlignment:start; spacing:8;",
+                        "50:Row": {
+                            "style": "spacing:12",
+                            "11:Text": {
+                                "style": "color:#ffffff; fontSize:18",
+                                "text": "★★★★★★"
+                            },
+                            "1:TextBox": {
+                                "style": "color:#ffffff; fontSize:12",
+                                "text": "뱅가드"
+                            },
+                            "2:TextBox": {
+                                "style": "color:#ffffff; fontSize:12",
+                                "text": "빅토리아"
+                            }
+                        },
+                        "0:RowContainer": {
+                            "style": "spacing:12",
+                            "0:Row": {
+                                "style": "spacing:4",
+                                "12:ImageCo": {
+                                    "style": "elevation:18; round:2; width:74; height:74; backgroundColor:#ffffff",
+                                    "image": "address://icon++/character/absinthe.png"
+                                },
+                                "9:Column": {
+                                    "style": "crossAlignment:start; spacing:4;",
+                                    "7:ImageCo": {
+                                        "style": "elevation:18; round:2; width:36; height:36; backgroundColor:#000000",
+                                        "image": "address://icon++/class/class_vanguard.png"
+                                    },
+                                    "8:ImageCo": {
+                                        "style": "elevation:18; round:2; width:36; height:36; backgroundColor:#000000",
+                                        "image": "address://icon++/group/group_icon_victoria.png"
+                                    }
+                                }
+                            },
+                            "1:Column": {
+                                "style": "crossAlignment:start; spacing:8",
+                                "0:Text": {
+                                    "style": "color:#ffffff; fontSize:18",
+                                    "text": "백파이프",
+                                },
+                                "50:Row": {
+                                    "style": "spacing:12",
+                                    "1:TextBox": {
+                                        "style": "color:#ffffff; fontSize:12",
+                                        "text": "여성",
+                                    },
+                                    "2:TextBox": {
+                                        "style": "color:#ffffff; fontSize:12",
+                                        "text": "근거리",
+                                    },
+                                },
+                                "3:Row": {
+                                    "style": "spacing:4",
+                                    "1:TextBox": {
+                                        "style": "color:#ffffff; fontSize:12",
+                                        "boxStyle": "padding:4,2,4,2; color:#64CD3C; round:2;",
+                                        "text": "DP-Recovery",
+                                    },
+                                    "2:TextBox": {
+                                        "style": "color:#ffffff; fontSize:12",
+                                        "boxStyle": "padding:4,2,4,2; color:#FFD228; round:2;",
+                                        "text": "DPS",
+                                    },
+                                },
+                            },
+                        }
+                    }
+                },
+                "2:ColumnTitle": {
+                    "key": "ilustIndex",
+                    "style": "titleSpacing:12; crossAlignment:start;",
+                    "titleStyle": "fontSize:18",
+                    "title": "일러스트",
+                    "indexStyle": "length:4; width:32; height:32; start:1; spacing:4;",
+                    "indexIcon": "0:address://icon++/elite/elite_0.png; 1:address://icon++/elite/elite_1.png; 2:address://icon++/elite/elite_2.png;",
+                    "12:ImageButton": {
+                        "style": "round:2;",
+                        "image": "address://image++/character/bagpipe_race1.png"
+                    }
+                },
+                "444:ColumnTitle": {
+                    "style": "titleSpacing:12; ",
+                    "titleStyle": "fontSize:18",
+                    "title": "프로필",
+                    "2:Text": {
+                        "style": "color:#9c9fa4,#000000; fontSize:14;",
+                        "text": "profile-info"
+                    }
+                },
+                "333:ColumnTitle": {
+                    "style": "titleSpacing:12; ",
+                    "titleStyle": "fontSize:18",
+                    "title": "특성",
+                    "2:Text": {
+                        "style": "color:#9c9fa4,#000000; fontSize:14;",
+                        "text": "traits-info"
+                    }
+                },
+                "222:ColumnTitle": {
+                    "style": "titleSpacing:12; ",
+                    "titleStyle": "fontSize:18",
+                    "title": "잠재력 돌파",
+                    "11:ListView": {
+                        "key": "potentialIdx",
+                        "style": "spacing:4;",
+                        "builder": "item:0; length:5; index:potentialIdx",
+                        "0:RowIconText": {
+                            "style": "iconSize:14; textColor:#9c9fa4,#000000; fontSize:14;",
+                            "icon": "address://icon++/potential/potential_$potentialIdx+2$.png"
+                            "text": "potential#$potentialIdx$-info"
+                        }
+                    }
+                },
+                "6:ColumnTitle": {
+                    "key": "statusId",
+                    "style": "titleSpacing:12; spacing:8; crossAlignment:start;",
+                    "titleStyle": "fontSize:18",
+                    "title": "스테이터스",
+                    "indexStyle": "length:*elite-count; width:24; height:24; start:1; spacing:4;",
+                    "indexIcon": "0:AD://icon++/elite/elite_0.png; 1:AD://icon++/elite/elite_1.png; 2:AD://icon++/elite/elite_2.png;",
+                    "0:Column": {
+                        "style": "crossAlignment:end",
+                        "111:Slider": {
+                            "key": "statusLv",
+                            "style": "min:1; max:TS://status#$statusId$-lv-max; start:1;"
+                        },
+                        "1:RowContainer": {
+                            "style": "spacing:18; padding:0,8,0,8; crossAlignment:start;",
+                            "0:ColumnExpanded": {
+                                "style": "spacing:4; flex:1; crossAlignment:start;",
+                                "0:statView": {
+                                    "name": "title-status-hp",
+                                    "level": "$statusLv$",
+                                    "statRang": "TS://status#$statusId$-hp",
+                                    "indexRang": "TS://status#$statusId$-lv"
+                                },
+                                "1:statView": {
+                                    "name": "title-status-atk",
+                                    "level": "$statusLv$",
+                                    "statRang": "TS://status#$statusId$-atk",
+                                    "indexRang": "TS://status#$statusId$-lv"
+                                },
+                                "2:statView": {
+                                    "name": "title-status-def",
+                                    "level": "$statusLv$",
+                                    "statRang": "TS://status#$statusId$-def",
+                                    "indexRang": "TS://status#$statusId$-lv"
+                                },
+                                "3:statView": {
+                                    "name": "title-status-mdef",
+                                    "level": "$statusLv$",
+                                    "statRang": "TS://status#$statusId$-mdef",
+                                    "indexRang": "TS://status#$statusId$-lv"
+                                }
+                            },
+                            "1:ColumnExpanded": {
+                                "style": "spacing:4; flex:1; crossAlignment:start;",
+                                "1:statView2": {
+                                    "name": "코스트",
+                                    "info": "13",
+                                },
+                                "2:statView2": {
+                                    "name": "저지 수",
+                                    "info": "2",
+                                },
+                                "3:statView2": {
+                                    "name": "재배치 시간",
+                                    "info": "13",
+                                },
+                                "4:statView2": {
+                                    "name": "공격속도",
+                                    "info": "1.3",
+                                },
+                            },
+                        }
+                    },
+                    "123:ColumnTitle": {
+                        "style": "titleSpacing:8;",
+                        "titleStyle": "fontSize:14",
+                        "title": "공격 범위",
+                        "1:RowContainer": {
+                            "style": "crossAlignment:start; mainAlignment:start; spacing:8;",
+                            "0:ImageCo": {
+                                "style": "elevation:18; round:0; width:64; height:64; backgroundColor:#ffffff",
+                                "image": "address://icon++/character/aosta.png"
+                            }
+                        }
+                    },
+                    "5:ColumnTitle": {
+                        "active": "NULL(TS://elite#$statusId$-upgrade-mat#0-code);",
+                        "style": "titleSpacing:8;",
+                        "titleStyle": "fontSize:14",
+                        "title": "정예화 업그레이드 재료",
+                        "1:RowContainer": {
+                            "style": "crossAlignment:start; mainAlignment:start; spacing:8;",
+                            "0:materialView": {
+                                "name": "elite#$statusId$-upgrade-mat#0-name",
+                                "code": "TS://elite#$statusId$-upgrade-mat#0-code",
+                                "rare": "TS://elite#$statusId$-upgrade-mat#0-rare",
+                                "count": "TS://elite#$statusId$-upgrade-mat#0-count"
+                            },
+                            "1:materialView": {
+                                "name": "elite#$statusId$-upgrade-mat#1-name",
+                                "code": "TS://elite#$statusId$-upgrade-mat#1-code",
+                                "rare": "TS://elite#$statusId$-upgrade-mat#1-rare",
+                                "count": "TS://elite#$statusId$-upgrade-mat#1-count"
+                            },
+                            "2:materialView": {
+                                "name": "elite#$statusId$-upgrade-mat#2-name",
+                                "code": "TS://elite#$statusId$-upgrade-mat#2-code",
+                                "rare": "TS://elite#$statusId$-upgrade-mat#2-rare",
+                                "count": "TS://elite#$statusId$-upgrade-mat#2-count"
+                            },
+                            "3:materialView": {
+                                "name": "elite#$statusId$-upgrade-mat#3-name",
+                                "code": "TS://elite#$statusId$-upgrade-mat#3-code",
+                                "rare": "TS://elite#$statusId$-upgrade-mat#3-rare",
+                                "count": "TS://elite#$statusId$-upgrade-mat#3-count"
+                            }
+                        }
+                    }
+                },
+                "1230:ColumnTitle": {
+                    "key": "talentLvIndex",
+                    "style": "titleSpacing:12; spacing:12;",
+                    "titleStyle": "fontSize:18",
+                    "title": "재능",
+                    "0:talentView": {
+                        "key": "talentLv0",
+                        "icon": "address://icon++/skill/skill_icon_bagpipe_3.png",
+                        "name": "talent#0-lv#$talentLv0$-name",
+                        "info": "talent#0-lv#$talentLv0$-info",
+                        "level": "2"
+                    },
+                    "1:talentView": {
+                        "key": "talentLv1",
+                        "icon": "address://icon++/skill/skill_icon_bagpipe_3.png",
+                        "name": "talent#1-lv#$talentLv1$-name",
+                        "info": "talent#1-lv#$talentLv1$-info",
+                        "level": "1"
+                    }
+                },
+                "12:ColumnTitle": {
+                    "style": "titleSpacing:12; spacing:16;",
+                    "titleStyle": "fontSize:18",
+                    "title": "인프라 스킬",
+                    "0:infraView": {
+                        "key": "infra0Lv",
+                        "icon": "address://icon++/skill/skill_icon_bagpipe_3.png",
+                        "name": "infra#0-lv#$infra0Lv$-name",
+                        "info": "infra#0-lv#$infra0Lv$-info",
+                        "level": "1"
+                    },
+                    "1:infraView": {
+                        "key": "infra1Lv",
+                        "icon": "address://icon++/skill/skill_icon_bagpipe_3.png",
+                        "name": "infra#1-lv#$infra1Lv$-name",
+                        "info": "infra#1-lv#$infra1Lv$-info",
+                        "level": "1"
+                    },
+                    "2:infraView": {
+                        "key": "infra2Lv",
+                        "icon": "address://icon++/skill/skill_icon_bagpipe_3.png",
+                        "name": "infra#2-lv#$infra2Lv$-name",
+                        "info": "infra#2-lv#$infra2Lv$-info",
+                        "level": "1"
+                    }
+                },
+                "7:ColumnTitle": {
+                    "key": "skillId",
+                    "style": "titleSpacing:12; spacing:18;",
+                    "titleStyle": "fontSize:18",
+                    "title": "스킬 정보",
+                    "indexStyle": "length:3; width:24; height:24; start:1; spacing:4;",
+                    "indexIcon": "",
+                    "1:NumberIndex": {
+                        "key": "skillLv",
+                        "style": "width:24; height:24; length:10; start:1; spacing:8;",
+                        "titleStyle": "fontSize:14;",
+                        "title": "레벨",
+                        "iconStyle": ""
+                    },
+                    "2:skillView": {
+                        "index": "$skillId$",
+                        "level": "$skillLv$"
+                    }
+                },
+                "999:ColumnTitle": {
+                    "key": "moduleSelectIndex",
+                    "style": "titleSpacing:12; spacing:12;",
+                    "titleStyle": "fontSize:18",
+                    "title": "모듈",
+                    "indexStyle": "length:0; width:24; height:24; start:1; spacing:4;",
+                    "indexIcon": "",
+                    "111:Row": {
+                        "style": "crossAlignment:end; spacing:12",
+                        "0:Text": {
+                            "style": "color:#ffffff; fontSize:18",
+                            "text": "캐슬브레이커 탄창"
+                        },
+                        "1:Text": {
+                            "style": "color:#9c9fa4; fontSize:12",
+                            "text": "타입 - SPC-X"
+                        }
+                    },
+                    "0:Row": {
+                        "style": "crossAlignment:start; spacing:12",
+                        "0:Expanded": {
+                            "style": "flex:2",
+                            "12:ImageButton": {
+                                "style": "elevation:18; round:2; backgroundColor:#9c9fa4",
+                                "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/module/uniequip_002_bpipe.png",
+                            }
+                        }
+                    },
+                    "1111:ColumnTitle": {
+                        "style": "titleSpacing:4;",
+                        "titleStyle": "fontSize:14",
+                        "title": "기초 수치 변화",
+                        "0:Row": {
+                            "style": "spacing:18;",
+                            "0:Expanded": {
+                                "style": "flex:1",
+                                "1:statView2": {
+                                    "name": "체력",
+                                    "info": "+120",
+                                },
+                            },
+                            "1:Expanded": {
+                                "style": "flex:1",
+                                "2:statView2": {
+                                    "name": "공격력",
+                                    "info": "+55",
+                                },
+                            },
+                        },
+                    },
+                    "123:ColumnTitle": {
+                        "style": "titleSpacing:2;",
+                        "titleStyle": "fontSize:14",
+                        "title": "공격범위 증가",
+                        "12:ImageButton": {
+                            "style": "elevation:18; width:74; height:74; round:2; backgroundColor:#ffffff",
+                            "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/module/uniequip_002_bpipe.png",
+                        },
+                    },
+                    "1:ColumnTitle": {
+                        "style": "titleSpacing:2;",
+                        "titleStyle": "fontSize:14",
+                        "title": "모듈 퀘스트",
+                        "1:TextBox": {
+                            "style": "color:#9c9fa4; fontSize:14",
+                            "text": "1. 전투 중 빌리지 않은 백파이프로 누적 80명의 적을 섬멸."
+                      "2. 4-5 3성 클리어 ; 반드시 빌리지 않은 백파이프를 포함해야 하며, 백파이프를 사용하여 최소 4명의 아츠 가드를 처치",
+                        },
+                    },
+                    "2:ColumnTitle": {
+                        "style": "titleSpacing:2;",
+                        "titleStyle": "fontSize:14",
+                        "title": "잠금 해제 시 필요한 조건",
+                        "1:TextBox": {
+                            "style": "color:#9c9fa4; fontSize:12",
+                            "text": "2차 정예화 레벨 60 이상, 신뢰도 100% 이상",
+                        },
+                        "2:RowContainer": {
+                            "style": "crossAlignment:start; mainAlignment:start; spacing:8;",
+                            "0:materialView": {
+                                "name": "module#0-up-mat#0-name",
+                                "code": "*module#0-up-mat#0-code",
+                                "rare": "*module#0-up-mat#0-rare",
+                                "count": "*module#0-up-mat#0-count",
+                            },
+                            "1:materialView": {
+                                "name": "module#0-up-mat#1-name",
+                                "code": "*module#0-up-mat#1-code",
+                                "rare": "*module#0-up-mat#1-rare",
+                                "count": "*module#0-up-mat#1-count",
+                            },
+                            "2:materialView": {
+                                "name": "module#0-up-mat#2-name",
+                                "code": "*module#0-up-mat#2-code",
+                                "rare": "*module#0-up-mat#2-rare",
+                                "count": "*module#0-up-mat#2-count",
+                            },
+                        },
+                    },
+                },
+                "01234:SizeBox": {
+                    "style": "height:48;"
+                },
+                "11234:RowBox": {
+                    "style": "height:48;"
+                }
+            }
+        },
+        "1:MainColumn": {
+            "style": "padding:18,18,18,18; color:#ffffff,#dddddd; spacing:48;",
+            "title": "",
+            "124:ColumnTitle": {
+                "style": "titleSpacing:8; ",
+                "titleStyle": "fontSize:18",
+                "title": "캐릭터 정보",
+                "0:Column": {
+                    "style": "crossAlignment:start; spacing:8;",
+                    "50:Row": {
+                        "style": "spacing:12",
+                        "11:Text": {
+                            "style": "color:#ffffff; fontSize:18",
+                            "text": "★★★★★★"
+                        },
+                        "1:TextBox": {
+                            "style": "color:#ffffff; fontSize:12",
+                            "text": "뱅가드"
+                        },
+                        "2:TextBox": {
+                            "style": "color:#ffffff; fontSize:12",
+                            "text": "빅토리아"
+                        }
+                    },
+                    "0:RowContainer": {
+                        "style": "spacing:12",
+                        "0:Row": {
+                            "style": "spacing:4",
+                            "12:ImageCo": {
+                                "style": "elevation:18; round:2; width:74; height:74; backgroundColor:#ffffff",
+                                "image": "address://icon++/character/absinthe.png"
+                            },
+                            "9:Column": {
+                                "style": "crossAlignment:start; spacing:4;",
+                                "7:ImageCo": {
+                                    "style": "elevation:18; round:2; width:36; height:36; backgroundColor:#000000",
+                                    "image": "address://icon++/class/class_vanguard.png"
+                                },
+                                "8:ImageCo": {
+                                    "style": "elevation:18; round:2; width:36; height:36; backgroundColor:#000000",
+                                    "image": "address://icon++/group/group_icon_victoria.png"
+                                }
+                            }
+                        },
+                        "1:Column": {
+                            "style": "crossAlignment:start; spacing:8",
+                            "0:Text": {
+                                "style": "color:#ffffff; fontSize:18",
+                                "text": "백파이프"
+                            },
+                            "50:Row": {
+                                "style": "spacing:12",
+                                "1:TextBox": {
+                                    "style": "color:#ffffff; fontSize:12",
+                                    "text": "여성"
+                                },
+                                "2:TextBox": {
+                                    "style": "color:#ffffff; fontSize:12",
+                                    "text": "근거리"
+                                }
+                            },
+                            "3:Row": {
+                                "style": "spacing:4",
+                                "1:TextBox": {
+                                    "style": "color:#ffffff; fontSize:12",
+                                    "boxStyle": "padding:4,2,4,2; color:#64CD3C; round:2;",
+                                    "text": "DP-Recovery"
+                                },
+                                "2:TextBox": {
+                                    "style": "color:#ffffff; fontSize:12",
+                                    "boxStyle": "padding:4,2,4,2; color:#FFD228; round:2;",
+                                    "text": "DPS"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "999:ColumnTitle": {
+                "key": "moduleSelectIndex",
+                "style": "titleSpacing:12; spacing:12;",
+                "titleStyle": "fontSize:18",
+                "title": "모듈",
+                "indexStyle": "length:0; width:24; height:24; start:1; spacing:4;",
+                "indexIcon": "",
+                "111:Row": {
+                    "style": "crossAlignment:end; spacing:12",
+                    "0:Text": {
+                        "style": "color:#ffffff; fontSize:18",
+                        "text": "캐슬브레이커 탄창",
+                    },
+                    "1:Text": {
+                        "style": "color:#9c9fa4; fontSize:12",
+                        "text": "타입 - SPC-X",
+                    },
+                },
+                "0:Row": {
+                    "style": "crossAlignment:start; spacing:12",
+                    "0:Expanded": {
+                        "style": "flex:2",
+                        "12:ImageButton": {
+                            "style": "elevation:18; round:2; backgroundColor:#9c9fa4",
+                            "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/module/uniequip_002_bpipe.png",
+                        },
+                    },
+                    "1:Expanded": {
+                        "style": "flex:1",
+                        "1:Column": {
+                            "style": "crossAlignment:start; spacing:4",
+                        },
+                    },
+                },
+                "1111:ColumnTitle": {
+                    "style": "titleSpacing:4;",
+                    "titleStyle": "fontSize:14",
+                    "title": "기초 수치 변화",
+                    "0:Row": {
+                        "style": "spacing:18;",
+                        "0:Expanded": {
+                            "style": "flex:1",
+                            "1:statView2": {
+                                "name": "체력",
+                                "info": "+120",
+                            },
+                        },
+                        "1:Expanded": {
+                            "style": "flex:1",
+                            "2:statView2": {
+                                "name": "공격력",
+                                "info": "+55",
+                            },
+                        },
+                    },
+                },
+                "123:ColumnTitle": {
+                    "style": "titleSpacing:2;",
+                    "titleStyle": "fontSize:14",
+                    "title": "공격범위 증가",
+                    "12:ImageButton": {
+                        "style": "elevation:18; width:74; height:74; round:2; backgroundColor:#ffffff",
+                        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/module/uniequip_002_bpipe.png",
+                    },
+                },
+                "1:ColumnTitle": {
+                    "style": "titleSpacing:2;",
+                    "titleStyle": "fontSize:14",
+                    "title": "모듈 퀘스트",
+                    "1:TextBox": {
+                        "style": "color:#9c9fa4; fontSize:14",
+                        "text": "1. 전투 중 빌리지 않은 백파이프로 누적 80명의 적을 섬멸."
+                    "2. 4-5 3성 클리어 ; 반드시 빌리지 않은 백파이프를 포함해야 하며, 백파이프를 사용하여 최소 4명의 아츠 가드를 처치",
+                    },
+                },
+                "2:ColumnTitle": {
+                    "style": "titleSpacing:2;",
+                    "titleStyle": "fontSize:14",
+                    "title": "잠금 해제 시 필요한 조건",
+                    "1:TextBox": {
+                        "style": "color:#9c9fa4; fontSize:12",
+                        "text": "2차 정예화 레벨 60 이상, 신뢰도 100% 이상",
+                    },
+                    "2:RowContainer": {
+                        "style": "crossAlignment:start; mainAlignment:start; spacing:8;",
+                        "0:materialView": {
+                            "name": "module#0-up-mat#0-name",
+                            "code": "*module#0-up-mat#0-code",
+                            "rare": "*module#0-up-mat#0-rare",
+                            "count": "*module#0-up-mat#0-count",
+                        },
+                        "1:materialView": {
+                            "name": "module#0-up-mat#1-name",
+                            "code": "*module#0-up-mat#1-code",
+                            "rare": "*module#0-up-mat#1-rare",
+                            "count": "*module#0-up-mat#1-count",
+                        },
+                        "2:materialView": {
+                            "name": "module#0-up-mat#2-name",
+                            "code": "*module#0-up-mat#2-code",
+                            "rare": "*module#0-up-mat#2-rare",
+                            "count": "*module#0-up-mat#2-count",
+                        },
+                    },
+                },
+            },
+            "01234:SizeBox": {
+                "style": "height:48;"
+            },
+            "11234:RowBox": {
+                "style": "height:48;"
+            }
+        }
+    },
+    "value": {
+        "elite-count": "3",
+        "skill-count": "3",
+        "skill#0-level-max": "10",
+        "skill#1-level-max": "10",
+        "skill#2-level-max": "10",
+        "module#0-up-mat#0-code": "5_mdb",
+        "module#0-up-mat#0-rare": "5",
+        "module#0-up-mat#0-count": "4",
+        "module#0-up-mat#1-code": "5_d32s",
+        "module#0-up-mat#1-rare": "5",
+        "module#0-up-mat#1-count": "2",
+        "module#0-up-mat#2-code": "gold",
+        "module#0-up-mat#2-rare": "4",
+        "module#0-up-mat#2-count": "8000"
+    },
+    "translator": {
+        "kr": {
+            "title-talent": "재능",
+            "profile-info": "빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.",
+            "traits-info": "적 처치 시 배치 코스트 +1, 퇴각 시 초기 배치 코스트 반환",
+            "title-status-hp": "체력",
+            "title-status-atk": "공격력",
+            "title-status-def": "방어력",
+            "title-status-mdef": "마법 저항력",
+            "status#0-lv": "1,50",
+            "status#1-lv": "1,80",
+            "status#2-lv": "1,90",
+            "status#0-lv-max": "50",
+            "status#1-lv-max": "80",
+            "status#2-lv-max": "90",
+            "status#0-hp": "975,1355",
+            "status#0-atk": "250,369",
+            "status#0-def": "173,241",
+            "status#0-mdef": "0,0",
+            "status#1-hp": "1355,1738",
+            "status#1-atk": "369,492",
+            "status#1-def": "241,313",
+            "status#1-mdef": "0,0",
+            "status#2-hp": "1738,2484",
+            "status#2-atk": "492,586",
+            "status#2-def": "313,382",
+            "status#2-mdef": "0,0",
+            "elite#1-upgrade-mat#0-code": "gold",
+            "elite#1-upgrade-mat#0-rare": "4",
+            "elite#1-upgrade-mat#0-name": "용문폐",
+            "elite#1-upgrade-mat#0-count": "30000",
+            "elite#1-upgrade-mat#1-code": "chip_vgd1",
+            "elite#1-upgrade-mat#1-rare": "3",
+            "elite#1-upgrade-mat#1-name": "뱅가드 칩",
+            "elite#1-upgrade-mat#1-count": "5",
+            "elite#1-upgrade-mat#2-code": "2_poly",
+            "elite#1-upgrade-mat#2-rare": "2",
+            "elite#1-upgrade-mat#2-name": "폴리에스테르",
+            "elite#1-upgrade-mat#2-count": "10",
+            "elite#1-upgrade-mat#3-code": "2_kton",
+            "elite#1-upgrade-mat#3-rare": "2",
+            "elite#1-upgrade-mat#3-name": "아케톤 응집체",
+            "elite#1-upgrade-mat#3-count": "3",
+            "elite#2-upgrade-mat#0-code": "gold",
+            "elite#2-upgrade-mat#0-rare": "4",
+            "elite#2-upgrade-mat#0-name": "용문폐",
+            "elite#2-upgrade-mat#0-count": "180000",
+            "elite#2-upgrade-mat#1-code": "chip_vgd3",
+            "elite#2-upgrade-mat#1-rare": "5",
+            "elite#2-upgrade-mat#1-name": "뱅가드 듀얼 칩",
+            "elite#2-upgrade-mat#1-count": "4",
+            "elite#2-upgrade-mat#2-code": "5_poly",
+            "elite#2-upgrade-mat#2-rare": "5",
+            "elite#2-upgrade-mat#2-name": "중합제",
+            "elite#2-upgrade-mat#2-count": "4",
+            "elite#2-upgrade-mat#3-code": "4_rock",
+            "elite#2-upgrade-mat#3-rare": "4",
+            "elite#2-upgrade-mat#3-name": "정제 원암",
+            "elite#2-upgrade-mat#3-count": "9",
+            "potential#0-info": "배치 비용 -1",
+            "potential#1-info": "첫 번째 재능 향상(+3%)",
+            "potential#2-info": "공격력 +25",
+            "potential#3-info": "두 번째 재능 향상(+2)",
+            "potential#4-info": "배치 비용 -1",
+            "talent#0-lv#0-name": "정밀 장전",
+            "talent#0-lv#0-info": "매 공격이 25% 확률로 공격력이 110% 까지 상승하고, 1명을 추가로 공격",
+            "talent#0-lv#1-name": "정밀 장전",
+            "talent#0-lv#1-info": "매 공격이 25% 확률로 공격력이 130% 까지 상승하고, 1명을 추가로 공격",
+            "talent#1-lv#0-name": "군사 전통",
+            "talent#1-lv#0-info": "팀 내 모든 [뱅가드] 오퍼레이터의 초기 SP +6",
+            "infra#0-lv#0-open": "초기",
+            "infra#0-lv#0-target": "숙소",
+            "infra#0-lv#0-name": "농요",
+            "infra#0-lv#0-info": "숙소에 배치 시, 자신의 컨디션 회복 속도 +0.55; 동시에 해당 숙소 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도 +0.1(동종효과 중 가장 높은 수치만 적용)",
+            "infra#1-lv#0-open": "2차 정예화",
+            "infra#1-lv#0-target": "가공소",
+            "infra#1-lv#0-name": "훈련 만전",
+            "infra#1-lv#0-info": "가공소에 배치 후 칩 가공 시, 부산물 산출 확률 +80%",
+            "skill#0-charge": "자동 회복",
+            "skill#0-active": "자동 발동",
+            "skill#0-type": " 패시브",
+            "skill#0-name": "신속공격γ",
+            "skill#0-lv#0-info": "공격력 +20%, 공격 속도 +20",
+            "skill#0-lv#0-duration": "35",
+            "skill#0-lv#0-sp#0": "35",
+            "skill#0-lv#0-sp#1": "35",
+            "skill#0-lv#1-mat#0-code": "5_d32s",
+            "skill#0-lv#1-mat#0-rare": "5",
+            "skill#0-lv#1-mat#0-name": "용문폐",
+            "skill#0-lv#1-mat#0-count": "5",
+            "module#0-up-mat#0-name": "모듈 데이터 블록",
+            "module#0-up-mat#1-name": "D32강",
+            "module#0-up-mat#2-name": "용문폐"
+        }
+    },
+    "address": {
+        "icon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/",
+        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
+    }
+}
