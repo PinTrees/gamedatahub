@@ -1,0 +1,167 @@
+<root>
+  <translation country="kr" >
+    <ts_node code="material.rare#5.poly.name" ts="중합제"/>
+    <ts_node code="material.rare#5.poly.info" ts="복잡한 액체 가공품. 고급 강화에 사용된다."/>
+    <ts_node code="material.rare#5.poly.record" ts="정밀한 장비를 만들 때 자주 사용되는 재료. 대부분 차단 코팅용으로 사용된다. 아주 강한 접착 효과가 있어 오리지늄이 휘발되지 않도록 해 준다."/>
+
+    <ts_node code="material.rare#5.bipolar.name" ts="바이폴라 나노플레이크 칩"/>
+    <ts_node code="material.rare#5.bipolar.info" ts="현대 공업기술의 결정체. 고급 강화에 사용된다."/>
+    <ts_node code="material.rare#5.bipolar.record" ts="특정 범위 내의 오리지늄에 민감하게 반응하는 장치. 범위 내의 무기와 설비에 사용된 오리지늄의 민감도를 높여, 오리지늄 아츠를 저장하는 일을 가능하게 한다."/>
+
+    <ts_node code="material.rare#5.d32.name" ts="D32강"/>
+    <ts_node code="material.rare#5.d32.info" ts="자연에는 존재하지 않는 인공 고체 금속 재료. 고급 강화에 사용된다."/>
+    <ts_node code="material.rare#5.d32.record" ts="우수한 강도를 자랑하며 흠집 하나 허락하지 않는 광물. 아츠 전도율이 높아 무기 재료의 새로운 표준이 되었다."/>
+  </translation>
+
+  <translation country="kr" >
+    <ts_node code="material.rare#4.rma.name" ts="RMA70-24"/>
+    <ts_node code="material.rare#4.rma.info" ts="감도와 전도성이 매우 우수한 광물. D32강의 재료 중 하나로써, 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.rma.record" ts="복잡한 다면체로 이루어진 천연 광물. 1024년에 발견되었으며, 방대한 산업 체계 중에서도 아츠 분야에서만큼은 다른 광물보다 월등히 우수한 가치를 가지고 있다는 점이 명백히 밝혀졌다."/>
+
+    <ts_node code="material.rare#4.stone.name" ts="고급연마석"/>
+    <ts_node code="material.rare#4.stone.info" ts="무기 부품을 정밀하게 가공하는 데 이용되는 질 좋은 연마석. D32강의 재료 중 하나로써, 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.stone.record" ts="일반적인 연마석보다 더욱 안정된 물질 구조를 가진 연마석. 다른 물질과 화학반응을 일으킬 확률은 매우 낮다."/>
+
+    <ts_node code="material.rare#4.manga.name" ts="망간 중합체"/>
+    <ts_node code="material.rare#4.manga.info" ts="D32강의 재료 중 하나로써, 정제와 제련에 사용되는 금속 광물이다."/>
+    <ts_node code="material.rare#4.manga.record" ts="공업용 촉매를 만들 때 쓰이는 아주 희귀한 금속 광물. 촉매의 지속 시간이 길며 반복 사용 및 수증기 증류가 가능하다. 그러나 가공 공정이 워낙 복잡하여 많은 제조업체가 사용하길 꺼리고 있다."/>
+
+    <ts_node code="material.rare#4.kohl.name" ts="화이트 호스 콜"/>
+    <ts_node code="material.rare#4.kohl.info" ts="매우 작은 유기 화합물. 바이폴라 나노플레이크 칩의 재료 중 하나로써, 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.kohl.record" ts="로식 콜을 정제 및 가공하여 만들어낸 물질. 생산법을 발견한 제조사의 이름에서 따온 명칭이다. 매우 긴박한 환경에서 아주 고차원적인 수준의 구조로 전환된다는 특징이 실험을 통해 밝혀졌다."/>
+
+    <ts_node code="material.rare#4.device.name" ts="개량 장치"/>
+    <ts_node code="material.rare#4.device.info" ts="최고급 기계장치. 바이폴라 나노플레이크 칩의 재료 중 하나로써, 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.device.record" ts="독자적으로 개조를 거듭한 장치. 용량을 최대한으로 확장했다. 성능이 대폭 향상되었으나 안정성은 약간 떨어졌다. 제작자의 사활을 건 열의와 집착이 절실하게 느껴진다."/>
+
+    <ts_node code="material.rare#4.keton.name" ts="아케톤 팩"/>
+    <ts_node code="material.rare#4.keton.info" ts="대량의 공업용 유기 화합물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.keton.record" ts="엔지니어 오퍼레이터들의 민감한 처리를 거쳐야만 얻을 수 있는 대량의 실험용 불안정성 케톤 제제. 고급 공업 재료인 만큼 아주 조심스럽게 다루어야 한다."/>
+
+    <ts_node code="material.rare#4.oriron.name" ts="이철 팩"/>
+    <ts_node code="material.rare#4.oriron.info" ts="값비싼 공업 재료. 중합제의 재료 중 하나로, 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.oriron.record" ts="엄선된 조건 아래에서 대량의 이철 결정을 이용해 주조된 이철 덩어리. 이철 소재 중에서도 가장 안정되어 있으며 가장 희귀한 형상을 하고 있다. 기존에 원재료로 이용되던 영역을 초월해 다양한 분야에 사용될 수 있는 고급 소재이다."/>
+
+    <ts_node code="material.rare#4.poly.name" ts="폴리에스테르 팩"/>
+    <ts_node code="material.rare#4.poly.info" ts="공업 제조에 꼭 필요한 폴리에스테르 팩. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.poly.record" ts="정제를 끝낸 소재. 엄선된 원재료만 사용하는 조직 및 연구기관에서 주로 구매한다. 어쩌면 차세대 소재의 시금석이라고 부를 수 있을지도 모른다."/>
+
+    <ts_node code="material.rare#4.sugar.name" ts="포도당 팩"/>
+    <ts_node code="material.rare#4.sugar.info" ts="공장에서 생산된 대량의 포도당. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.sugar.record" ts="아주 매력적으로 정제된 포도당 덩어리. 보통은 약을 만드는 데 쓰인다. 가공하기 전에 몰래 먹지 않도록 주의할 것! 식용이 아니므로 식품으로서 판매하는 일이 있어선 안 된다! 절대로!"/>
+
+    <ts_node code="material.rare#4.rock.name" ts="정제 원암"/>
+    <ts_node code="material.rare#4.rock.info" ts="지표면에서 채굴된 커다란 광석 덩어리를 제련한 것으로, 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#4.rock.record" ts="오리지늄 암석을 정제하면 원래 모양과 상당히 달라지며, 정제 비용과 소비량이 급격히 상승한다. 규칙적인 절단면을 보고 있으면 누구나 감탄을 금치 못할 것이다. 공업 기술과 자연이 절묘하게 조화된 매력이 있다."/>
+
+    <ts_node code="material.rare#4.gell.name" ts="중합젤"/>
+    <ts_node code="material.rare#4.gell.info" ts="극 고강도를 갖춘 가소성 재료. 다양한 강화에 사용할 수 있다."/>
+    <ts_node code="material.rare#4.gell.record" ts="젤라틴을 재료로 많은 실험과 반복 테스트를 거쳐 탄생한 인공재료.높은 스트레스 환경에서도 안정을 유지할 수 있는 성질덕분에 하이엔드 프로젝트에서 중요한 입지를 가지고 있다."/>
+
+    <ts_node code="material.rare#4.alloy.name" ts="열합금 팩"/>
+    <ts_node code="material.rare#4.alloy.info" ts="생산량이 적은 전자 공업용 특수 고융점 합금. 다양한 강화에 사용이 가능하다."/>
+    <ts_node code="material.rare#4.alloy.record" ts="열합금을 복잡한 공업처리를 거쳐 더욱 가공하였으며, 일정한 온도에서 고액혼합상태의 안정을 보장했기에 첨단공업의 제품 연구개발에서 대체제가 없다."/>
+  </translation>
+
+  <translation country="kr" >
+    <ts_node code="material.rare#3.rma.name" ts="RMA70-12"/>
+    <ts_node code="material.rare#3.rma.info" ts="감도와 전도성이 좋은 광물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.rma.record" ts="복잡한 다면체로 이루어진 천연 광물. 현대 공업에서 그 진가를 발휘하기 훨씬 전, 아츠가 발달하기 시작하던 시점부터 이미 그 가치는 입증된 바 있다."/>
+
+    <ts_node code="material.rare#3.stone.name" ts="연마석"/>
+    <ts_node code="material.rare#3.stone.info" ts="무기 부품을 가공하는 데 이용되는 연마석. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.stone.record" ts="폭발하지 않고, 부서지지도, 깨지지도 않는다. 부품 가공 공정에서 중요한 위치를 차지하는 재료. 천연 소재라 안정성이 매우 높다."/>
+
+    <ts_node code="material.rare#3.manga.name" ts="망간 광석"/>
+    <ts_node code="material.rare#3.manga.info" ts="정제와 제련에 사용되는 금속 광물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.manga.record" ts="쓰임새가 다양한 공업용 촉매를 만들 때 쓰이는 금속 광물. 재가공 공정이 아주 복잡하여 정해진 순서대로 따르지 않으면 사고가 일어나는 경우가 많다."/>
+
+    <ts_node code="material.rare#3.kohl.name" ts="로식 콜"/>
+    <ts_node code="material.rare#3.kohl.info" ts="매우 작은 유기 화합물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.kohl.record" ts="품질이 우수한 공업용 매개체. 전달 물질의 보존과 방출을 반복하며 두 가지 형태를 오간다. 액화하면 알코올 성분과 비슷한 성질을 띠기 때문에, 엔지니어 오퍼레이터들은 근무 시간 중에 취한 것 같은 상태에 빠지곤 한다."/>
+
+    <ts_node code="material.rare#3.device.name" ts="리뉴얼 장치"/>
+    <ts_node code="material.rare#3.device.info" ts="최신식 기계장치. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.device.record" ts="리뉴얼 된 기계장치 세트. 같은 모양의 장치를 구조 리팩토링을 통해 드라이브 용량 문제를 해결했다. 물론 작동 시 에너지 소모량은 늘어났다."/>
+
+    <ts_node code="material.rare#3.keton.name" ts="아케톤 응집체 번들"/>
+    <ts_node code="material.rare#3.keton.info" ts="일정량 이상의 공업용 유기 화합물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.keton.record" ts="탄화수소를 제거하는 추가 작업을 거쳐 얻을 수 있는 중량의 케톤 제제. 공기에 접촉하면 산소 외의 분자와 금세 반응하는 특징이 있다. 폐기되는 양을 줄이기 위해 엔지니어 오퍼레이터의 지시에 따라 정밀하게 작업해야 한다."/>
+
+    <ts_node code="material.rare#3.oriron.name" ts="이철 번들"/>
+    <ts_node code="material.rare#3.oriron.info" ts="매우 희귀한 공업 재료. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.oriron.record" ts="가공 과정에서 인적 요인 외의 다른 원인으로 우연히 이철이 조합된 것. 이철 중에서도 극히 소수의 이철만 결정이 될 수 있으며, 일반적인 이철에 비교할 때 경도는 낮으나 높은 순도를 자랑한다."/>
+
+    <ts_node code="material.rare#3.poly.name" ts="폴리에스테르 번들"/>
+    <ts_node code="material.rare#3.poly.info" ts="공업 제조에 꼭 필요한 폴리에스테르 번들. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.poly.record" ts="한 단계 더 가공한 소재. 표준 사양에 부합하기 때문에 시장의 요구를 널리 충족한다. 특수한 재료를 가공할 때 사용된다."/>
+
+    <ts_node code="material.rare#3.sugar.name" ts="포도당 번들"/>
+    <ts_node code="material.rare#3.sugar.info" ts="공장에서 생산된 일정량 이상의 포도당. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.sugar.record" ts="열량이 높고 널리 쓰이는 포도당. 공업용으로 가공되기 전의 물건이며, 양은 해마다 감소하고 있다. 작업 공정에 참여하는 사람들과 관련이 있다고 한다."/>
+
+    <ts_node code="material.rare#3.rock.name" ts="원암 큐브 번들"/>
+    <ts_node code="material.rare#3.rock.info" ts="지표면에서 채굴된 커다란 광석 덩어리. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#3.rock.record" ts="오리지늄 암석 덩어리가 압축되는 과정에서 형성된 물질. 부서지기 쉽지만, 공업 기술이 발달한 현대에는 어렵지 않게 완벽한 상태로 채취할 수 있다. 다만 분류해서 보관하지 않으면 다른 용도의 석재와 쉽게 섞이곤 한다."/>
+
+    <ts_node code="material.rare#3.gell.name" ts="젤"/>
+    <ts_node code="material.rare#3.gell.info" ts="고강도 가소성 재료. 다양한 강화에서 사용 가능하며 제조소 합성 프로그램의 원료로도 자주 사용된다."/>
+    <ts_node code="material.rare#3.gell.record" ts="실험실에서 뜻밖에 탄생한 인공 재료. 우수한 고/저온도 내성을 가지고 있으며 강도가 높고 무게가 가벼워 가공하기 쉽기에, 고급산업에 널리 활용되고 있다."/>
+
+    <ts_node code="material.rare#3.alloy.name" ts="열합금"/>
+    <ts_node code="material.rare#3.alloy.info" ts="전자 공업용 특수 고융점 합금. 다양한 강화에 사용 가능하며 제조소 합성 프로그램의 원료로도 자주 사용된다."/>
+    <ts_node code="material.rare#3.alloy.record" ts="희귀 금속을 용련하여 만든 합금 재료로, 전자 소자와 전기회로기판을 만드는 데 사용되며, 첨단 전자공업에서 없어서는 안 될 재료이다."/>
+  </translation>
+  
+  <translation country="kr" >
+    <ts_node code="material.rare#2.device.name" ts="장치"/>
+    <ts_node code="material.rare#2.device.info" ts="기계장치. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#2.device.record" ts="세트로 갖추어진 기계장치. 대량의 전자 부품으로 만들어졌다. 간단하면서도 실용적으로 설계되었기에 드라이브의 용량은 작지만 데이터로 꽉 차 있다."/>
+
+    <ts_node code="material.rare#2.keton.name" ts="아케톤 응집체"/>
+    <ts_node code="material.rare#2.keton.info" ts="소량의 공업용 유기 화합물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#2.keton.record" ts="특수한 처리를 통해 얻을 수 있는 소량의 응축된 케톤. 닫힌 상태의 분자 구조가 되기 쉬우므로 복잡한 처리 공정을 단순한 화학반응으로 바꾸어 낼 수 있다. 물론 일정 수준 이상의 기술 지원이 필요하다."/>
+
+    <ts_node code="material.rare#2.oriron.name" ts="이철"/>
+    <ts_node code="material.rare#2.oriron.info" ts="보기 드문 공업 재료. 제조소에서 합성 재료로 쓰이며 각종 가오하에 사용된다."/>
+    <ts_node code="material.rare#2.oriron.record" ts="비활성화 공정 중 이철 조각이 우연히 전이하여 이철이 되었다. 이철이 이 단계가 되면 일반적으로 안정된 상태가 되었다고 여긴다."/>
+
+    <ts_node code="material.rare#2.poly.name" ts="폴리에스테르"/>
+    <ts_node code="material.rare#2.poly.info" ts="공업 제조에 꼭 필요한 폴리에스테르. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#2.poly.record" ts="아직 강도가 부족하긴 하지만 기초적인 부품을 제작할 때는 사용할 수 있다. 서방형 제제의 성분으로도 쓰인다."/>
+
+    <ts_node code="material.rare#2.rock.name" ts="원암 큐브"/>
+    <ts_node code="material.rare#2.rock.info" ts="지표면에서 채굴된 광석 덩어리. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#2.rock.record" ts="작은 구멍이 촘촘히 박혀 있어, 공기 중에 휘발된 오리지늄을 흡착하는 용도로 쓰인다."/>
+
+    <ts_node code="material.rare#2.sugar.name" ts="포도당"/>
+    <ts_node code="material.rare#2.sugar.info" ts="공장에서 생산된 소량의 포도당. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#2.sugar.record" ts="자연에서 얻은 재료로 만든 꽤 귀중한 당분. 아아, 이 맛이야···. 마음이 편안해진다. 간식으로 먹는 용도는 아니지만 말이다."/>
+  </translation>
+  
+  <translation country="kr" >
+    <ts_node code="material.rare#1.device.name" ts="파손된 장치"/>
+    <ts_node code="material.rare#1.device.info" ts="고장 난 기계장치. 제조소에서 합성 재료로 쓰이며 각정 강화에 가용된다."/>
+    <ts_node code="material.rare#1.device.record" ts="고장 난 기계장치. 과거에 적이 무기나 방어구에 장착하여 사용했다. 격전 끝에 폐기되었지만, 안쪽의 부품은 여전히 사용 가치가 있다."/>
+  
+    <ts_node code="material.rare#1.keton.name" ts="디케톤"/>
+    <ts_node code="material.rare#1.keton.info" ts="극소량의 공업용 유기 화합물. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#1.keton.record" ts="아주 적은 양의 케톤. 엔지니어 오퍼레이터들은 이 물질을 재처리할 때 다른 안정된 구조에 접착되는 화학반응에 의해 진행되는 응고 현상을 이용하기도 한다."/>
+
+    <ts_node code="material.rare#1.oriron.name" ts="이철 조각"/>
+    <ts_node code="material.rare#1.oriron.info" ts="지극히 평범한 공업 재료. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#1.oriron.record" ts="금속 재료를 대규모로 가공한 후에 얻을 수 있는 부산물. 가소성이 높고, 산화되기 어려운 특성 때문에 금속의 용련 및 단계적인 재처리 시의 재료로 쓰인다."/>
+
+    <ts_node code="material.rare#1.poly.name" ts="에스테르 원료"/>
+    <ts_node code="material.rare#1.poly.info" ts="공업 제조에 꼭 필요한 에스테르 원료. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#1.poly.record" ts="근대 공업에서 요긴하게 쓰이던 소새 중 하나. 현대의 수많은 공업 제품을 탄생시킨 주인공이다. 다만 지금은 원료 상태라서 이대로는 거의 쓸모가 없다."/>
+
+    <ts_node code="material.rare#1.rock.name" ts="원암"/>
+    <ts_node code="material.rare#1.rock.info" ts="지표면에서 채굴된 광석. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#1.rock.record" ts="오리지늄이 파열되고 휘발된 곳에서 자주 발견된다. 유기물을 많이 함유한 것이 특징. 오리지늄 중에서는 상대적으로 채취하기 쉬운 편이다."/>
+
+    <ts_node code="material.rare#1.sugar.name" ts="대체당"/>
+    <ts_node code="material.rare#1.sugar.info" ts="천연 설탕의 대용품으로 공장에서 생간된 저렴한 인공감미료. 제조소에서 합성 재료로 쓰이며 각종 강화에 사용된다."/>
+    <ts_node code="material.rare#1.sugar.record" ts="살짝 단맛이 난다. 먹을 수 있을지도 모른다. 용액은 화학공업에 자주 사용된다."/>
+  </translation>
+</root>

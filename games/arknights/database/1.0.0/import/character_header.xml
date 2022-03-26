@@ -1,0 +1,46 @@
+<root>
+  <url_hub>
+    <node code="img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/" />
+    <node code="akn_img" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset/image/" />
+
+    <node code="illust" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
+    <node code="icon_ui" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset.image/ilust.character.raw/" />
+    <node code="audio" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/asset/audio/" />
+    <node code="language" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/language/" />
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/$version/" />
+  </url_hub>
+  <file_hub>
+    <node code="akn_img" url="files/arknights/asset/image/" />
+
+    <node code="img" url="files/arknights/asset.image/" />
+    <node code="illust" url="files/arknights/asset.image/ilust.charactor.raw/" />
+    <node code="language" url="files/arknights/language/" />
+    <node code="akn_database" url="files/arknights/database/$version/" />
+    <node code="audio" url="files/arknights/asset/audio/" />
+  </file_hub>
+
+  <urls>
+    <url_node code ="gender.female.icon" var="akn_img#stiker/gender/female.png"/>
+    <url_node code ="gender.male.icon" var="akn_img#stiker/gender/male.png"/>
+    
+    <url_node code ="class.vanguard.icon" var="akn_img#class/class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img#class/class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img#class/class_vanguard.png"/>
+    <url_node code ="class.icon" var="akn_img#class/class_vanguard.png"/>
+
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+    <url_node code ="group.icon" var="akn_img_group#group_icon_victoria.png"/>
+
+    <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
+    <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
+
+    <url_node code ="potential#1.icon" var="akn_img#potential/potential_0.png"/>
+    <url_node code ="potential#2.icon" var="akn_img#potential/potential_1.png"/>
+    <url_node code ="potential#3.icon" var="akn_img#potential/potential_2.png"/>
+    <url_node code ="potential#4.icon" var="akn_img#potential/potential_3.png"/>
+    <url_node code ="potential#5.icon" var="akn_img#potential/potential_4.png"/>
+  </urls>
+</root>

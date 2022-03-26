@@ -1,0 +1,194 @@
+<root>
+  <import>
+    <import_ndoe path="akn_database#import/character_header.xml"/>
+  </import>
+    
+  <style>
+    <color_node code="blue" value="FF1295E0"/>
+    <color_node code="orange" value="FFF69E21"/>
+    <color_node code="red" value="FFF33939"></color_node>
+  </style>
+  
+  <url_hub>
+    <node code="akn_database" url="https://github.com/PinTrees/gamedatahub/raw/master/arknights/database/$version/" />
+  </url_hub>
+  <file_hub>
+    <node code="akn_database" url="files/arknights/database/$version/" />
+  </file_hub>
+
+  <urls>
+    <url_node code ="translator" var="language#$contrycode/characters/bagpipe.xml"/>
+    <url_node code ="charicon" var="akn_img_charicon#bagpipe.png"/>
+    <url_node code ="profile" var="language#$contrycode/characters/profile/bagpipe.xml"/>
+
+    <url_node code ="elite_1" var="img#icon/sticker/elite_1.png"/>
+    <url_node code ="elite_2" var="img#icon/sticker/elite_2.png"/>
+
+    <url_node code ="potential#1.icon" var="akn_img#potential/potential_0.png"/>
+    <url_node code ="potential#2.icon" var="akn_img#potential/potential_1.png"/>
+    <url_node code ="potential#3.icon" var="akn_img#potential/potential_2.png"/>
+    <url_node code ="potential#4.icon" var="akn_img#potential/potential_3.png"/>
+    <url_node code ="potential#5.icon" var="akn_img#potential/potential_4.png"/>
+
+    <url_node code="infra_dorm_ao3" var="img#icon/infraskill/infra_dorm_ao3.png"/>
+    <url_node code="infra_ws_asc2" var="img#icon/infraskill/infra_ws_asc2.png"/>
+
+    <url_node code="skill#1.icon" var="akn_img#skill/raw/skill_icon_p_atkup_3.png"/>
+    <url_node code="skill#2.icon" var="akn_img#skill/raw/skill_icon_bagpipe_2.png"/>
+    <url_node code="skill#3.icon" var="akn_img#skill/raw/skill_icon_bagpipe_3.png"/>
+
+    <url_node code="illust.elite#0.illust" var="akn_img#character/illust/bagpipe.png"/>
+    <url_node code="illust.elite#2.illust" var="akn_img#character/illust/bagpipe_e2.png"/>
+    <url_node code="illust.race#1.illust" var="akn_img#character/illust/bagpipe_race1.png"/>
+  </urls>
+  
+  <header id="0" name="bagpipe" rare="6" group="victorya" gender="female" position="근거리" class="vangard" tags="tags" trust="trust.value"
+          ui="gender.icon=gender.female.icon,group.icon=group.icon,class.icon=class.vanguard.icon"
+          text="gender=gender.info,group=group.info=class=class.info">
+    <Producer illustrator="U介" artistlink="https://www.pixiv.net/users/915945" voice="丰崎爱生" vlink="https://www.google.com/search?q=Voice+Actor+%E4%B8%B0%E5%B4%8E%E7%88%B1%E7%94%9F"/>
+  </header>
+
+  <illust>
+    <illust_info code="illust.elite#0" ui="icon=illust.elite#0.icon,illust=illust.elite#0.illust" name="illust.elite#0.name" />
+    <illust_info code="illust.elite#2" ui="icon=illust.elite#2.icon,illust=illust.elite#2.illust" name="illust.elite#2.name" />
+    <illust_info code="illust.race#1" ui="icon=illust.elite#2.icon,illust=illust.race#1.illust" name="illust.race#1.name" />
+  </illust>
+  
+  <specificity title="specificity.title" info="specificity.info" />
+  <potential title="potential.title" >
+    <potential_info ui="icon=potential#1.icon" info="potential#1.info" />
+    <potential_info ui="icon=potential#2.icon" info="potential#2.info" />
+    <potential_info ui="icon=potential#3.icon" info="potential#3.info" />
+    <potential_info ui="icon=potential#4.icon" info="potential#4.info" />
+    <potential_info ui="icon=potential#5.icon" info="potential#5.info" />
+  </potential>
+  
+  <ability title="ability.title" 
+           menu="ability.menu#0,ability.menu#1,ability.menu#2" 
+           menuItem="ability.menu#0=ability#1.elite#1\ability#1.elite#2\ability#2.elite#2,ability.menu#1=ability#1.elite#1,ability.menu#2=ability#1.elite#2\ability#2.elite#2" >
+    <ability_info code="ability#1.elite#1" ui="unlock=elite_1" unlock="elite_1" name="ability#1.elite#1.name" info="ability#1.elite#1.info" />
+    <ability_info code="ability#1.elite#2" ui="unlock=elite_2" unlock="elite_2" name="ability#1.elite#2.name" info="ability#1.elite#2.info" />
+    <ability_info code="ability#2.elite#2" ui="unlock=elite_2" unlock="elite_2" name="ability#2.elite#2.name" info="ability#2.elite#2.info" />
+    <ability_info ui="unlock=elite_2" code="1_1+pt" unlock="elite_2" name="aa" info="ddd" />
+    <ability_info ui="unlock=elite_2" code="1_2+pt" unlock="elite_2" name="aaa" info="wcwdw" />
+    <ability_info ui="unlock=elite_2" code="2_1+pt" unlock="elite_2" name="2ed" info="cq3rfqrf" />
+  </ability>
+  
+  <elite ui="elite=elite_0/elite_1/elite_2" code="elite_0/elite_1/elite_2">
+    <upgrade_info code="elite_1" material="lmd/vg_3/poly_2/ketn_2" count="30000/5/10/3" />
+    <upgrade_info code="elite_2" material="lmd/vg_3/poly_5/rock_4" count="180000/4/4/9"/>
+  </elite>
+  
+  <status  menu="elite#0,elite#1,elite#2" >
+    <status_info code="elite#0" rang="rang_icon_1" level="1,50" hp="975/1355" atk="250/369" def="173/241" mdef="0/0" var="redeploy=70,cost=11,block=1,attackSpeed=1.0" stat="hp=975-1355,atk=250-369," />
+    <status_info code="elite#1" rang="rang_icon_1" level="1,80" hp="1355/1738" atk="369/492" def="241/313" mdef="0/0" var="redeploy=70,cost=13,block=1,attackSpeed=1.0"/>
+    <status_info code="elite#2" rang="rang_icon_1" level="1,90" hp="1738/2484" atk="492/586" def="313/382" mdef="0/0" var="redeploy=70,cost=13,block=1,attackSpeed=1.0"/>
+  </status>
+  
+  <infra title="infra.title" ui="button=elite_0/elite_1/elite_2"
+         menu="infra.menu#0,infra.menu#1,infra.menu#2,infra.menu#3" 
+         menuItem="infra.menu#0=infra#1.elite#0\infra#1.elite#1\infra#1.elite#2\infra#2.elite#2,infra.menu#1=infra#1.elite#0,infra.menu#2=infra#1.elite#1,infra.menu#3=infra#1.elite#2\infra#2.elite#2" >
+    <infra_info code="infra#1.elite#0" ui="icon=infra_dorm_ao3" unlock="elite_0" target="기숙사" name="infra#1.elite#0.name" info="infra#1.elite#0.info"/>
+    <infra_info code="infra#1.elite#1" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#1.name" info="infra#1.elite#1.info"/>
+    <infra_info code="infra#1.elite#2" ui="icon=infra_dorm_ao3" unlock="elite_1" target="기숙사" name="infra#1.elite#2.name" info="infra#1.elite#2.info"/>
+    <infra_info code="infra#2.elite#2" ui="icon=infra_ws_asc2" unlock="elite_2" target="가공소" name="infra#2.elite#2.name" info="infra#2.elite#2.info"/>
+  </infra>
+  
+  <skill_header>
+    <s_lv code="sklv1" material="2.SKILL=5" count="5" />
+    <s_lv code="sklv2" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
+    <s_lv code="sklv3" material="3.SKILL=8/2.ORI=4" count="8/4" />
+    <s_lv code="sklv4" material="3.SKILL=8/3.KTN=4/2.RCK=5" count="8/4/5" />
+    <s_lv code="sklv5" material="3.SKILL=8/3.ORI=6" count="8/6" />
+    <s_lv code="sklv6" material="4.SKILL=8/3.ALK=5/3.KTN=4" count="8/5/4" />
+  </skill_header>
+
+  <skill id="0" code="skill_icon_p_atkup_3" name="skill#1.name" unlock="elite_0" type="sp_auto/tr_manu"
+         tags="skill#1.tags"
+         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9" 
+         ui="icon=skill#1.icon" >
+    <s_lv code="sklv0" info="skill#1.lv#0.info" rang="1" unlock="elite_0" sp="45/0" eft="35" />
+    <s_lv code="sklv1" info="skill#1.lv#1.info" rang="1" unlock="elite_0" sp="44/0" eft="35" material="2.SKILL=5" count="5" />
+    <s_lv code="sklv2" info="skill#1.lv#2.info" rang="1" unlock="elite_0" sp="43/0" eft="35" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4"  />
+    <s_lv code="sklv3" info="skill#1.lv#3.info" rang="1" unlock="elite_0" sp="42/5" eft="35" />
+    <s_lv code="sklv4" info="skill#1.lv#4.info" rang="1" unlock="elite_1" sp="41/5" eft="35" />
+    <s_lv code="sklv5" info="skill#1.lv#5.info" rang="1" unlock="elite_1" sp="40/5" eft="35" />
+    <s_lv code="sklv6" info="skill#1.lv#6.info" rang="1" unlock="elite_1" sp="39/10" eft="35" />
+    <s_lv code="sklv7" info="skill#1.lv#7.info" rang="1" unlock="elite_2" sp="38/10" eft="35" material="4.SKILL=8/4.ALK=4/3.KTN=8" count="8/4/8" />
+    <s_lv code="sklv8" info="skill#1.lv#8.info" rang="1" unlock="elite_2" sp="37/10" eft="35" material="4.SKILL=12/4.RMA=4/4.MNG=7" count="12/4/7" />
+    <s_lv code="sklv9" info="skill#1.lv#9.info" rang="1" unlock="elite_2" sp="35/15" eft="35" material="4.SKILL=15/5.BIP=6/4.KTN=5" count="15/6/5" />
+  </skill>
+  <skill id="1" code="skill_icon_bagpipe_2" name="skill#2.name" unlock="elite_1"  type="sp_auto/tr_auto" 
+         tags="skill#2.tags"
+         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
+         ui="icon=skill#2.icon" >
+    <s_lv code="sklv0" info="skill#2.lv#0.info" rang="" unlock="elite_1" sp="7/0" />
+    <s_lv code="sklv1" info="skill#2.lv#1.info" rang="" unlock="elite_1" sp="7/0" material="2.SKILL=5" count="5"/>
+    <s_lv code="sklv2" info="skill#2.lv#2.info" rang="" unlock="elite_1" sp="7/0" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
+    <s_lv code="sklv3" info="skill#2.lv#3.info" rang="" unlock="elite_1" sp="6/0" />
+    <s_lv code="sklv4" info="skill#2.lv#4.info" rang="" unlock="elite_1" sp="6/0" />
+    <s_lv code="sklv5" info="skill#2.lv#5.info" rang="" unlock="elite_1" sp="6/0" />
+    <s_lv code="sklv6" info="skill#2.lv#6.info" rang="" unlock="elite_1" sp="5/0" />
+    <s_lv code="sklv7" info="skill#2.lv#7.info" rang="" unlock="elite_2" sp="5/0" material="4.SKILL=8/4.MNG=4/3.DIV=4" count="8/4/4" />
+    <s_lv code="sklv8" info="skill#2.lv#8.info" rang="" unlock="elite_2" sp="5/0" material="4.SKILL=12/4.ALY=4/4.RMA=8" count="12/4/8" />
+    <s_lv code="sklv9" info="skill#2.lv#9.info" rang="" unlock="elite_2" sp="4/0" material="4.SKILL=15/5.D32=6/4.ALK=7" count="15/6/7" />
+  </skill>
+  <skill id="2" code="skill_icon_bagpipe_3" name="skill#3.name" unlock="elite_2" type="sp_auto/tr_manu"
+         tags="skill#3.tags"
+         menu="sklv0,sklv1,sklv2,sklv3,sklv4,sklv5,sklv6,sklv7,sklv8,sklv9"
+         ui="icon=skill#3.icon" >
+    <s_lv code="sklv0" info="skill#3.lv#0.info" rang="" lv_n="elite_2" sp="40/9" />
+    <s_lv code="sklv1" info="skill#3.lv#1.info" rang="" lv_n="elite_2" sp="40/10" material="2.SKILL=5" count="5"/>
+    <s_lv code="sklv2" info="skill#3.lv#2.info" rang="" lv_n="elite_2" sp="40/11" material="2.SKILL=5/1.PLY=6/1.ORI=4" count="5/6/4" />
+    <s_lv code="sklv3" info="skill#3.lv#3.info" rang="" lv_n="elite_2" sp="40/12" />
+    <s_lv code="sklv4" info="skill#3.lv#4.info" rang="" lv_n="elite_2" sp="40/13" />
+    <s_lv code="sklv5" info="skill#3.lv#5.info" rang="" lv_n="elite_2" sp="40/14" />
+    <s_lv code="sklv6" info="skill#3.lv#6.info" rang="" lv_n="elite_2" sp="40/15" />
+    <s_lv code="sklv7" info="skill#3.lv#7.info" rang="" lv_n="elite_2" sp="40/18" material="4.SKILL=8/4.GST=4/3.ALK=7" count="8/4/7" />
+    <s_lv code="sklv8" info="skill#3.lv#8.info" rang="" lv_n="elite_2" sp="40/21" material="4.SKILL=12/4.GEL=4/4.RCK=10" count="12/4/10" />
+    <s_lv code="sklv9" info="skill#3.lv#9.info" rang="" lv_n="elite_2" sp="40/25" material="4.SKILL=15/5.BIP=6/4.ORI=4" count="15/6/4" /> 
+  </skill>
+
+	
+	<list-string tag="header">
+		<string value="audio-country=cn/kr" ></string>
+	</list-string>
+	
+  <list-audio tag="audio">
+		<string value="audio=audio#$countrycode/character/bagpipe/001.mp3,name=character.audio.assistant.title,info=character.audio.assistant.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/002.mp3,name=character.audio.talk#1.title,info=character.audio.talk#1.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/003.mp3,name=character.audio.talk#2.title,info=character.audio.talk#2.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/004.mp3,name=character.audio.talk#3.title,info=character.audio.talk#3.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/005.mp3,name=character.audio.promotion#1.talk.title,info=character.audio.promotion#1.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/006.mp3,name=character.audio.promotion#2.talk.title,info=character.audio.promotion#2.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/007.mp3,name=character.audio.trust#1.talk.title,info=character.audio.trust#1.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/008.mp3,name=character.audio.trust#2.talk.title,info=character.audio.trust#2.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/009.mp3,name=character.audio.trust#3.talk.title,info=character.audio.trust#3.talk.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/010.mp3,name=character.audio.idle.title,info=character.audio.idle.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/011.mp3,name=character.audio.onboard.title,info=character.audio.onboard.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/012.mp3,name=character.audio.battlerecord.title,info=character.audio.battlerecord.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/013.mp3,name=character.audio.promotion#1.title,info=character.audio.promotion#1.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/014.mp3,name=character.audio.promotion#2.title,info=character.audio.promotion#2.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/017.mp3,name=character.audio.squad:add.title,info=character.audio.squad:add.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/018.mp3,name=character.audio.squad.leader.title,info=character.audio.squad.leader.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/019.mp3,name=character.audio.depart.title,info=character.audio.depart.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/020.mp3,name=character.audio.operation.begin.title,info=character.audio.operation.begin.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/021.mp3,name=character.audio.operation.operator:select#1.title,info=character.audio.operation.operator:select#1.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/022.mp3,name=character.audio.operation.operator:select#2.title,info=character.audio.operation.operator:select#2.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/023.mp3,name=character.audio.deployment#1.title,info=character.audio.deployment#1.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/024.mp3,name=character.audio.deployment#2.title,info=character.audio.deployment#2.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/025.mp3,name=character.audio.battle#1.title,info=character.audio.battle#1.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/026.mp3,name=character.audio.battle#2.title,info=character.audio.battle#2.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/027.mp3,name=character.audio.battle#3.title,info=character.audio.battle#3.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/028.mp3,name=character.audio.battle#4.title,info=character.audio.battle#4.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/029.mp3,name=character.audio.operation.result.4star.title,info=character.audio.operation.result.4star.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/030.mp3,name=character.audio.operation.result.3star.title,info=character.audio.operation.result.3star.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/031.mp3,name=character.audio.operation.result.sub.title,info=character.audio.operation.result.sub.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/032.mp3,name=character.audio.operation.result.failure.title,info=character.audio.operation.result.failure.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/033.mp3,name=character.audio.facility:assigned.title,info=character.audio.facility:assigned.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/034.mp3,name=character.audio.tap.title,info=character.audio.tap.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/036.mp3,name=character.audio.trust.tap.title,info=character.audio.trust.tap.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/037.mp3,name=character.audio.arknights.title,info=character.audio.arknights.info" />
+		<string value="audio=audio#$countrycode/character/bagpipe/042.mp3,name=character.audio.greeting.title,info=character.audio.greeting.info" />
+	</list-audio>
+</root>

@@ -1,0 +1,143 @@
+{
+    "style": {
+        "stat_RowBox": "elevation: 12; padding:hrzAll(8); mainSize:max; mainAlignment:between; color:#363636; borderSize: 0; borderRadius: 4;",
+        "stat_Text": "width: 80; color:#ffffff,#000000; fontSize: 14;"
+    },
+    "widget": {
+        "template": {
+            "infraView:Column": {
+                "builder": {
+                    "key": "key",
+                    "icon": "icon",
+                    "name": "name",
+                    "info": "info",
+                    "level": "level"
+                },
+                "active": "null(&name)",
+                "style": "crossAlignment:start; spacing: 4;",
+                "1:RowIconText": {
+                    "style": "",
+                    "icon": "&icon",
+                    "text": "&name",
+                    "0:NumberIndex": {
+                        "key": "&key",
+                        "style": "width: 24; height: 24; length:&level; start: 1; spacing: 8;",
+                        "titleStyle": "fontSize: 14;",
+                        "title": "레벨",
+                        "iconStyle": ""
+                    }
+                },
+                "2:TextBox": {
+                    "style": "",
+                    "boxStyle": "padding: 32,0,0,0;",
+                    "text": "&info"
+                }
+            }
+        },
+        ">ColumnTitle?": {
+            "style": "padding: 8,8,8,8; color:#ffffff,#dddddd; spacing: 36;",
+            "title": "Title",
+            "0:ColumnTitle": {
+                "style": "titleSpacing: 12; ",
+                "titleStyle": "fontSize: 20",
+                "title": "캐릭터 정보 홍수진",
+                "0:Column": {
+                    "style": "crossAlignment:start; spacing: 8;",
+                    "50:Row": {
+                        "style": "spacing: 12",
+                        "11:Text": {
+                            "style": "color:#ffffff; fontSize: 18",
+                            "text": "★★★★★★" 
+                        },
+                        "1:TextBox": {
+                            "style": "color:#ffffff; fontSize: 12",
+                            "text": "flant-name"
+                        },
+                        "2:TextBox": {
+                            "style": "color:#ffffff; fontSize: 12",
+                            "text": "빅토리아"
+                        }
+                    },
+                    "0:RowContainer": {
+                        "style": "spacing: 12",
+                        "0:Row": {
+                            "style": "spacing: 4",
+                            "12:ImageCo": {
+                                "style": "elevation: 18; round: 2; width: 74; height: 74; backgroundColor:#ffffff",
+                                "image": "address://icon++/character/absinthe.png"
+                            },
+                            "9:Column": {
+                                "style": "crossAlignment:start; spacing: 4;",
+                                "7:ImageCo": {
+                                    "style": "elevation: 18; round: 2; width: 36; height: 36; backgroundColor:#000000",
+                                    "image": "address://icon++/class/class_vanguard.png"
+                                },
+                                "8:ImageCo": {
+                                    "style": "elevation: 18; round: 2; width: 36; height: 36; backgroundColor:#000000",
+                                    "image": "address://icon++/group/group_icon_victoria.png"
+                                }
+                            }
+                        },
+                        "1:Column": {
+                            "style": "crossAlignment:start; spacing: 8",
+                            "0:Text": {
+                                "style": "color:#ffffff; fontSize: 18",
+                                "text": "백파이프"
+                            },
+                            "50:Row": {
+                                "style": "spacing: 12",
+                                "1:TextBox": {
+                                    "style": "color:#ffffff; fontSize: 12",
+                                    "text": "여성"
+                                },
+                                "2:TextBox": {
+                                    "style": "color:#ffffff; fontSize: 12",
+                                    "text": "근거리"
+                                }
+                            },
+                            "3:Row": {
+                                "style": "spacing: 4",
+                                "1:TextBox": {
+                                    "style": "color:#ffffff; fontSize: 12",
+                                    "boxStyle": "padding:4,2,4,2; color:#64CD3C;",
+                                    "text": "DP-Recovery"
+                                },
+                                "2:TextBox": {
+                                    "style": "color:#ffffff; fontSize: 12",
+                                    "boxStyle": "padding: 4,2,4,2; color:#FFD228; round: 2;",
+                                    "text": "DPS"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "translator": {
+        "kr": {
+            "flant-name": "튤립",
+            "title-talent": "재능",
+            "potential#0-info": "배치 비용 -1",
+            "potential#1-info": "첫 번째 재능 향상(+3%)",
+            "potential#2-info": "공격력 +25",
+            "potential#3-info": "두 번째 재능 향상(+2)",
+            "potential#4-info": "배치 비용 -1",
+
+            "infra#0-lv#0-open": "초기",
+            "infra#0-lv#0-target": "숙소",
+            "infra#0-lv#0-name": "농요",
+            "infra#0-lv#0-info": "숙소에 배치 시, 자신의 컨디션 회복 속도 +0.55; 동시에 해당 숙소 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도 +0.1(동종효과 중 가장 높은 수치만 적용)",
+            "infra#1-lv#0-open": "2차 정예화",
+            "infra#1-lv#0-target": "가공소",
+            "infra#1-lv#0-name": "훈련 만전",
+            "infra#1-lv#0-info": "가공소에 배치 후 칩 가공 시, 부산물 산출 확률 +80%"
+        }
+    },
+    "address": {
+        "icon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/",
+        "iconAAA": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/material/mat_5_bipolar.png",
+        "iconBBB": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/frame.item/item-5.png",
+        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
+    }
+}

@@ -1,0 +1,173 @@
+<!-- fultter html -->
+<html>
+  <head>
+    <style type='text/css'>
+    </style>
+  </head>
+  <body>
+    <container width='512' padding='14,8,14,8' >
+      <column>
+        <text color='title' font-size='16'>프로필</text>
+        <text color='normal'>빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.</text>
+        <container height='18' ></container>
+
+        <container>
+          <row cross-axis='start'>
+            <container width='165' height='180' align='top-center'>
+              <column>
+                <text color='title' font-size='16'>기본정보</text>
+                <container padding='0,4,0,0' >
+                  <row>
+                    <container width='74' padding='0,0,0,0' align='center-left'>
+                      <text color='title'>코드네임</text>
+                    </container>
+                    <container width='74' padding='0,0,0,0' align='center-right'>
+                      <text color='normal'>백파이프</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' padding='0,0,0,0' align='center-left'>
+                      <text color='title'>성별</text>
+                    </container>
+                    <container width='74' padding='0,0,0,0' align='center-right'>
+                      <text color='normal'>여성</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>종족</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>와이번</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>출신지</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>빅토리아</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>생일</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>7월 17일</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>전투 경험</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>5년</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='74' align='center-left'>
+                      <text color='title'>신장</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>162cm</text>
+                    </container>
+                  </row>
+                </container>
+              </column>
+            </container>
+            <sizebox width='18' ></sizebox>
+            <container width='165' height='180' align='top-center'>
+              <column>
+                <text color='title' font-size='16'>종합검진</text>
+                <container padding='0,4,0,0'>
+                  <row>
+                    <container width='86' align='center-left'>
+                      <text color='title'>물리적 강도</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>우수</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='86' align='center-left'>
+                      <text color='title'>전장 기동력</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>표준</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='86' align='center-left'>
+                      <text color='title'>생체 인내도</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>우수</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='86' align='center-left'>
+                      <text color='title'>전술 계획력</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>표준</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='86' align='center-left'>
+                      <text color='title'>전투 기술력</text>
+                    </container>
+                    <container width='74' align='center-right'>
+                      <text color='normal'>우수</text>
+                    </container>
+                  </row>
+                  <row>
+                    <container width='120' align='center-left'>
+                      <text color='title' font-size='12'>오리지늄 아츠 적응성</text>
+                    </container>
+                    <container width='40' align='center-right'>
+                      <text color='normal'>표준</text>
+                    </container>
+                  </row>
+                </container>
+              </column>
+            </container>
+          </row>
+        </container>
+        <text color='title' font-size='14'>광석병 감염 상황</text>
+        <text color='normal'>의학적 검사 보고서를 참고, 비감염자로 확인됨.</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>임상 진단 분석</text>
+        <text color='normal'>방사선 검사 결과, 해당 오퍼레이터의 내장 기관의 윤곽이 선명하고, 비정상적 음영이 발견되지 않음, 순환 계통 내 오리지늄 입자 검사 이상 없음, 광석병 감염 현상 없음, 현단계로선 광석병 비감염자로 확인됨.
+
+[체세포와 오리지늄 융합률] 0%
+오퍼레이터 백파이프는 오리지늄에 감염된 흔적이 없음.
+
+[혈중 오리지늄 결정 밀도] 0.11u
+오퍼레이터 백파이프는 오리지늄과의 접촉 빈도가 매우 낮음.
+
+아무리 와이번이라지만 이 아가씨의 신체는 내가 본 것 중에서도 수위를 다툴 정도로 훌륭해. 만약 그녀가 정말로 광석병에 감염된다면…… 심지어 광석병에 저항할 수도 있지 않을까 하는 생각을 할 정도라니까? 그래, 아마 안되겠지. 해보자고? 아니, 안돼.
+——와파린</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#1.title</text>
+        <text color='normal'>#ts#profile.file#1.info</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#2.title</text>
+        <text color='normal'>#ts#profile.file#2.info</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#3.title</text>
+        <text color='normal'>#ts#profile.file#3.info</text>
+
+        <container height='24' ></container>
+        <text color='title' font-size='16'>#ts#profile.file#4.title</text>
+        <text color='normal'>#ts#profile.file#4.info</text>
+      </column>
+    </container>
+  </body>
+</html>
+
+
