@@ -5,38 +5,28 @@
     },
     "widget": {
         "template": {
-            "talentView:Column": {
+            "item:TextButton": {
                 "active": "null(&name)",
                 "style": "crossAlignment:start; spacing:8;",
-                "0:RowIconText": {
+                "0:Column": {
                     "style": "textColor:#ffffff;",
-                    "icon": "&icon",
-                    "text": "&name",
-                    "0:NumberIndex": {
-                        "key": "&key",
-                        "style": "width:20; height:20; length:&level; start:1; spacing:8;",
-                        "titleStyle": "fontSize:14;",
-                        "title": "레벨",
-                        "iconStyle": ""
+                    "0:NetImage": {
+                        "style": "textColor:#ffffff;",
+                        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/games/arknights/asset/icon/character/absinthe.png"
+                    },
+                    "1:TextBox": {
+                        "style": "textColor:#ffffff;",
+                        "text": "백파이프"
                     }
-                },
-                "1:TextBox": {
-                    "style": "fontSize:12; color:#c8c8c8;",
-                    "boxStyle": "padding:32,0,0,0;",
-                    "text": "1차 정예화 후 해금"
-                },
-                "2:TextBox": {
-                    "style": "fontSize:14; color:#9c9fa4;",
-                    "boxStyle": "padding:32,0,0,0;",
-                    "text": "&info"
                 }
             }
         },
         "header": {
             "title": ""
         },
-        "0:MainColumn": {
-            "style": ""
+        "0:GridView": {
+            "style": "",
+            "0:item": {}
         }
     },
     "value": {
