@@ -5,27 +5,6 @@
     },
     "widget": {
         "template": {
-            "infraView:Column": {
-                "active": "null(&name)",
-                "style": "crossAlignment:start; spacing:4;",
-                "1:RowIconText": {
-                    "style": "",
-                    "icon": "&icon",
-                    "text": "&name",
-                    "0:NumberIndex": {
-                        "key": "&key",
-                        "style": "width:20; height:20; length:&level; start:1; spacing:8;",
-                        "titleStyle": "fontSize:14;",
-                        "title": "레벨",
-                        "iconStyle": ""
-                    }
-                },
-                "2:TextBox": {
-                    "style": "fontSize:14; color:#9c9fa4;",
-                    "boxStyle": "padding:32,0,0,0;",
-                    "text": "&info"
-                }
-            },
             "talentView:Column": {
                 "active": "null(&name)",
                 "style": "crossAlignment:start; spacing:8;",
@@ -44,13 +23,13 @@
                 "1:TextBox": {
                     "style": "fontSize:12; color:#c8c8c8;",
                     "boxStyle": "padding:32,0,0,0;",
-                    "text": "1차 정예화 후 해금",
+                    "text": "1차 정예화 후 해금"
                 },
                 "2:TextBox": {
                     "style": "fontSize:14; color:#9c9fa4;",
                     "boxStyle": "padding:32,0,0,0;",
-                    "text": "&info",
-                },
+                    "text": "&info"
+                }
             }
         },
         "header": {
