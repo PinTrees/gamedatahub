@@ -6,17 +6,44 @@
     "widget": {
         "template": {
             "item:TextButton": {
-                "active": "null(&name)",
-                "style": "crossAlignment:start; spacing:8;",
+                "style": " round:4",
+                "onPressed": "",
                 "0:Column": {
-                    "style": "textColor:#ffffff;",
-                    "0:NetImage": {
-                        "style": "textColor:#ffffff;",
-                        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/games/arknights/asset/icon/character/absinthe.png"
+                    "style": "crossAlignment:start;",
+                    "0:Container": {
+                        "style": "width:100; height:100",
+                        "0:Image": {
+                            "style": "elevation:18; width:100; height:100; round:4; backgroundColor:#99111111",
+                            "image": "&icon"
+                        }
                     },
-                    "1:TextBox": {
-                        "style": "textColor:#ffffff;",
-                        "text": "백파이프"
+                    "11:Row": {
+                        "style": "mainSize:min; spacing:4",
+                        "0:Image": {
+                            "style": "width:24; height:24; round:4;",
+                            "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/games/arknights/asset/icon/class/class_vanguard.png"
+                        },
+                        "1:Image": {
+                            "style": "width:24; height:24; round:4;",
+                            "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/games/arknights/asset/icon/group/group_icon_victoria.png"
+                        },
+                        "22:TextBox": {
+                            "style": "height:24; textColor:#ffffff; fontSize:14;",
+                            "text": ""
+                        }
+                    },
+                    "111:Container": {
+                        "style": "width:100;",
+                        "11:Row": {
+                            "style": "mainSize:min; spacing:4",
+                            "2:Box": {
+                                "style": "width:4; height:18; color:#e66722; round:4;"
+                            },
+                            "22:TextBox": {
+                                "style": "width:90; height:24; textColor:#ffffff; alignment:centerLeft; autoSize:true; fontSize:14;",
+                                "text": "&title"
+                            }
+                        }
                     }
                 }
             }
@@ -24,124 +51,47 @@
         "header": {
             "title": ""
         },
-        "0:GridView": {
-            "style": "",
-            "0:item": {}
+        "0:Wrap": {
+            "style": "padding:12,12,12,12; crossSpacing:8; mainSpacing:12; crossCount:4; ratioW:3; ratioH:4; ",
+            "0:item": {
+                "title": "에이야퍄들라",
+                "icon": "*char#0-icon"
+            },
+            "1:item": {
+                "title": "스카디 더 커럽팅 하트",
+                "icon": "*char#1-icon"
+            },
+            "2:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "3:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "4:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "5:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "6:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            }
         }
     },
     "value": {
-        "elite-count": "3",
-        "skill-count": "3",
-        "skill#0-level-max": "10",
-        "skill#1-level-max": "10",
-        "skill#2-level-max": "10",
-        "module#0-up-mat#0-code": "5_mdb",
-        "module#0-up-mat#0-rare": "5",
-        "module#0-up-mat#0-count": "4",
-        "module#0-up-mat#1-code": "5_d32s",
-        "module#0-up-mat#1-rare": "5",
-        "module#0-up-mat#1-count": "2",
-        "module#0-up-mat#2-code": "gold",
-        "module#0-up-mat#2-rare": "4",
-        "module#0-up-mat#2-count": "8000"
+        "char#0-icon": "address://charicon++/aak.png",
+        "char#1-icon": "address://charicon++/andreana.png"
     },
     "translator": {
-        "kr": {
-            "title-talent": "재능",
-            "profile-info": "빅토리아 로열 가드 스쿨을 졸업하고 빅토리아 군대에서 3년 간 복무하다 퇴역 후 첸 팀장의 소개로 로도스 아일랜드에 합류했다. 체계적인 훈련을 받은 직업 군인이며, 잠시간의 적응 기간을 거친 후 로도스 아일랜드의 각종 임무에서 전문적인 전투 기술과 전술 소양을 보여주었다.",
-            "traits-info": "적 처치 시 배치 코스트 +1, 퇴각 시 초기 배치 코스트 반환",
-            "title-status-hp": "체력",
-            "title-status-atk": "공격력",
-            "title-status-def": "방어력",
-            "title-status-mdef": "마법 저항력",
-            "status#0-lv": "1,50",
-            "status#1-lv": "1,80",
-            "status#2-lv": "1,90",
-            "status#0-lv-max": "50",
-            "status#1-lv-max": "80",
-            "status#2-lv-max": "90",
-            "status#0-hp": "975,1355",
-            "status#0-atk": "250,369",
-            "status#0-def": "173,241",
-            "status#0-mdef": "0,0",
-            "status#1-hp": "1355,1738",
-            "status#1-atk": "369,492",
-            "status#1-def": "241,313",
-            "status#1-mdef": "0,0",
-            "status#2-hp": "1738,2484",
-            "status#2-atk": "492,586",
-            "status#2-def": "313,382",
-            "status#2-mdef": "0,0",
-            "elite#1-upgrade-mat#0-code": "gold",
-            "elite#1-upgrade-mat#0-rare": "4",
-            "elite#1-upgrade-mat#0-name": "용문폐",
-            "elite#1-upgrade-mat#0-count": "30000",
-            "elite#1-upgrade-mat#1-code": "chip_vgd1",
-            "elite#1-upgrade-mat#1-rare": "3",
-            "elite#1-upgrade-mat#1-name": "뱅가드 칩",
-            "elite#1-upgrade-mat#1-count": "5",
-            "elite#1-upgrade-mat#2-code": "2_poly",
-            "elite#1-upgrade-mat#2-rare": "2",
-            "elite#1-upgrade-mat#2-name": "폴리에스테르",
-            "elite#1-upgrade-mat#2-count": "10",
-            "elite#1-upgrade-mat#3-code": "2_kton",
-            "elite#1-upgrade-mat#3-rare": "2",
-            "elite#1-upgrade-mat#3-name": "아케톤 응집체",
-            "elite#1-upgrade-mat#3-count": "3",
-            "elite#2-upgrade-mat#0-code": "gold",
-            "elite#2-upgrade-mat#0-rare": "4",
-            "elite#2-upgrade-mat#0-name": "용문폐",
-            "elite#2-upgrade-mat#0-count": "180000",
-            "elite#2-upgrade-mat#1-code": "chip_vgd3",
-            "elite#2-upgrade-mat#1-rare": "5",
-            "elite#2-upgrade-mat#1-name": "뱅가드 듀얼 칩",
-            "elite#2-upgrade-mat#1-count": "4",
-            "elite#2-upgrade-mat#2-code": "5_poly",
-            "elite#2-upgrade-mat#2-rare": "5",
-            "elite#2-upgrade-mat#2-name": "중합제",
-            "elite#2-upgrade-mat#2-count": "4",
-            "elite#2-upgrade-mat#3-code": "4_rock",
-            "elite#2-upgrade-mat#3-rare": "4",
-            "elite#2-upgrade-mat#3-name": "정제 원암",
-            "elite#2-upgrade-mat#3-count": "9",
-            "potential#0-info": "배치 비용 -1",
-            "potential#1-info": "첫 번째 재능 향상(+3%)",
-            "potential#2-info": "공격력 +25",
-            "potential#3-info": "두 번째 재능 향상(+2)",
-            "potential#4-info": "배치 비용 -1",
-            "talent#0-lv#0-name": "정밀 장전",
-            "talent#0-lv#0-info": "매 공격이 25% 확률로 공격력이 110% 까지 상승하고, 1명을 추가로 공격",
-            "talent#0-lv#1-name": "정밀 장전",
-            "talent#0-lv#1-info": "매 공격이 25% 확률로 공격력이 130% 까지 상승하고, 1명을 추가로 공격",
-            "talent#1-lv#0-name": "군사 전통",
-            "talent#1-lv#0-info": "팀 내 모든 [뱅가드] 오퍼레이터의 초기 SP +6",
-            "infra#0-lv#0-open": "초기",
-            "infra#0-lv#0-target": "숙소",
-            "infra#0-lv#0-name": "농요",
-            "infra#0-lv#0-info": "숙소에 배치 시, 자신의 컨디션 회복 속도 +0.55; 동시에 해당 숙소 안에 배치된 모든 오퍼레이터의 시간당 컨디션 회복 속도 +0.1(동종효과 중 가장 높은 수치만 적용)",
-            "infra#1-lv#0-open": "2차 정예화",
-            "infra#1-lv#0-target": "가공소",
-            "infra#1-lv#0-name": "훈련 만전",
-            "infra#1-lv#0-info": "가공소에 배치 후 칩 가공 시, 부산물 산출 확률 +80%",
-            "skill#0-charge": "자동 회복",
-            "skill#0-active": "자동 발동",
-            "skill#0-type": " 패시브",
-            "skill#0-name": "신속공격γ",
-            "skill#0-lv#0-info": "공격력 +20%, 공격 속도 +20",
-            "skill#0-lv#0-duration": "35",
-            "skill#0-lv#0-sp#0": "35",
-            "skill#0-lv#0-sp#1": "35",
-            "skill#0-lv#1-mat#0-code": "5_d32s",
-            "skill#0-lv#1-mat#0-rare": "5",
-            "skill#0-lv#1-mat#0-name": "용문폐",
-            "skill#0-lv#1-mat#0-count": "5",
-            "module#0-up-mat#0-name": "모듈 데이터 블록",
-            "module#0-up-mat#1-name": "D32강",
-            "module#0-up-mat#2-name": "용문폐"
-        }
+        "kr": {}
     },
     "address": {
-        "icon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/",
+        "charicon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/character/",
         "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
     }
 }
