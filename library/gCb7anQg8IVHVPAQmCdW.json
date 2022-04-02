@@ -7,7 +7,7 @@
         "template": {
             "item:TextButton": {
                 "style": " round:4",
-                "onPressed": "",
+                "onPressed": "openPageT(address://git++/document/main/ymPcAeNdRjdGu6FYGH13.json);",
                 "0:Column": {
                     "style": "crossAlignment:start;",
                     "0:Container": {
@@ -91,6 +91,7 @@
         "kr": {}
     },
     "address": {
+        "git": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/",
         "charicon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/character/",
         "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
     }
