@@ -51,7 +51,18 @@
         "header": {
             "title": ""
         },
-        "0:Wrap": {
+        "0:MainColumn": {
+            "style": "",
+            "0:ColumnTitle": {
+                "style": "",
+                "titleStyle": "fontSize:20",
+                "title": "게임 소개",
+                "0:YoutubePlayer": {
+                    "style": ""
+                }
+            }
+        },
+        "1:Wrap": {
             "style": "padding:12,12,12,12; crossSpacing:8; mainSpacing:12; crossCount:4; ratioW:3; ratioH:4; ",
             "0:item": {
                 "title": "에이야퍄들라",
