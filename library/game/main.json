@@ -69,11 +69,11 @@
                         "style": "height:4;"
                     },
                     "1:Text": {
-                        "style": "fontWeight:bold; fontSize:14; color:#006de8;",
+                        "style": "fontWeight:bold; fontSize:15; color:#006de8;",
                         "text": "Yostar Limite"
                     },
                     "2:Text": {
-                        "style": "fontSize:14; color:#9c9fa4;",
+                        "style": "fontSize:13; color:#9c9fa4;",
                         "text": "모바일"
                     }
                 }
@@ -101,47 +101,44 @@
                 "12:RowBox": {
                     "style": "spacing:8;",
                     "0:Image": {
-                        "style": "round:8; width:24; height:24; elevation:4;",
+                        "style": "round:8; width:20; height:20; elevation:4;",
                         "asset": "assets/images/googleplay.png"
                     },
                     "1:Image": {
-                        "style": "round:8; width:24; height:24; elevation:4;",
+                        "style": "round:8; width:20; height:20; elevation:4;",
                         "asset": "assets/images/galaxystore.png"
                     },
                     "2:Image": {
-                        "style": "round:8; width:24; height:24; elevation:4;",
+                        "style": "round:8; width:20; height:20; elevation:4;",
                         "asset": "assets/images/onestore.png"
                     },
                     "3:Image": {
-                        "style": "round:8; width:24; height:24; elevation:4;",
+                        "style": "round:8; width:20; height:20; elevation:4;",
                         "asset": "assets/images/appstore.png"
                     }
-                },
-                "11:SizeBox": {
-                    "style": "height:8"
-                },
-                "2:ColumnTitle": {
-                    "style": "titleSpacing:8;",
-                    "titleStyle": "fontSize:16",
-                    "title": "명일방주 정보",
-                    "0:TextButton": {
-                        "style": "round:4; color:#006de8; elevation:18;",
-                        "onPressed": "openPageT(storage://library/game/dUm3RqwfRmwd0HxHbODZ.json);",
-                        "0:Row": {
-                            "style": "mainAlignment:center;",
-                            "1:TextBox": {
-                                "style": "fontSize:14; color:#ffffff;",
-                                "text": "명일방주 만상서고 보러가기"
-                            },
-                            "11:SizeBox": {
-                                "style": "width:1; height:40"
-                            }
+                }
+            },
+            "526:ColumnTitle": {
+                "style": "titleSpacing:8;",
+                "titleStyle": "fontSize:16",
+                "title": "명일방주 정보",
+                "0:TextButton": {
+                    "style": "round:4; color:#006de8; elevation:18;",
+                    "onPressed": "openPageT(storage://category/game/arknights/library.json);",
+                    "0:Row": {
+                        "style": "mainAlignment:center;",
+                        "1:TextBox": {
+                            "style": "fontSize:14; color:#ffffff;",
+                            "text": "명일방주 만상서고 보러가기"
+                        },
+                        "11:SizeBox": {
+                            "style": "width:1; height:40"
                         }
-                    },
-                    "562:Text": {
-                        "style": "maxLines:3; fontSize:12; color:#9c9fa4;",
-                        "text": "명일방주를 정리한 기록물입니다. 일부 정보가 없거나 정보에 오류가 있을 수 있습니다."
                     }
+                },
+                "562:Text": {
+                    "style": "maxLines:3; fontSize:12; color:#9c9fa4;",
+                    "text": "명일방주를 정리한 기록물입니다. 일부 정보가 없거나 정보에 오류가 있을 수 있습니다."
                 }
             },
             "1:ColumnTitle": {

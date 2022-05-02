@@ -1,0 +1,107 @@
+{
+    "style": {
+        "stat_RowBox": "elevation:12; padding:hrzAll(8); mainSize:max; mainAlignment:between; color:#363636; borderSize:0; borderRadius:4;",
+        "stat_Text": "width:80; color:#ffffff,#000000; fontSize:14;"
+    },
+    "widget": {
+        "template": {
+            "item:TextButton": {
+                "style": " round:4",
+                "onPressed": "openPageT(firestore://library/document/main/ymPcAeNdRjdGu6FYGH13);",
+                "0:Column": {
+                    "style": "crossAlignment:start;",
+                    "0:Container": {
+                        "style": "width:100; height:100",
+                        "0:Image": {
+                            "style": "elevation:18; width:100; height:100; round:4; backgroundColor:#99111111",
+                            "image": "&icon"
+                        }
+                    },
+                    "11:Row": {
+                        "style": "mainSize:min; spacing:4",
+                        "0:Image": {
+                            "style": "width:24; height:24; round:4;",
+                            "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/games/arknights/asset/icon/class/class_vanguard.png"
+                        },
+                        "1:Image": {
+                            "style": "width:24; height:24; round:4;",
+                            "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/games/arknights/asset/icon/group/group_icon_victoria.png"
+                        },
+                        "22:TextBox": {
+                            "style": "height:24; textColor:#ffffff; fontSize:14;",
+                            "text": ""
+                        }
+                    },
+                    "111:Container": {
+                        "style": "width:100;",
+                        "11:Row": {
+                            "style": "mainSize:min; spacing:4",
+                            "2:Box": {
+                                "style": "width:4; height:18; color:#e66722; round:4;"
+                            },
+                            "22:TextBox": {
+                                "style": "width:90; height:24; textColor:#ffffff; alignment:centerLeft; autoSize:true; fontSize:14;",
+                                "text": "&title"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "header": {
+            "title": ""
+        },
+        "0:Wrap": {
+            "style": "padding:12,12,12,12; crossSpacing:8; mainSpacing:12; crossCount:4; ratioW:3; ratioH:4; ",
+            "0:item": {
+                "title": "에이야퍄들라",
+                "icon": "*char#1-icon"
+            },
+            "1:item": {
+                "title": "스카디 더 커럽팅 하트",
+                "icon": "*char#1-icon"
+            },
+            "2:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "3:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "4:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "5:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            },
+            "6:item": {
+                "title": "백파이프",
+                "icon": "*char#1-icon"
+            }
+        }
+    },
+    "value": {
+        "class-vangard-icon": "address://charicon++/aak.png",
+        "class-gard-icon": "address://charicon++/aak.png",
+        "class-caster-icon": "address://charicon++/aak.png",
+        "class-defender-icon": "address://charicon++/aak.png",
+        "vangard-char#0-name": "백파이프",
+        "vangard-char#1-name": "백파이프",
+        "char#0-icon": "address://charicon++/aak.png",
+        "char#1-icon": "address://charicon++/andreana.png"
+    },
+    "translator": {
+        "kr": {
+            "vangard-char#0-name": "백파이프",
+            "char#1-name": "스카디 더 커럽팅 하트"
+        }
+    },
+    "address": {
+        "git": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/",
+        "charicon": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/icon/character/",
+        "image": "https://raw.githubusercontent.com/PinTrees/gamedatahub/master/arknights/asset/image/"
+    }
+}

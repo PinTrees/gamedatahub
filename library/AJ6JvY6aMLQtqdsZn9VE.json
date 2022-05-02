@@ -81,7 +81,7 @@
             "5123:Column": {
                 "style": "spacing:4;",
                 "919:TextButton": {
-                    "style": "round:4; color:#0d6430; elevation:18;",
+                    "style": "round:8; color:#0d6430; elevation:18;",
                     "onPressed": "openUrl(https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights&hl=ko&gl=US);",
                     "0:Row": {
                         "style": "mainAlignment:center; round:8; color:#0d6430; elevation:18;",
@@ -90,7 +90,7 @@
                             "asset": "assets/images/googleplay.png"
                         },
                         "11:SizeBox": {
-                            "style": "width:8; height:40"
+                            "style": "width:8; height:42"
                         },
                         "1:TextBox": {
                             "style": "fontSize:14; color:#ffffff;",
@@ -125,8 +125,8 @@
                     "titleStyle": "fontSize:16",
                     "title": "명일방주 정보",
                     "0:TextButton": {
-                        "style": "round:4; color:#006de8; elevation:18;",
-                        "onPressed": "openPageT(storage://library/game/dUm3RqwfRmwd0HxHbODZ.json);",
+                        "style": "round:8; color:#006de8; elevation:18;",
+                        "onPressed": "openUrl(https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights&hl=ko&gl=US);",
                         "0:Row": {
                             "style": "mainAlignment:center;",
                             "1:TextBox": {
@@ -134,7 +134,7 @@
                                 "text": "명일방주 만상서고 보러가기"
                             },
                             "11:SizeBox": {
-                                "style": "width:1; height:40"
+                                "style": "width:1; height:42"
                             }
                         }
                     },
